@@ -5,22 +5,23 @@
     "unit": "polynomial-rational",
     "topic": "rates-of-change",
     "title": {
-      "en": "Cooling Rate",
-      "ja": "冷却の変化率"
+      "en": "Bird Population Forecast",
+      "ja": "鳥の個体数予測"
     },
-    "difficulty": 2,
-    "questionType": "calculation",
+    "difficulty": 3,
+    "questionType": "free-response",
     "question": {
-      "en": "A drink's temperature is modeled by $T(t)=72-4t+0.2t^2$ degrees Celsius for $0\\le t\\le10$. Find the average rate of change from $t=2$ to $t=6$ and interpret it.",
-      "ja": "飲み物の温度が $0\\le t\\le10$ で $T(t)=72-4t+0.2t^2$ ℃と表されます。$t=2$ から $t=6$ までの平均変化率を求め、意味を説明してください。"
+      "en": "A monitoring station recorded 84 nesting birds at $t=1$ and 204 nesting birds at $t=5$, where $t$ is the number of years after monitoring began. The population is modeled by $B(t)=ab^t$.\n\n(a) Find the average rate of change of the population from $t=1$ to $t=5$.\n\n(b) Use this average rate to make a linear estimate for $B(7)$.\n\n(c) The fitted exponential model has $b>1$. Explain whether, for sufficiently large $t$, its prediction will be above or below the linear estimate.",
+      "ja": "観測開始から $t$ 年後の営巣する鳥の個体数について、$t=1$ で84羽、$t=5$ で204羽が記録されました。個体数は $B(t)=ab^t$ でモデル化されます。\n\n(a) $t=1$ から $t=5$ までの平均変化率を求めなさい。\n\n(b) この平均変化率を用いて $B(7)$ を線形に推定しなさい。\n\n(c) 当てはめた指数モデルでは $b>1$ です。十分大きな $t$ において、指数モデルの予測が線形推定より上か下かを説明しなさい。"
     },
     "solution": {
-      "en": "$T(2)=64.8$ and $T(6)=55.2$. Thus\n$$\\frac{55.2-64.8}{6-2}=-2.4.$$\nThe drink cools by an average of $2.4^\\circ$C per minute over this interval.",
-      "ja": "$T(2)=64.8$、$T(6)=55.2$ なので\n$$\\frac{55.2-64.8}{6-2}=-2.4$$\nです。この区間では1分あたり平均 $2.4^\\circ$C 低下します。"
+      "en": "(a) The average rate of change is\n$$\\frac{204-84}{5-1}=30$$\nbirds per year.\n\n(b) Two years after $t=5$, the linear estimate is\n$$B(7)\\approx204+30(2)=264.$$\n\n(c) The exponential model grows by a constant percentage, so its absolute yearly increases grow as $t$ increases. The linear estimate increases by only 30 birds each year. Therefore, for sufficiently large $t$, the exponential prediction is above the linear estimate.",
+      "ja": "(a) 平均変化率は\n$$\\frac{204-84}{5-1}=30$$\nより、1年あたり30羽です。\n\n(b) $t=5$ から2年後なので、線形推定は\n$$B(7)\\approx204+30(2)=264$$\n羽です。\n\n(c) 指数モデルは一定の割合で増えるため、1年あたりの増加数そのものも時間とともに大きくなります。一方、線形推定は毎年30羽ずつしか増えません。したがって、十分大きな $t$ では指数モデルの予測が線形推定を上回ります。"
     },
     "tags": [
       "modeling",
-      "rate-of-change"
+      "rate-of-change",
+      "exponential-model"
     ],
     "relatedReferences": [
       "precalc-rate-change-001"
@@ -32,22 +33,23 @@
     "unit": "polynomial-rational",
     "topic": "polynomial-complex-zeros",
     "title": {
-      "en": "Multiplicity from a Formula",
-      "ja": "式から読む重複度"
+      "en": "Completing a Polynomial's Zeros",
+      "ja": "多項式の零点を完成させる"
     },
-    "difficulty": 2,
+    "difficulty": 3,
     "questionType": "conceptual",
     "question": {
-      "en": "For $p(x)=-2(x+1)^2(x-3)^3$, state each zero, its multiplicity, and whether the graph crosses or touches the $x$-axis there.",
-      "ja": "$p(x)=-2(x+1)^2(x-3)^3$ について、各零点と重複度、そこでグラフが $x$ 軸を横切るか触れるかを答えてください。"
+      "en": "A fourth-degree polynomial $p$ has real coefficients. One zero is $2$ with multiplicity 2, and another zero is $-1+3i$.\n\n(a) State the remaining zero.\n\n(b) Describe the behavior of the graph at $x=2$.\n\n(c) How many distinct $x$-intercepts must the graph have? Justify your answer.",
+      "ja": "実数係数の4次多項式 $p$ について、$2$ が重複度2の零点であり、$-1+3i$ も零点です。\n\n(a) 残りの零点を答えなさい。\n\n(b) $x=2$ におけるグラフの振る舞いを説明しなさい。\n\n(c) グラフが必ず持つ異なる $x$ 切片の個数を、理由とともに答えなさい。"
     },
     "solution": {
-      "en": "At $x=-1$, the multiplicity is 2, so the graph touches and turns. At $x=3$, the multiplicity is 3, so the graph crosses the axis with flattening.",
-      "ja": "$x=-1$ の重複度は2なので軸に触れて折り返します。$x=3$ の重複度は3なので、平らになりながら軸を横切ります。"
+      "en": "(a) Nonreal zeros of a polynomial with real coefficients occur in conjugate pairs, so the remaining zero is $-1-3i$.\n\n(b) The zero $x=2$ has even multiplicity, so the graph touches the $x$-axis and turns around there rather than crossing it.\n\n(c) The conjugate pair is nonreal, so it gives no $x$-intercepts. The only distinct real zero is $x=2$, so the graph must have exactly one distinct $x$-intercept.",
+      "ja": "(a) 実数係数の多項式では非実数の零点は共役な組で現れるため、残りの零点は $-1-3i$ です。\n\n(b) $x=2$ は偶数の重複度を持つため、グラフはそこで $x$ 軸に触れて折り返し、横切りません。\n\n(c) 共役な2つの零点は非実数なので $x$ 切片を作りません。異なる実数の零点は $x=2$ だけなので、異なる $x$ 切片は1個です。"
     },
     "tags": [
       "polynomial",
-      "zeros",
+      "complex-zeros",
+      "conjugate-pairs",
       "multiplicity"
     ],
     "relatedReferences": [

@@ -5,18 +5,18 @@
     "unit": "work-energy-power",
     "topic": "work",
     "title": {
-      "en": "Quadratic Force",
-      "ja": "二次式で表される力"
+      "en": "Work by a Position-Dependent Force",
+      "ja": "位置に依存する力の仕事"
     },
     "difficulty": 3,
     "questionType": "calculation",
     "question": {
-      "en": "A force $F_x(x)=3x^2+2$ N acts on a particle. Calculate the work done as the particle moves from $x=0$ to $x=2$ m.",
-      "ja": "粒子に $F_x(x)=3x^2+2$ N の力が作用します。$x=0$ から $x=2$ m まで移動する間にこの力がする仕事を求めてください。"
+      "en": "A particle moves along the $x$-axis while a force $F_x(x)=6x-x^2$ newtons acts on it. Calculate the work done by this force as the particle moves from $x=1\\,\\text{m}$ to $x=4\\,\\text{m}$.",
+      "ja": "粒子が $x$ 軸上を移動し、力 $F_x(x)=6x-x^2$ N が作用しています。粒子が $x=1\\,\\text{m}$ から $x=4\\,\\text{m}$ まで移動するとき、この力がする仕事を求めなさい。"
     },
     "solution": {
-      "en": "$$W=\\int_0^2(3x^2+2)\\,dx=[x^3+2x]_0^2=8+4=12\\text{ J}.$$",
-      "ja": "$$W=\\int_0^2(3x^2+2)\\,dx=[x^3+2x]_0^2=8+4=12\\text{ J}$$\nです。"
+      "en": "Work is the integral of force over displacement:\n$$W=\\int_1^4(6x-x^2)\\,dx=\\left[3x^2-\\frac{x^3}{3}\\right]_1^4.$$\nThus\n$$W=\\left(48-\\frac{64}{3}\\right)-\\left(3-\\frac13\\right)=24\\,\\text{J}.$$",
+      "ja": "仕事は力を変位について積分して求めます。\n$$W=\\int_1^4(6x-x^2)\\,dx=\\left[3x^2-\\frac{x^3}{3}\\right]_1^4.$$\nしたがって、\n$$W=\\left(48-\\frac{64}{3}\\right)-\\left(3-\\frac13\\right)=24\\,\\text{J}$$\nです。"
     },
     "tags": [
       "work",
@@ -33,22 +33,23 @@
     "unit": "work-energy-power",
     "topic": "potential-energy",
     "title": {
-      "en": "Equilibria in a Quartic Potential",
-      "ja": "4次のポテンシャルの平衡点"
+      "en": "Equilibrium from a Cubic Potential",
+      "ja": "3次ポテンシャルの平衡点"
     },
     "difficulty": 4,
     "questionType": "free-response",
     "question": {
-      "en": "A particle has potential energy $U(x)=x^4-8x^2$ J. Find all equilibrium positions and classify each as stable or unstable.",
-      "ja": "粒子の位置エネルギーが $U(x)=x^4-8x^2$ J です。すべての平衡位置を求め、安定か不安定かを判定してください。"
+      "en": "A particle constrained to the $x$-axis has potential energy\n$$U(x)=A\\left(\\frac{x^3}{3}-b^2x\\right),$$\nwhere $A>0$ and $b>0$. Find all equilibrium positions and classify each as stable or unstable. Justify your classifications.",
+      "ja": "$x$ 軸上だけを動く粒子の位置エネルギーが\n$$U(x)=A\\left(\\frac{x^3}{3}-b^2x\\right)$$\nで与えられ、$A>0$、$b>0$ とします。すべての平衡位置を求め、それぞれが安定か不安定かを理由とともに判定しなさい。"
     },
     "solution": {
-      "en": "$dU/dx=4x^3-16x=4x(x^2-4)$, so equilibria are $x=-2,0,2$. Since $U''=12x^2-16$, $U''(0)<0$ makes $x=0$ unstable, while $U''(\\pm2)>0$ makes $x=\\pm2$ stable.",
-      "ja": "$dU/dx=4x^3-16x=4x(x^2-4)$ なので、平衡点は $x=-2,0,2$ です。$U''=12x^2-16$ より、$U''(0)<0$ なので $x=0$ は不安定、$U''(\\pm2)>0$ なので $x=\\pm2$ は安定です。"
+      "en": "Equilibrium occurs where $F=-dU/dx=0$, equivalently where\n$$\\frac{dU}{dx}=A(x^2-b^2)=0.$$\nThus the equilibrium positions are $x=-b$ and $x=b$. Since\n$$\\frac{d^2U}{dx^2}=2Ax,$$\nwe have $U''(-b)=-2Ab<0$, so $x=-b$ is a local maximum of $U$ and is unstable. Also, $U''(b)=2Ab>0$, so $x=b$ is a local minimum of $U$ and is stable.",
+      "ja": "平衡点では $F=-dU/dx=0$ なので、\n$$\\frac{dU}{dx}=A(x^2-b^2)=0$$\nより $x=-b$ と $x=b$ が平衡位置です。\n$$\\frac{d^2U}{dx^2}=2Ax$$\nであり、$U''(-b)=-2Ab<0$ なので $x=-b$ は位置エネルギーの極大点で不安定です。一方、$U''(b)=2Ab>0$ なので $x=b$ は極小点で安定です。"
     },
     "tags": [
       "potential-energy",
       "equilibrium",
+      "stability",
       "derivative"
     ],
     "relatedReferences": [

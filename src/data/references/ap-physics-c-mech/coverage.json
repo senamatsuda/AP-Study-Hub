@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "ap-physics-c-mech-1-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "kinematics",
+    "topic": "scalars-vectors",
+    "title": {
+      "en": "Scalars and Vectors",
+      "ja": "スカラーとベクトル"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Scalars and Vectors.",
+      "ja": "スカラー（Scalars）とベクトル（Vectors）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Scalars and Vectors is a focused skill in Kinematics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Scalars and Vectors, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A car travels 3 km east and then 4 km north. Find the magnitude of its displacement.\nReasoning: The displacement magnitude is $\\sqrt{3^2+4^2}=5$ km.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：スカラー（Scalars）とベクトル（Vectors）は、Kinematicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、スカラー（Scalars）とベクトル（Vectors）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：変位の大きさは5 kmです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "scalars-vectors",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-1-1-d1",
+      "ap-physics-c-mech-1-1-d2",
+      "ap-physics-c-mech-1-1-d3",
+      "ap-physics-c-mech-1-1-d4",
+      "ap-physics-c-mech-1-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-1-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "kinematics",
+    "topic": "displacement-velocity-acceleration",
+    "title": {
+      "en": "Displacement, Velocity, and Acceleration",
+      "ja": "変位・速度・加速度"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Displacement, Velocity, and Acceleration.",
+      "ja": "変位（Displacement）・速度（Velocity）・加速度（Acceleration）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Displacement, Velocity, and Acceleration is a focused skill in Kinematics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Displacement, Velocity, and Acceleration, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: An object's velocity changes from 2 m/s to 14 m/s in 4 s. Find its average acceleration.\nReasoning: $a=(14-2)/4=3$ m/s$^2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：変位（Displacement）・速度（Velocity）・加速度（Acceleration）は、Kinematicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、変位（Displacement）・速度（Velocity）・加速度（Acceleration）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：平均加速度は3 m/s$^2$です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "displacement-velocity-acceleration",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-1-2-d1",
+      "ap-physics-c-mech-1-2-d2",
+      "ap-physics-c-mech-1-2-d3",
+      "ap-physics-c-mech-1-2-d4",
+      "ap-physics-c-mech-1-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-1-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "kinematics",
+    "topic": "representing-motion",
+    "title": {
+      "en": "Representing Motion",
+      "ja": "運動の表現"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Representing Motion.",
+      "ja": "運動の表現（Representing Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Representing Motion is a focused skill in Kinematics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Representing Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A position-time graph is a straight line with positive slope. Describe the motion.\nReasoning: The object moves with constant positive velocity and zero acceleration.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：運動の表現（Representing Motion）は、Kinematicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、運動の表現（Representing Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：物体は正の一定速度で動き、加速度は0です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "representing-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-1-3-d1",
+      "ap-physics-c-mech-1-3-d2",
+      "ap-physics-c-mech-1-3-d3",
+      "ap-physics-c-mech-1-3-d4",
+      "ap-physics-c-mech-1-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-1-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "kinematics",
+    "topic": "reference-frames-relative-motion",
+    "title": {
+      "en": "Reference Frames and Relative Motion",
+      "ja": "基準座標系と相対運動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Reference Frames and Relative Motion.",
+      "ja": "基準座標系（Reference Frames）と相対運動（Relative Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Reference Frames and Relative Motion is a focused skill in Kinematics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Reference Frames and Relative Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A passenger walks forward at 2 m/s inside a train moving forward at 15 m/s. Find the passenger's ground speed.\nReasoning: The velocities add to 17 m/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：基準座標系（Reference Frames）と相対運動（Relative Motion）は、Kinematicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、基準座標系（Reference Frames）と相対運動（Relative Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：地面に対する速さは17 m/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "reference-frames-relative-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-1-4-d1",
+      "ap-physics-c-mech-1-4-d2",
+      "ap-physics-c-mech-1-4-d3",
+      "ap-physics-c-mech-1-4-d4",
+      "ap-physics-c-mech-1-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-1-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "kinematics",
+    "topic": "motion-two-three-dimensions",
+    "title": {
+      "en": "Motion in Two or Three Dimensions",
+      "ja": "2次元・3次元の運動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Motion in Two or Three Dimensions.",
+      "ja": "2次元・3次元の運動（Motion in Two or Three Dimensions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Motion in Two or Three Dimensions is a focused skill in Kinematics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Motion in Two or Three Dimensions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A particle has $\\mathbf r(t)=\\langle t^2,2t\\rangle$. Find $\\mathbf v(1)$.\nReasoning: $\\mathbf v(t)=\\langle2t,2\\rangle$, so $\\mathbf v(1)=\\langle2,2\\rangle$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：2次元・3次元の運動（Motion in Two or Three Dimensions）は、Kinematicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、2次元・3次元の運動（Motion in Two or Three Dimensions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\mathbf v(1)=\\langle2,2\\rangle$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "motion-two-three-dimensions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-1-5-d1",
+      "ap-physics-c-mech-1-5-d2",
+      "ap-physics-c-mech-1-5-d3",
+      "ap-physics-c-mech-1-5-d4",
+      "ap-physics-c-mech-1-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "systems-center-of-mass",
+    "title": {
+      "en": "Systems and Center of Mass",
+      "ja": "系と質量中心"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Systems and Center of Mass.",
+      "ja": "系（Systems）と質量中心（Center of Mass）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Systems and Center of Mass is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Systems and Center of Mass, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Masses 2 kg and 6 kg lie at $x=0$ and $x=4$ m. Find the center of mass.\nReasoning: $x_{cm}=(2(0)+6(4))/8=3$ m.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：系（Systems）と質量中心（Center of Mass）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、系（Systems）と質量中心（Center of Mass）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：重心位置は3 mです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "systems-center-of-mass",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-1-d1",
+      "ap-physics-c-mech-2-1-d2",
+      "ap-physics-c-mech-2-1-d3",
+      "ap-physics-c-mech-2-1-d4",
+      "ap-physics-c-mech-2-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "forces-free-body-diagrams",
+    "title": {
+      "en": "Forces and Free-Body Diagrams",
+      "ja": "力と自由物体図"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Forces and Free-Body Diagrams.",
+      "ja": "力（Forces）と自由物体図（Free-Body Diagrams）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Forces and Free-Body Diagrams is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Forces and Free-Body Diagrams, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A book rests on a table. Name the two forces acting on the book.\nReasoning: Gravity acts downward and the table's normal force acts upward.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：力（Forces）と自由物体図（Free-Body Diagrams）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、力（Forces）と自由物体図（Free-Body Diagrams）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：重力が下向き、垂直抗力が上向きに働きます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "forces-free-body-diagrams",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-2-d1",
+      "ap-physics-c-mech-2-2-d2",
+      "ap-physics-c-mech-2-2-d3",
+      "ap-physics-c-mech-2-2-d4",
+      "ap-physics-c-mech-2-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "newtons-third-law",
+    "title": {
+      "en": "Newton's Third Law",
+      "ja": "ニュートンの第3法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Newton's Third Law.",
+      "ja": "ニュートンの第3法則（Newton's Third Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Newton's Third Law is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Newton's Third Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A hand pushes a wall with 40 N. What force does the wall exert on the hand?\nReasoning: The wall exerts 40 N in the opposite direction.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ニュートンの第3法則（Newton's Third Law）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ニュートンの第3法則（Newton's Third Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：壁は反対向きに40 Nの力を手へ及ぼします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "newtons-third-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-3-d1",
+      "ap-physics-c-mech-2-3-d2",
+      "ap-physics-c-mech-2-3-d3",
+      "ap-physics-c-mech-2-3-d4",
+      "ap-physics-c-mech-2-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "newtons-first-law",
+    "title": {
+      "en": "Newton's First Law",
+      "ja": "ニュートンの第1法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Newton's First Law.",
+      "ja": "ニュートンの第1法則（Newton's First Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Newton's First Law is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Newton's First Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A puck moves at constant velocity on a frictionless surface. What is the net force?\nReasoning: The net force is zero.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ニュートンの第1法則（Newton's First Law）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ニュートンの第1法則（Newton's First Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：合力は0です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "newtons-first-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-4-d1",
+      "ap-physics-c-mech-2-4-d2",
+      "ap-physics-c-mech-2-4-d3",
+      "ap-physics-c-mech-2-4-d4",
+      "ap-physics-c-mech-2-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "newtons-second-law",
+    "title": {
+      "en": "Newton's Second Law",
+      "ja": "ニュートンの第2法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Newton's Second Law.",
+      "ja": "ニュートンの第2法則（Newton's Second Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Newton's Second Law is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Newton's Second Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A net force of 18 N acts on a 6 kg object. Find its acceleration.\nReasoning: $a=F/m=3$ m/s$^2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ニュートンの第2法則（Newton's Second Law）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ニュートンの第2法則（Newton's Second Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：加速度は3 m/s$^2$です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "newtons-second-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-5-d1",
+      "ap-physics-c-mech-2-5-d2",
+      "ap-physics-c-mech-2-5-d3",
+      "ap-physics-c-mech-2-5-d4",
+      "ap-physics-c-mech-2-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-6-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "gravitational-force",
+    "title": {
+      "en": "Gravitational Force",
+      "ja": "万有引力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Gravitational Force.",
+      "ja": "万有引力（Gravitational Force）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Gravitational Force is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Gravitational Force, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the gravitational force on a 5 kg mass near Earth's surface using $g=9.8$ m/s$^2$.\nReasoning: $F_g=mg=49$ N downward.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：万有引力（Gravitational Force）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、万有引力（Gravitational Force）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：重力は下向き49 Nです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "gravitational-force",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-6-d1",
+      "ap-physics-c-mech-2-6-d2",
+      "ap-physics-c-mech-2-6-d3",
+      "ap-physics-c-mech-2-6-d4",
+      "ap-physics-c-mech-2-6-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-7-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "kinetic-static-friction",
+    "title": {
+      "en": "Kinetic and Static Friction",
+      "ja": "動摩擦と静止摩擦"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Kinetic and Static Friction.",
+      "ja": "動摩擦（Kinetic）と静止摩擦（Static Friction）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Kinetic and Static Friction is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Kinetic and Static Friction, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 10 kg block has $\\mu_k=0.20$ on a level surface. Use $g=10$ m/s$^2$ to find kinetic friction.\nReasoning: $f_k=\\mu_kmg=20$ N.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：動摩擦（Kinetic）と静止摩擦（Static Friction）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、動摩擦（Kinetic）と静止摩擦（Static Friction）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：動摩擦力は20 Nです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "kinetic-static-friction",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-7-d1",
+      "ap-physics-c-mech-2-7-d2",
+      "ap-physics-c-mech-2-7-d3",
+      "ap-physics-c-mech-2-7-d4",
+      "ap-physics-c-mech-2-7-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-8-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "spring-forces",
+    "title": {
+      "en": "Spring Forces",
+      "ja": "ばねの力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Spring Forces.",
+      "ja": "ばねの力（Spring Forces）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Spring Forces is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Spring Forces, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A spring with $k=200$ N/m is stretched 0.03 m. Find the restoring-force magnitude.\nReasoning: $F=kx=6$ N.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ばねの力（Spring Forces）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ばねの力（Spring Forces）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：復元力の大きさは6 Nです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "spring-forces",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-8-d1",
+      "ap-physics-c-mech-2-8-d2",
+      "ap-physics-c-mech-2-8-d3",
+      "ap-physics-c-mech-2-8-d4",
+      "ap-physics-c-mech-2-8-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-9-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "resistive-forces",
+    "title": {
+      "en": "Resistive Forces",
+      "ja": "抵抗力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Resistive Forces.",
+      "ja": "抵抗力（Resistive Forces）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Resistive Forces is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Resistive Forces, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A falling object reaches terminal speed. Compare drag force and weight.\nReasoning: They are equal in magnitude and opposite in direction.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：抵抗力（Resistive Forces）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、抵抗力（Resistive Forces）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：抵抗力と重力は大きさが等しく向きが反対です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "resistive-forces",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-9-d1",
+      "ap-physics-c-mech-2-9-d2",
+      "ap-physics-c-mech-2-9-d3",
+      "ap-physics-c-mech-2-9-d4",
+      "ap-physics-c-mech-2-9-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-2-10-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "force-translational-dynamics",
+    "topic": "circular-motion",
+    "title": {
+      "en": "Circular Motion",
+      "ja": "円運動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Circular Motion.",
+      "ja": "円運動（Circular Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Circular Motion is a focused skill in Force and Translational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Circular Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 2 kg mass moves at 4 m/s in a circle of radius 2 m. Find the net radial force.\nReasoning: $F_r=mv^2/r=16$ N inward.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円運動（Circular Motion）は、Force and Translational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円運動（Circular Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：中心向きの合力は16 Nです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "circular-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-2-10-d1",
+      "ap-physics-c-mech-2-10-d2",
+      "ap-physics-c-mech-2-10-d3",
+      "ap-physics-c-mech-2-10-d4",
+      "ap-physics-c-mech-2-10-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-3-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "translational-kinetic-energy",
+    "title": {
+      "en": "Translational Kinetic Energy",
+      "ja": "並進運動エネルギー"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Translational Kinetic Energy.",
+      "ja": "並進運動エネルギー（Translational Kinetic Energy）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Translational Kinetic Energy is a focused skill in Work, Energy, and Power. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Translational Kinetic Energy, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the kinetic energy of a 3 kg object moving at 4 m/s.\nReasoning: $K=mv^2/2=24$ J.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：並進運動エネルギー（Translational Kinetic Energy）は、Work, Energy, and Powerで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、並進運動エネルギー（Translational Kinetic Energy）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：運動エネルギーは24 Jです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "translational-kinetic-energy",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-3-1-d1",
+      "ap-physics-c-mech-3-1-d2",
+      "ap-physics-c-mech-3-1-d3",
+      "ap-physics-c-mech-3-1-d4",
+      "ap-physics-c-mech-3-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-3-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "conservation-energy",
+    "title": {
+      "en": "Conservation of Energy",
+      "ja": "エネルギー保存"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conservation of Energy.",
+      "ja": "エネルギー保存（Conservation of Energy）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conservation of Energy is a focused skill in Work, Energy, and Power. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conservation of Energy, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A ball drops from rest through 5 m. Use $g=10$ m/s$^2$ to find its speed just before impact.\nReasoning: $mgh=mv^2/2$, so $v=10$ m/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：エネルギー保存（Conservation of Energy）は、Work, Energy, and Powerで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、エネルギー保存（Conservation of Energy）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：力学的エネルギー保存より速さは10 m/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "conservation-energy",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-3-4-d1",
+      "ap-physics-c-mech-3-4-d2",
+      "ap-physics-c-mech-3-4-d3",
+      "ap-physics-c-mech-3-4-d4",
+      "ap-physics-c-mech-3-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-3-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "power",
+    "title": {
+      "en": "Power",
+      "ja": "仕事率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Power.",
+      "ja": "仕事率（Power）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Power is a focused skill in Work, Energy, and Power. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Power, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A motor does 600 J of work in 3 s. Find its average power.\nReasoning: $P=W/t=200$ W.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：仕事率（Power）は、Work, Energy, and Powerで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、仕事率（Power）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：平均仕事率は200 Wです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "power",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-3-5-d1",
+      "ap-physics-c-mech-3-5-d2",
+      "ap-physics-c-mech-3-5-d3",
+      "ap-physics-c-mech-3-5-d4",
+      "ap-physics-c-mech-3-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-4-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "linear-momentum",
+    "topic": "linear-momentum",
+    "title": {
+      "en": "Linear Momentum",
+      "ja": "運動量"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Linear Momentum.",
+      "ja": "運動量（Linear Momentum）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Linear Momentum is a focused skill in Linear Momentum. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Linear Momentum, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the momentum of a 4 kg cart moving east at 3 m/s.\nReasoning: $p=mv=12$ kg m/s east.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：運動量（Linear Momentum）は、Linear Momentumで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、運動量（Linear Momentum）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：運動量は東向き12 kg m/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "linear-momentum",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-4-1-d1",
+      "ap-physics-c-mech-4-1-d2",
+      "ap-physics-c-mech-4-1-d3",
+      "ap-physics-c-mech-4-1-d4",
+      "ap-physics-c-mech-4-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-4-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "linear-momentum",
+    "topic": "impulse",
+    "title": {
+      "en": "Change in Momentum and Impulse",
+      "ja": "運動量変化と力積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Change in Momentum and Impulse.",
+      "ja": "運動量変化（Change in Momentum）と力積（Impulse）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Change in Momentum and Impulse is a focused skill in Linear Momentum. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Change in Momentum and Impulse, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 20 N force acts for 0.30 s. Find the impulse.\nReasoning: $J=F\\Delta t=6$ N s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：運動量変化（Change in Momentum）と力積（Impulse）は、Linear Momentumで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、運動量変化（Change in Momentum）と力積（Impulse）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：力積は6 N sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "impulse",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-4-2-d1",
+      "ap-physics-c-mech-4-2-d2",
+      "ap-physics-c-mech-4-2-d3",
+      "ap-physics-c-mech-4-2-d4",
+      "ap-physics-c-mech-4-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-4-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "linear-momentum",
+    "topic": "conservation-linear-momentum",
+    "title": {
+      "en": "Conservation of Linear Momentum",
+      "ja": "運動量保存"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conservation of Linear Momentum.",
+      "ja": "運動量保存（Conservation of Linear Momentum）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conservation of Linear Momentum is a focused skill in Linear Momentum. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conservation of Linear Momentum, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 2 kg cart at 4 m/s sticks to a 2 kg cart at rest. Find their final speed.\nReasoning: $v_f=(2(4))/(2+2)=2$ m/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：運動量保存（Conservation of Linear Momentum）は、Linear Momentumで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、運動量保存（Conservation of Linear Momentum）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：運動量保存より最終速度は2 m/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "conservation-linear-momentum",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-4-3-d1",
+      "ap-physics-c-mech-4-3-d2",
+      "ap-physics-c-mech-4-3-d3",
+      "ap-physics-c-mech-4-3-d4",
+      "ap-physics-c-mech-4-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-4-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "linear-momentum",
+    "topic": "collisions",
+    "title": {
+      "en": "Elastic and Inelastic Collisions",
+      "ja": "弾性衝突と非弾性衝突"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Elastic and Inelastic Collisions.",
+      "ja": "弾性衝突（Elastic）と非弾性衝突（Inelastic Collisions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Elastic and Inelastic Collisions is a focused skill in Linear Momentum. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Elastic and Inelastic Collisions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: In a perfectly inelastic collision, which quantity is conserved: momentum, kinetic energy, or both?\nReasoning: Momentum is conserved, but kinetic energy generally is not.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：弾性衝突（Elastic）と非弾性衝突（Inelastic Collisions）は、Linear Momentumで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、弾性衝突（Elastic）と非弾性衝突（Inelastic Collisions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：運動量は保存されますが、運動エネルギーは一般に保存されません。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "collisions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-4-4-d1",
+      "ap-physics-c-mech-4-4-d2",
+      "ap-physics-c-mech-4-4-d3",
+      "ap-physics-c-mech-4-4-d4",
+      "ap-physics-c-mech-4-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "rotational-kinematics",
+    "title": {
+      "en": "Rotational Kinematics",
+      "ja": "回転運動学"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rotational Kinematics.",
+      "ja": "回転運動学（Rotational Kinematics）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rotational Kinematics is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rotational Kinematics, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A wheel starts from rest with angular acceleration 3 rad/s$^2$. Find $\\omega$ after 4 s.\nReasoning: $\\omega=\\alpha t=12$ rad/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：回転運動学（Rotational Kinematics）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、回転運動学（Rotational Kinematics）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：角速度は12 rad/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rotational-kinematics",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-1-d1",
+      "ap-physics-c-mech-5-1-d2",
+      "ap-physics-c-mech-5-1-d3",
+      "ap-physics-c-mech-5-1-d4",
+      "ap-physics-c-mech-5-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "linear-rotational-motion",
+    "title": {
+      "en": "Connecting Linear and Rotational Motion",
+      "ja": "並進運動と回転運動の関係"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Linear and Rotational Motion.",
+      "ja": "並進運動（Connecting Linear）と回転運動の関係（Rotational Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Linear and Rotational Motion is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Linear and Rotational Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A wheel of radius 0.5 m rolls without slipping at $\\omega=6$ rad/s. Find its center-of-mass speed.\nReasoning: $v=R\\omega=3$ m/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：並進運動（Connecting Linear）と回転運動の関係（Rotational Motion）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、並進運動（Connecting Linear）と回転運動の関係（Rotational Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：重心速度は3 m/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "linear-rotational-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-2-d1",
+      "ap-physics-c-mech-5-2-d2",
+      "ap-physics-c-mech-5-2-d3",
+      "ap-physics-c-mech-5-2-d4",
+      "ap-physics-c-mech-5-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "torque",
+    "title": {
+      "en": "Torque",
+      "ja": "力のモーメント"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Torque.",
+      "ja": "力のモーメント（Torque）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Torque is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Torque, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 10 N force acts perpendicular to a lever arm 0.4 m long. Find the torque magnitude.\nReasoning: $\\tau=rF=4$ N m.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：力のモーメント（Torque）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、力のモーメント（Torque）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：力のモーメントの大きさは4 N mです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "torque",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-3-d1",
+      "ap-physics-c-mech-5-3-d2",
+      "ap-physics-c-mech-5-3-d3",
+      "ap-physics-c-mech-5-3-d4",
+      "ap-physics-c-mech-5-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "rotational-inertia",
+    "title": {
+      "en": "Rotational Inertia",
+      "ja": "慣性モーメント"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rotational Inertia.",
+      "ja": "慣性モーメント（Rotational Inertia）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rotational Inertia is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rotational Inertia, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Two equal point masses are at radii $r$ and $2r$. Which contributes more to rotational inertia?\nReasoning: The mass at $2r$ contributes four times as much because $I=mr^2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：慣性モーメント（Rotational Inertia）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、慣性モーメント（Rotational Inertia）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$I=mr^2$ なので、$2r$ の質点は4倍寄与します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rotational-inertia",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-4-d1",
+      "ap-physics-c-mech-5-4-d2",
+      "ap-physics-c-mech-5-4-d3",
+      "ap-physics-c-mech-5-4-d4",
+      "ap-physics-c-mech-5-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "rotational-equilibrium",
+    "title": {
+      "en": "Rotational Equilibrium and Newton's First Law in Rotational Form",
+      "ja": "回転平衡と回転形の第1法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rotational Equilibrium and Newton's First Law in Rotational Form.",
+      "ja": "回転平衡（Rotational Equilibrium）と回転形の第1法則（Newton's First Law in Rotational Form）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rotational Equilibrium and Newton's First Law in Rotational Form is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rotational Equilibrium and Newton's First Law in Rotational Form, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 6 N force acts 2 m to the left of a pivot. What force 3 m to the right balances its torque?\nReasoning: $6(2)=F(3)$, so $F=4$ N.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：回転平衡（Rotational Equilibrium）と回転形の第1法則（Newton's First Law in Rotational Form）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、回転平衡（Rotational Equilibrium）と回転形の第1法則（Newton's First Law in Rotational Form）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：力のモーメントのつり合いより $F=4$ Nです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rotational-equilibrium",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-5-d1",
+      "ap-physics-c-mech-5-5-d2",
+      "ap-physics-c-mech-5-5-d3",
+      "ap-physics-c-mech-5-5-d4",
+      "ap-physics-c-mech-5-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-5-6-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "torque-rotational-dynamics",
+    "topic": "rotational-second-law",
+    "title": {
+      "en": "Newton's Second Law in Rotational Form",
+      "ja": "回転形のニュートンの第2法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Newton's Second Law in Rotational Form.",
+      "ja": "回転形のニュートンの第2法則（Newton's Second Law in Rotational Form）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Newton's Second Law in Rotational Form is a focused skill in Torque and Rotational Dynamics. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Newton's Second Law in Rotational Form, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A net torque of 12 N m acts on an object with $I=3$ kg m$^2$. Find angular acceleration.\nReasoning: $\\alpha=\\tau/I=4$ rad/s$^2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：回転形のニュートンの第2法則（Newton's Second Law in Rotational Form）は、Torque and Rotational Dynamicsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、回転形のニュートンの第2法則（Newton's Second Law in Rotational Form）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：角加速度は4 rad/s$^2$です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rotational-second-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-5-6-d1",
+      "ap-physics-c-mech-5-6-d2",
+      "ap-physics-c-mech-5-6-d3",
+      "ap-physics-c-mech-5-6-d4",
+      "ap-physics-c-mech-5-6-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "rotational-kinetic-energy",
+    "title": {
+      "en": "Rotational Kinetic Energy",
+      "ja": "回転運動エネルギー"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rotational Kinetic Energy.",
+      "ja": "回転運動エネルギー（Rotational Kinetic Energy）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rotational Kinetic Energy is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rotational Kinetic Energy, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A rotor has $I=2$ kg m$^2$ and $\\omega=5$ rad/s. Find rotational kinetic energy.\nReasoning: $K=I\\omega^2/2=25$ J.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：回転運動エネルギー（Rotational Kinetic Energy）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、回転運動エネルギー（Rotational Kinetic Energy）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：回転運動エネルギーは25 Jです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rotational-kinetic-energy",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-1-d1",
+      "ap-physics-c-mech-6-1-d2",
+      "ap-physics-c-mech-6-1-d3",
+      "ap-physics-c-mech-6-1-d4",
+      "ap-physics-c-mech-6-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "torque-work",
+    "title": {
+      "en": "Torque and Work",
+      "ja": "力のモーメントと仕事"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Torque and Work.",
+      "ja": "力のモーメント（Torque）と仕事（Work）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Torque and Work is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Torque and Work, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A constant torque of 5 N m turns an axle through 3 rad. Find the work.\nReasoning: $W=\\tau\\Delta\\theta=15$ J.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：力のモーメント（Torque）と仕事（Work）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、力のモーメント（Torque）と仕事（Work）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：仕事は15 Jです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "torque-work",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-2-d1",
+      "ap-physics-c-mech-6-2-d2",
+      "ap-physics-c-mech-6-2-d3",
+      "ap-physics-c-mech-6-2-d4",
+      "ap-physics-c-mech-6-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "angular-momentum-impulse",
+    "title": {
+      "en": "Angular Momentum and Angular Impulse",
+      "ja": "角運動量と角力積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Angular Momentum and Angular Impulse.",
+      "ja": "角運動量（Angular Momentum）と角力積（Angular Impulse）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Angular Momentum and Angular Impulse is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Angular Momentum and Angular Impulse, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A disk has $I=4$ kg m$^2$ and $\\omega=3$ rad/s. Find its angular momentum.\nReasoning: $L=I\\omega=12$ kg m$^2$/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：角運動量（Angular Momentum）と角力積（Angular Impulse）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、角運動量（Angular Momentum）と角力積（Angular Impulse）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：角運動量は12 kg m$^2$/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "angular-momentum-impulse",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-3-d1",
+      "ap-physics-c-mech-6-3-d2",
+      "ap-physics-c-mech-6-3-d3",
+      "ap-physics-c-mech-6-3-d4",
+      "ap-physics-c-mech-6-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "conservation-angular-momentum",
+    "title": {
+      "en": "Conservation of Angular Momentum",
+      "ja": "角運動量保存"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conservation of Angular Momentum.",
+      "ja": "角運動量保存（Conservation of Angular Momentum）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conservation of Angular Momentum is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conservation of Angular Momentum, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A skater halves her rotational inertia with no external torque. What happens to angular speed?\nReasoning: Angular speed doubles because $I\\omega$ is conserved.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：角運動量保存（Conservation of Angular Momentum）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、角運動量保存（Conservation of Angular Momentum）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：角運動量保存により角速度は2倍になります。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "conservation-angular-momentum",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-4-d1",
+      "ap-physics-c-mech-6-4-d2",
+      "ap-physics-c-mech-6-4-d3",
+      "ap-physics-c-mech-6-4-d4",
+      "ap-physics-c-mech-6-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "rolling",
+    "title": {
+      "en": "Rolling",
+      "ja": "転がり運動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rolling.",
+      "ja": "転がり運動（Rolling）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rolling is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rolling, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For a solid cylinder rolling without slipping, write its total kinetic energy.\nReasoning: $K=mv^2/2+I\\omega^2/2$ with $v=R\\omega$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：転がり運動（Rolling）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、転がり運動（Rolling）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$K=mv^2/2+I\\omega^2/2$ で、$v=R\\omega$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rolling",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-5-d1",
+      "ap-physics-c-mech-6-5-d2",
+      "ap-physics-c-mech-6-5-d3",
+      "ap-physics-c-mech-6-5-d4",
+      "ap-physics-c-mech-6-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-6-6-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "rotating-systems",
+    "topic": "orbiting-satellites",
+    "title": {
+      "en": "Motion of Orbiting Satellites",
+      "ja": "軌道衛星の運動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Motion of Orbiting Satellites.",
+      "ja": "軌道衛星の運動（Motion of Orbiting Satellites）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Motion of Orbiting Satellites is a focused skill in Energy and Momentum of Rotating Systems. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Motion of Orbiting Satellites, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the equation that determines circular-orbit speed around mass $M$ at radius $r$.\nReasoning: $GMm/r^2=mv^2/r$, so $v=\\sqrt{GM/r}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：軌道衛星の運動（Motion of Orbiting Satellites）は、Energy and Momentum of Rotating Systemsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、軌道衛星の運動（Motion of Orbiting Satellites）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$GMm/r^2=mv^2/r$ より、$v=\\sqrt{GM/r}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "orbiting-satellites",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-6-6-d1",
+      "ap-physics-c-mech-6-6-d2",
+      "ap-physics-c-mech-6-6-d3",
+      "ap-physics-c-mech-6-6-d4",
+      "ap-physics-c-mech-6-6-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-7-1-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "oscillations",
+    "topic": "defining-shm",
+    "title": {
+      "en": "Defining Simple Harmonic Motion (SHM)",
+      "ja": "単振動（SHM）の定義"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Defining Simple Harmonic Motion (SHM).",
+      "ja": "単振動（SHM）の定義（Defining Simple Harmonic Motion (SHM)）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Defining Simple Harmonic Motion (SHM) is a focused skill in Oscillations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Defining Simple Harmonic Motion (SHM), carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A force is $F=-kx$. Why is the motion simple harmonic?\nReasoning: The restoring force is proportional to displacement and points toward equilibrium.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単振動（SHM）の定義（Defining Simple Harmonic Motion (SHM)）は、Oscillationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単振動（SHM）の定義（Defining Simple Harmonic Motion (SHM)）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：復元力が変位に比例し、平衡点へ向くため単振動です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "defining-shm",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-7-1-d1",
+      "ap-physics-c-mech-7-1-d2",
+      "ap-physics-c-mech-7-1-d3",
+      "ap-physics-c-mech-7-1-d4",
+      "ap-physics-c-mech-7-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-7-2-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "oscillations",
+    "topic": "frequency-period-shm",
+    "title": {
+      "en": "Frequency and Period of SHM",
+      "ja": "単振動の振動数と周期"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Frequency and Period of SHM.",
+      "ja": "単振動の振動数（Frequency）と周期（Period of SHM）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Frequency and Period of SHM is a focused skill in Oscillations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Frequency and Period of SHM, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A mass-spring system has $m=1$ kg and $k=4$ N/m. Find its period.\nReasoning: $T=2\\pi\\sqrt{m/k}=\\pi$ s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単振動の振動数（Frequency）と周期（Period of SHM）は、Oscillationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単振動の振動数（Frequency）と周期（Period of SHM）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：周期は $\\pi$ 秒です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "frequency-period-shm",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-7-2-d1",
+      "ap-physics-c-mech-7-2-d2",
+      "ap-physics-c-mech-7-2-d3",
+      "ap-physics-c-mech-7-2-d4",
+      "ap-physics-c-mech-7-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-7-3-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "oscillations",
+    "topic": "representing-analyzing-shm",
+    "title": {
+      "en": "Representing and Analyzing SHM",
+      "ja": "単振動の表現と分析"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Representing and Analyzing SHM.",
+      "ja": "単振動の表現（Representing）と分析（Analyzing SHM）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Representing and Analyzing SHM is a focused skill in Oscillations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Representing and Analyzing SHM, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: At the equilibrium position in SHM, which is greatest: speed or acceleration magnitude?\nReasoning: Speed is greatest; acceleration is zero.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単振動の表現（Representing）と分析（Analyzing SHM）は、Oscillationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単振動の表現（Representing）と分析（Analyzing SHM）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：平衡位置では速さが最大で、加速度は0です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "representing-analyzing-shm",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-7-3-d1",
+      "ap-physics-c-mech-7-3-d2",
+      "ap-physics-c-mech-7-3-d3",
+      "ap-physics-c-mech-7-3-d4",
+      "ap-physics-c-mech-7-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-7-4-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "oscillations",
+    "topic": "energy-sho",
+    "title": {
+      "en": "Energy of Simple Harmonic Oscillators",
+      "ja": "単振動系のエネルギー"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Energy of Simple Harmonic Oscillators.",
+      "ja": "単振動系のエネルギー（Energy of Simple Harmonic Oscillators）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Energy of Simple Harmonic Oscillators is a focused skill in Oscillations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Energy of Simple Harmonic Oscillators, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A spring with $k=100$ N/m oscillates with amplitude 0.20 m. Find total energy.\nReasoning: $E=kA^2/2=2$ J.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単振動系のエネルギー（Energy of Simple Harmonic Oscillators）は、Oscillationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単振動系のエネルギー（Energy of Simple Harmonic Oscillators）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：全エネルギーは2 Jです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "energy-sho",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-7-4-d1",
+      "ap-physics-c-mech-7-4-d2",
+      "ap-physics-c-mech-7-4-d3",
+      "ap-physics-c-mech-7-4-d4",
+      "ap-physics-c-mech-7-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-mech-7-5-reference",
+    "course": "ap-physics-c-mech",
+    "unit": "oscillations",
+    "topic": "pendulums",
+    "title": {
+      "en": "Simple and Physical Pendulums",
+      "ja": "単振り子と物理振り子"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Simple and Physical Pendulums.",
+      "ja": "単振り子（Simple）と物理振り子（Physical Pendulums）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Simple and Physical Pendulums is a focused skill in Oscillations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Simple and Physical Pendulums, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the small-angle period of a simple pendulum of length 1 m using $g=9.8$ m/s$^2$.\nReasoning: $T=2\\pi\\sqrt{L/g}\\approx2.0$ s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単振り子（Simple）と物理振り子（Physical Pendulums）は、Oscillationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単振り子（Simple）と物理振り子（Physical Pendulums）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：周期は約2.0秒です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "pendulums",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-mech-7-5-d1",
+      "ap-physics-c-mech-7-5-d2",
+      "ap-physics-c-mech-7-5-d3",
+      "ap-physics-c-mech-7-5-d4",
+      "ap-physics-c-mech-7-5-d5"
+    ]
+  }
+]

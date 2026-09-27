@@ -92,6 +92,8 @@ Actionsは依存関係を復元し、教材JSONの整合性検査、Viteビル�
 
 対象科目の `src/data/problems/<course>/problems.json` へ追加します。
 
+`private-materials/` 内のAP Exam・Practice Examを参考にする場合は、原題を転載せず、測定する技能や典型的な解法だけを参考にして類題を作成します。状況設定、数値、式、問い方、選択肢、解説は新しく書き起こしてください。元PDFや解答ファイルを公開データへコピーしないでください。
+
 ```json
 {
   "id": "physics-c-em-p003",
@@ -110,6 +112,8 @@ Actionsは依存関係を復元し、教材JSONの整合性検査、Viteビル�
 
 `difficulty` は1〜5、`questionType` は `multiple-choice` / `free-response` / `conceptual` / `calculation` のいずれかです。選択式では任意の `choices` 配列も追加できます。
 
+全Topicの練習とReferenceのカバレッジは `npm run generate-problems` で、ProblemとReferenceそれぞれの `coverage.json` へ生成します。各TopicにReferenceが1件以上と難易度1〜5のProblemが1問ずつ揃い、相互にリンクされます。`npm run check-data` は欠落、関連ID、英語表示データへの日本語混入を検出します。`coverage.json` は直接編集せず、テンプレートを `scripts/generate-coverage-problems.mjs` で管理してください。
+
 ## Unit / Topicの追加
 
 Unit / TopicはCollege Boardの公式Course and Exam Description（CED）に合わせて `src/data/frameworks/<course>.json` で管理します。各Unitには `number`、日英の `name`、日英の `examWeighting`、`topics` を持たせ、各Topicには公式番号の `code` を指定します。AP Calculus AB / BCは共通の `ap-calculus.json` を使い、BC専用項目を `bcOnly: true` で管理します。
@@ -124,4 +128,4 @@ Reference / Problemの `course`、`unit`、`topic` は、フレームワーク�
 { "en": "Electric Field", "ja": "電場" }
 ```
 
-Course / Unit / Topicの `name`、Referenceの `title` / `description` / `content`、Problemの `title` / `question` / `solution` / `choices` が対象です。`npm run check-data` は必須の日英テキストと、Unit / Topic / 関連教材IDの整合性を検査します。
+Course / Unit / Topicの `name`、Referenceの `title` / `description` / `content`、Problemの `title` / `question` / `solution` / `choices` が対象です。Course / Unit / Topic名とProblemのタイトル・問題文・選択肢は、日本語モードでも英語を表示します。Referenceは日本語モードで日本語の説明を表示し、中心用語は「電荷（Electric Charge）」のように日英併記します。複合用語は「電荷（Electric Charge）と電気力（Electric Force）」のように、各用語の直後に英語を付けます。Problemの解答・解説と操作画面も日本語へ切り替わります。`npm run check-data` は必須の日英テキストと、Unit / Topic / 関連教材IDの整合性を検査します。

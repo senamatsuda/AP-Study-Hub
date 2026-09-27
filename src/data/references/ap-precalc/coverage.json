@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "ap-precalc-1-1-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "change-in-tandem",
+    "title": {
+      "en": "Change in Tandem",
+      "ja": "連動する変化"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Change in Tandem.",
+      "ja": "連動する変化（Change in Tandem）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Change in Tandem is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Change in Tandem, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: As $x$ increases from 2 to 5, $y$ increases from 7 to 19. By how much does $y$ change for each unit increase in $x$?\nReasoning: The changes are $\\Delta x=3$ and $\\Delta y=12$, so $\\Delta y/\\Delta x=4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：連動する変化（Change in Tandem）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、連動する変化（Change in Tandem）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\Delta x=3$、$\\Delta y=12$ なので、$x$ が1増えるごとに $y$ は4増えます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "change-in-tandem",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-1-d1",
+      "ap-precalc-1-1-d2",
+      "ap-precalc-1-1-d3",
+      "ap-precalc-1-1-d4",
+      "ap-precalc-1-1-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-3-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rates-linear-quadratic",
+    "title": {
+      "en": "Rates of Change in Linear and Quadratic Functions",
+      "ja": "一次関数と二次関数の変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rates of Change in Linear and Quadratic Functions.",
+      "ja": "一次関数（Rates of Change in Linear）と二次関数の変化率（Quadratic Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rates of Change in Linear and Quadratic Functions is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rates of Change in Linear and Quadratic Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^2-3x$, find the average rate of change on $[1,4]$.\nReasoning: $[f(4)-f(1)]/(4-1)=(4-(-2))/3=2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：一次関数（Rates of Change in Linear）と二次関数の変化率（Quadratic Functions）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、一次関数（Rates of Change in Linear）と二次関数の変化率（Quadratic Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$[f(4)-f(1)]/(4-1)=2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rates-linear-quadratic",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-3-d1",
+      "ap-precalc-1-3-d2",
+      "ap-precalc-1-3-d3",
+      "ap-precalc-1-3-d4",
+      "ap-precalc-1-3-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-4-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "polynomial-rates",
+    "title": {
+      "en": "Polynomial Functions and Rates of Change",
+      "ja": "多項式関数と変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Polynomial Functions and Rates of Change.",
+      "ja": "多項式関数（Polynomial Functions）と変化率（Rates of Change）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Polynomial Functions and Rates of Change is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Polynomial Functions and Rates of Change, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^2-3x$, find the average rate of change on $[1,4]$.\nReasoning: $[f(4)-f(1)]/(4-1)=(4-(-2))/3=2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：多項式関数（Polynomial Functions）と変化率（Rates of Change）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、多項式関数（Polynomial Functions）と変化率（Rates of Change）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$[f(4)-f(1)]/(4-1)=2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "polynomial-rates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-4-d1",
+      "ap-precalc-1-4-d2",
+      "ap-precalc-1-4-d3",
+      "ap-precalc-1-4-d4",
+      "ap-precalc-1-4-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-6-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "polynomial-end-behavior",
+    "title": {
+      "en": "Polynomial Functions and End Behavior",
+      "ja": "多項式関数と端での挙動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Polynomial Functions and End Behavior.",
+      "ja": "多項式関数（Polynomial Functions）と端での挙動（End Behavior）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Polynomial Functions and End Behavior is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Polynomial Functions and End Behavior, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Describe the end behavior of $p(x)=-3x^5+2x^2-1$.\nReasoning: The leading term is $-3x^5$. Thus $p(x)\\to-\\infty$ as $x\\to\\infty$ and $p(x)\\to\\infty$ as $x\\to-\\infty$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：多項式関数（Polynomial Functions）と端での挙動（End Behavior）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、多項式関数（Polynomial Functions）と端での挙動（End Behavior）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：最高次項は $-3x^5$ です。$x\\to\\infty$ で $p(x)\\to-\\infty$、$x\\to-\\infty$ で $p(x)\\to\\infty$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "polynomial-end-behavior",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-6-d1",
+      "ap-precalc-1-6-d2",
+      "ap-precalc-1-6-d3",
+      "ap-precalc-1-6-d4",
+      "ap-precalc-1-6-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-7-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rational-end-behavior",
+    "title": {
+      "en": "Rational Functions and End Behavior",
+      "ja": "有理関数と端での挙動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rational Functions and End Behavior.",
+      "ja": "有理関数（Rational Functions）と端での挙動（End Behavior）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rational Functions and End Behavior is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rational Functions and End Behavior, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the horizontal asymptote of $r(x)=(5x^2-1)/(2x^2+3x)$.\nReasoning: The numerator and denominator have equal degree, so the asymptote is the ratio of leading coefficients: $y=5/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：有理関数（Rational Functions）と端での挙動（End Behavior）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、有理関数（Rational Functions）と端での挙動（End Behavior）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：分子と分母の次数が等しいため、水平漸近線は最高次係数の比 $y=5/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rational-end-behavior",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-7-d1",
+      "ap-precalc-1-7-d2",
+      "ap-precalc-1-7-d3",
+      "ap-precalc-1-7-d4",
+      "ap-precalc-1-7-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-8-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rational-zeros",
+    "title": {
+      "en": "Rational Functions and Zeros",
+      "ja": "有理関数と零点"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rational Functions and Zeros.",
+      "ja": "有理関数（Rational Functions）と零点（Zeros）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rational Functions and Zeros is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rational Functions and Zeros, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find all zeros of $r(x)=(x^2-9)/(x+1)$.\nReasoning: Zeros come from the numerator and must remain in the domain. Thus $x=-3$ and $x=3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：有理関数（Rational Functions）と零点（Zeros）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、有理関数（Rational Functions）と零点（Zeros）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：分子を0にし、定義域に含まれる値を選ぶので、零点は $x=-3,3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rational-zeros",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-8-d1",
+      "ap-precalc-1-8-d2",
+      "ap-precalc-1-8-d3",
+      "ap-precalc-1-8-d4",
+      "ap-precalc-1-8-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-9-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rational-vertical-asymptotes",
+    "title": {
+      "en": "Rational Functions and Vertical Asymptotes",
+      "ja": "有理関数と垂直漸近線"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rational Functions and Vertical Asymptotes.",
+      "ja": "有理関数（Rational Functions）と垂直漸近線（Vertical Asymptotes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rational Functions and Vertical Asymptotes is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rational Functions and Vertical Asymptotes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the vertical asymptote of $r(x)=(x+2)/(x^2-x-6)$.\nReasoning: Factor the denominator: $(x-3)(x+2)$. The factor $x+2$ cancels, so the vertical asymptote is $x=3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：有理関数（Rational Functions）と垂直漸近線（Vertical Asymptotes）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、有理関数（Rational Functions）と垂直漸近線（Vertical Asymptotes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：分母は $(x-3)(x+2)$ です。$x+2$ は約分されるため、垂直漸近線は $x=3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rational-vertical-asymptotes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-9-d1",
+      "ap-precalc-1-9-d2",
+      "ap-precalc-1-9-d3",
+      "ap-precalc-1-9-d4",
+      "ap-precalc-1-9-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-10-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rational-holes",
+    "title": {
+      "en": "Rational Functions and Holes",
+      "ja": "有理関数と除去可能な不連続点"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rational Functions and Holes.",
+      "ja": "有理関数（Rational Functions）と除去可能な不連続点（Holes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rational Functions and Holes is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rational Functions and Holes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Locate the hole in $r(x)=(x^2-4)/(x-2)$.\nReasoning: For $x\\ne2$, $r(x)=x+2$. The missing point is therefore $(2,4)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：有理関数（Rational Functions）と除去可能な不連続点（Holes）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、有理関数（Rational Functions）と除去可能な不連続点（Holes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x\\ne2$ では $r(x)=x+2$ なので、穴は $(2,4)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rational-holes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-10-d1",
+      "ap-precalc-1-10-d2",
+      "ap-precalc-1-10-d3",
+      "ap-precalc-1-10-d4",
+      "ap-precalc-1-10-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-11-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "equivalent-polynomial-rational",
+    "title": {
+      "en": "Equivalent Representations of Polynomial and Rational Expressions",
+      "ja": "多項式・有理式の同値な表現"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Equivalent Representations of Polynomial and Rational Expressions.",
+      "ja": "多項式・有理式の同値な表現（Equivalent Representations of Polynomial and Rational Expressions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Equivalent Representations of Polynomial and Rational Expressions is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Equivalent Representations of Polynomial and Rational Expressions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Rewrite $(x^2-5x+6)/(x-2)$ in an equivalent simplified form and state the restriction.\nReasoning: Factor and cancel: $(x-2)(x-3)/(x-2)=x-3$, with $x\\ne2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：多項式・有理式の同値な表現（Equivalent Representations of Polynomial and Rational Expressions）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、多項式・有理式の同値な表現（Equivalent Representations of Polynomial and Rational Expressions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：因数分解して約分すると $x-3$ ですが、制限 $x\\ne2$ は残ります。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "equivalent-polynomial-rational",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-11-d1",
+      "ap-precalc-1-11-d2",
+      "ap-precalc-1-11-d3",
+      "ap-precalc-1-11-d4",
+      "ap-precalc-1-11-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-12-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "function-transformations",
+    "title": {
+      "en": "Transformations of Functions",
+      "ja": "関数の変換"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Transformations of Functions.",
+      "ja": "関数の変換（Transformations of Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Transformations of Functions is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Transformations of Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Starting from $f(x)=x^2$, describe the transformations that produce $g(x)=-2(x-3)^2+1$.\nReasoning: Shift right 3, stretch vertically by 2, reflect across the $x$-axis, and shift up 1.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数の変換（Transformations of Functions）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数の変換（Transformations of Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：右へ3、縦に2倍、$x$ 軸について反転、上へ1移動します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "function-transformations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-12-d1",
+      "ap-precalc-1-12-d2",
+      "ap-precalc-1-12-d3",
+      "ap-precalc-1-12-d4",
+      "ap-precalc-1-12-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-13-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "model-selection-assumptions",
+    "title": {
+      "en": "Function Model Selection and Assumption Articulation",
+      "ja": "関数モデルの選択と仮定の明示"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Function Model Selection and Assumption Articulation.",
+      "ja": "関数モデルの選択（Function Model Selection）と仮定の明示（Assumption Articulation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Function Model Selection and Assumption Articulation is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Function Model Selection and Assumption Articulation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A data set has nearly constant ratios of consecutive positive outputs. Which model family is the best first choice?\nReasoning: An exponential model is the best first choice because constant output ratios indicate multiplicative change.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数モデルの選択（Function Model Selection）と仮定の明示（Assumption Articulation）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数モデルの選択（Function Model Selection）と仮定の明示（Assumption Articulation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：連続する値の比がほぼ一定なので、乗法的変化を表す指数モデルが第一候補です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "model-selection-assumptions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-13-d1",
+      "ap-precalc-1-13-d2",
+      "ap-precalc-1-13-d3",
+      "ap-precalc-1-13-d4",
+      "ap-precalc-1-13-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-1-14-reference",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "model-construction-application",
+    "title": {
+      "en": "Function Model Construction and Application",
+      "ja": "関数モデルの構築と応用"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Function Model Construction and Application.",
+      "ja": "関数モデルの構築（Function Model Construction）と応用（Application）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Function Model Construction and Application is a focused skill in Polynomial and Rational Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Function Model Construction and Application, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A quantity starts at 120 and decreases by 8 each hour. Write a model for the quantity after $t$ hours.\nReasoning: $Q(t)=120-8t$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数モデルの構築（Function Model Construction）と応用（Application）は、Polynomial and Rational Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数モデルの構築（Function Model Construction）と応用（Application）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$Q(t)=120-8t$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "model-construction-application",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-1-14-d1",
+      "ap-precalc-1-14-d2",
+      "ap-precalc-1-14-d3",
+      "ap-precalc-1-14-d4",
+      "ap-precalc-1-14-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-1-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "arithmetic-geometric-change",
+    "title": {
+      "en": "Change in Arithmetic and Geometric Sequences",
+      "ja": "等差数列と等比数列の変化"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Change in Arithmetic and Geometric Sequences.",
+      "ja": "等差数列（Change in Arithmetic）と等比数列の変化（Geometric Sequences）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Change in Arithmetic and Geometric Sequences is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Change in Arithmetic and Geometric Sequences, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: The sequence $6,18,54,\\ldots$ is arithmetic or geometric? State its common change.\nReasoning: It is geometric with common ratio $3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：等差数列（Change in Arithmetic）と等比数列の変化（Geometric Sequences）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、等差数列（Change in Arithmetic）と等比数列の変化（Geometric Sequences）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：等比数列で、公比は3です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "arithmetic-geometric-change",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-1-d1",
+      "ap-precalc-2-1-d2",
+      "ap-precalc-2-1-d3",
+      "ap-precalc-2-1-d4",
+      "ap-precalc-2-1-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-2-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "linear-exponential-change",
+    "title": {
+      "en": "Change in Linear and Exponential Functions",
+      "ja": "一次関数と指数関数の変化"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Change in Linear and Exponential Functions.",
+      "ja": "一次関数（Change in Linear）と指数関数の変化（Exponential Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Change in Linear and Exponential Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Change in Linear and Exponential Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Which eventually grows faster: $L(n)=50+12n$ or $E(n)=50(1.08)^n$?\nReasoning: $E(n)$ eventually grows faster because exponential growth outpaces linear growth.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：一次関数（Change in Linear）と指数関数の変化（Exponential Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、一次関数（Change in Linear）と指数関数の変化（Exponential Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：指数関数的に増加する $E(n)$ は、最終的に一次関数 $L(n)$ より速く増えます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "linear-exponential-change",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-2-d1",
+      "ap-precalc-2-2-d2",
+      "ap-precalc-2-2-d3",
+      "ap-precalc-2-2-d4",
+      "ap-precalc-2-2-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-3-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "exponential-functions",
+    "title": {
+      "en": "Exponential Functions",
+      "ja": "指数関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exponential Functions.",
+      "ja": "指数関数（Exponential Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exponential Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exponential Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $f(3)$ for $f(x)=5(2)^x$.\nReasoning: $f(3)=5(8)=40$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：指数関数（Exponential Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、指数関数（Exponential Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f(3)=5\\cdot8=40$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "exponential-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-3-d1",
+      "ap-precalc-2-3-d2",
+      "ap-precalc-2-3-d3",
+      "ap-precalc-2-3-d4",
+      "ap-precalc-2-3-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-4-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "exponential-manipulation",
+    "title": {
+      "en": "Exponential Function Manipulation",
+      "ja": "指数関数の式変形"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exponential Function Manipulation.",
+      "ja": "指数関数の式変形（Exponential Function Manipulation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exponential Function Manipulation is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exponential Function Manipulation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Rewrite $9^{x+1}$ using base 3.\nReasoning: $9^{x+1}=(3^2)^{x+1}=3^{2x+2}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：指数関数の式変形（Exponential Function Manipulation）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、指数関数の式変形（Exponential Function Manipulation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$9=3^2$ より、$9^{x+1}=3^{2x+2}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "exponential-manipulation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-4-d1",
+      "ap-precalc-2-4-d2",
+      "ap-precalc-2-4-d3",
+      "ap-precalc-2-4-d4",
+      "ap-precalc-2-4-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-5-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "exponential-context-modeling",
+    "title": {
+      "en": "Exponential Function Context and Data Modeling",
+      "ja": "指数関数の文脈とデータモデリング"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exponential Function Context and Data Modeling.",
+      "ja": "指数関数の文脈（Exponential Function Context）とデータモデリング（Data Modeling）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exponential Function Context and Data Modeling is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exponential Function Context and Data Modeling, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A population is 300 and grows by 6% per year. Write an exponential model.\nReasoning: $P(t)=300(1.06)^t$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：指数関数の文脈（Exponential Function Context）とデータモデリング（Data Modeling）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、指数関数の文脈（Exponential Function Context）とデータモデリング（Data Modeling）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$P(t)=300(1.06)^t$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "exponential-context-modeling",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-5-d1",
+      "ap-precalc-2-5-d2",
+      "ap-precalc-2-5-d3",
+      "ap-precalc-2-5-d4",
+      "ap-precalc-2-5-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-6-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "competing-model-validation",
+    "title": {
+      "en": "Competing Function Model Validation",
+      "ja": "複数の関数モデルの比較検証"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Competing Function Model Validation.",
+      "ja": "複数の関数モデルの比較検証（Competing Function Model Validation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Competing Function Model Validation is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Competing Function Model Validation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A data set has nearly constant ratios of consecutive positive outputs. Which model family is the best first choice?\nReasoning: An exponential model is the best first choice because constant output ratios indicate multiplicative change.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：複数の関数モデルの比較検証（Competing Function Model Validation）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、複数の関数モデルの比較検証（Competing Function Model Validation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：連続する値の比がほぼ一定なので、乗法的変化を表す指数モデルが第一候補です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "competing-model-validation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-6-d1",
+      "ap-precalc-2-6-d2",
+      "ap-precalc-2-6-d3",
+      "ap-precalc-2-6-d4",
+      "ap-precalc-2-6-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-7-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "composition",
+    "title": {
+      "en": "Composition of Functions",
+      "ja": "関数の合成"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Composition of Functions.",
+      "ja": "関数の合成（Composition of Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Composition of Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Composition of Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $f(x)=2x+1$ and $g(x)=x^2$, find $(f\\circ g)(3)$.\nReasoning: $g(3)=9$, so $f(g(3))=f(9)=19$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数の合成（Composition of Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数の合成（Composition of Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$g(3)=9$、したがって $f(g(3))=19$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "composition",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-7-d1",
+      "ap-precalc-2-7-d2",
+      "ap-precalc-2-7-d3",
+      "ap-precalc-2-7-d4",
+      "ap-precalc-2-7-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-8-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "inverse-functions",
+    "title": {
+      "en": "Inverse Functions",
+      "ja": "逆関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Inverse Functions.",
+      "ja": "逆関数（Inverse Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Inverse Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Inverse Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the inverse of $f(x)=3x-7$.\nReasoning: From $y=3x-7$, solve for $x$: $x=(y+7)/3$. Thus $f^{-1}(x)=(x+7)/3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：逆関数（Inverse Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、逆関数（Inverse Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$y=3x-7$ を $x$ について解くと、$f^{-1}(x)=(x+7)/3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inverse-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-8-d1",
+      "ap-precalc-2-8-d2",
+      "ap-precalc-2-8-d3",
+      "ap-precalc-2-8-d4",
+      "ap-precalc-2-8-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-9-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "logarithmic-expressions",
+    "title": {
+      "en": "Logarithmic Expressions",
+      "ja": "対数式"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Logarithmic Expressions.",
+      "ja": "対数式（Logarithmic Expressions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Logarithmic Expressions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Logarithmic Expressions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Expand $\\log_2(8x^3)$ for $x>0$.\nReasoning: $\\log_2(8x^3)=3+3\\log_2x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：対数式（Logarithmic Expressions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、対数式（Logarithmic Expressions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\log_2(8x^3)=3+3\\log_2x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "logarithmic-expressions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-9-d1",
+      "ap-precalc-2-9-d2",
+      "ap-precalc-2-9-d3",
+      "ap-precalc-2-9-d4",
+      "ap-precalc-2-9-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-10-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "inverse-exponential",
+    "title": {
+      "en": "Inverses of Exponential Functions",
+      "ja": "指数関数の逆関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Inverses of Exponential Functions.",
+      "ja": "指数関数の逆関数（Inverses of Exponential Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Inverses of Exponential Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Inverses of Exponential Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $4^x=11$ using logarithms.\nReasoning: $x=\\log_4 11=\\ln 11/\\ln4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：指数関数の逆関数（Inverses of Exponential Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、指数関数の逆関数（Inverses of Exponential Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x=\\log_4 11=\\ln11/\\ln4$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inverse-exponential",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-10-d1",
+      "ap-precalc-2-10-d2",
+      "ap-precalc-2-10-d3",
+      "ap-precalc-2-10-d4",
+      "ap-precalc-2-10-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-11-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "logarithmic-functions",
+    "title": {
+      "en": "Logarithmic Functions",
+      "ja": "対数関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Logarithmic Functions.",
+      "ja": "対数関数（Logarithmic Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Logarithmic Functions is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Logarithmic Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: State the domain of $f(x)=\\ln(x-5)$.\nReasoning: The argument must be positive: $x-5>0$, so the domain is $(5,\\infty)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：対数関数（Logarithmic Functions）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、対数関数（Logarithmic Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x-5>0$ が必要なので、定義域は $(5,\\infty)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "logarithmic-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-11-d1",
+      "ap-precalc-2-11-d2",
+      "ap-precalc-2-11-d3",
+      "ap-precalc-2-11-d4",
+      "ap-precalc-2-11-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-12-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "logarithmic-manipulation",
+    "title": {
+      "en": "Logarithmic Function Manipulation",
+      "ja": "対数関数の式変形"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Logarithmic Function Manipulation.",
+      "ja": "対数関数の式変形（Logarithmic Function Manipulation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Logarithmic Function Manipulation is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Logarithmic Function Manipulation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Condense $2\\ln x-\\ln(x+1)$ into one logarithm.\nReasoning: $\\ln(x^2/(x+1))$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：対数関数の式変形（Logarithmic Function Manipulation）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、対数関数の式変形（Logarithmic Function Manipulation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\ln(x^2/(x+1))$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "logarithmic-manipulation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-12-d1",
+      "ap-precalc-2-12-d2",
+      "ap-precalc-2-12-d3",
+      "ap-precalc-2-12-d4",
+      "ap-precalc-2-12-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-13-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "exponential-log-equations",
+    "title": {
+      "en": "Exponential and Logarithmic Equations and Inequalities",
+      "ja": "指数・対数方程式と不等式"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exponential and Logarithmic Equations and Inequalities.",
+      "ja": "指数・対数方程式と不等式（Exponential and Logarithmic Equations and Inequalities）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exponential and Logarithmic Equations and Inequalities is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exponential and Logarithmic Equations and Inequalities, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $e^{2x}=7$.\nReasoning: $2x=\\ln7$, so $x=\\ln7/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：指数・対数方程式と不等式（Exponential and Logarithmic Equations and Inequalities）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、指数・対数方程式と不等式（Exponential and Logarithmic Equations and Inequalities）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$2x=\\ln7$ より、$x=\\ln7/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "exponential-log-equations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-13-d1",
+      "ap-precalc-2-13-d2",
+      "ap-precalc-2-13-d3",
+      "ap-precalc-2-13-d4",
+      "ap-precalc-2-13-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-14-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "logarithmic-context-modeling",
+    "title": {
+      "en": "Logarithmic Function Context and Data Modeling",
+      "ja": "対数関数の文脈とデータモデリング"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Logarithmic Function Context and Data Modeling.",
+      "ja": "対数関数の文脈（Logarithmic Function Context）とデータモデリング（Data Modeling）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Logarithmic Function Context and Data Modeling is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Logarithmic Function Context and Data Modeling, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A sound level is modeled by $L=10\\log_{10}(I/I_0)$. What happens to $L$ when $I$ is multiplied by 10?\nReasoning: $L$ increases by $10$ because $10\\log_{10}(10)=10$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：対数関数の文脈（Logarithmic Function Context）とデータモデリング（Data Modeling）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、対数関数の文脈（Logarithmic Function Context）とデータモデリング（Data Modeling）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$I$ が10倍になると、$L$ は10増加します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "logarithmic-context-modeling",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-14-d1",
+      "ap-precalc-2-14-d2",
+      "ap-precalc-2-14-d3",
+      "ap-precalc-2-14-d4",
+      "ap-precalc-2-14-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-2-15-reference",
+    "course": "ap-precalc",
+    "unit": "exponential-logarithmic",
+    "topic": "semi-log-plots",
+    "title": {
+      "en": "Semi-log Plots",
+      "ja": "片対数グラフ"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Semi-log Plots.",
+      "ja": "片対数グラフ（Semi-log Plots）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Semi-log Plots is a focused skill in Exponential and Logarithmic Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Semi-log Plots, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: On a semi-log plot, data form a straight line. What model type does this support?\nReasoning: It supports an exponential model.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：片対数グラフ（Semi-log Plots）は、Exponential and Logarithmic Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、片対数グラフ（Semi-log Plots）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：指数モデルが適していることを示します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "semi-log-plots",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-2-15-d1",
+      "ap-precalc-2-15-d2",
+      "ap-precalc-2-15-d3",
+      "ap-precalc-2-15-d4",
+      "ap-precalc-2-15-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-1-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "periodic-phenomena",
+    "title": {
+      "en": "Periodic Phenomena",
+      "ja": "周期現象"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Periodic Phenomena.",
+      "ja": "周期現象（Periodic Phenomena）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Periodic Phenomena is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Periodic Phenomena, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A signal repeats every 0.4 second. Find its period and frequency.\nReasoning: The period is $0.4$ s and the frequency is $1/0.4=2.5$ Hz.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：周期現象（Periodic Phenomena）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、周期現象（Periodic Phenomena）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：周期は $0.4$ 秒、周波数は $2.5$ Hzです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "periodic-phenomena",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-1-d1",
+      "ap-precalc-3-1-d2",
+      "ap-precalc-3-1-d3",
+      "ap-precalc-3-1-d4",
+      "ap-precalc-3-1-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-2-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sine-cosine-tangent",
+    "title": {
+      "en": "Sine, Cosine, and Tangent",
+      "ja": "正弦・余弦・正接"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sine, Cosine, and Tangent.",
+      "ja": "正弦（Sine）・余弦（Cosine）・正接（Tangent）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sine, Cosine, and Tangent is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sine, Cosine, and Tangent, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: On the unit circle, find $\\sin(5\\pi/6)$ and $\\cos(5\\pi/6)$.\nReasoning: $\\sin(5\\pi/6)=1/2$ and $\\cos(5\\pi/6)=-\\sqrt3/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦（Sine）・余弦（Cosine）・正接（Tangent）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦（Sine）・余弦（Cosine）・正接（Tangent）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\sin(5\\pi/6)=1/2$、$\\cos(5\\pi/6)=-\\sqrt3/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sine-cosine-tangent",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-2-d1",
+      "ap-precalc-3-2-d2",
+      "ap-precalc-3-2-d3",
+      "ap-precalc-3-2-d4",
+      "ap-precalc-3-2-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-3-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sine-cosine-values",
+    "title": {
+      "en": "Sine and Cosine Function Values",
+      "ja": "正弦関数と余弦関数の値"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sine and Cosine Function Values.",
+      "ja": "正弦関数（Sine）と余弦関数の値（Cosine Function Values）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sine and Cosine Function Values is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sine and Cosine Function Values, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: On the unit circle, find $\\sin(5\\pi/6)$ and $\\cos(5\\pi/6)$.\nReasoning: $\\sin(5\\pi/6)=1/2$ and $\\cos(5\\pi/6)=-\\sqrt3/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦関数（Sine）と余弦関数の値（Cosine Function Values）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦関数（Sine）と余弦関数の値（Cosine Function Values）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\sin(5\\pi/6)=1/2$、$\\cos(5\\pi/6)=-\\sqrt3/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sine-cosine-values",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-3-d1",
+      "ap-precalc-3-3-d2",
+      "ap-precalc-3-3-d3",
+      "ap-precalc-3-3-d4",
+      "ap-precalc-3-3-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-4-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sine-cosine-graphs",
+    "title": {
+      "en": "Sine and Cosine Function Graphs",
+      "ja": "正弦関数と余弦関数のグラフ"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sine and Cosine Function Graphs.",
+      "ja": "正弦関数（Sine）と余弦関数のグラフ（Cosine Function Graphs）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sine and Cosine Function Graphs is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sine and Cosine Function Graphs, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $y=3\\sin(2x)$, state the amplitude and period.\nReasoning: The amplitude is $3$ and the period is $2\\pi/2=\\pi$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦関数（Sine）と余弦関数のグラフ（Cosine Function Graphs）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦関数（Sine）と余弦関数のグラフ（Cosine Function Graphs）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：振幅は3、周期は $\\pi$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sine-cosine-graphs",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-4-d1",
+      "ap-precalc-3-4-d2",
+      "ap-precalc-3-4-d3",
+      "ap-precalc-3-4-d4",
+      "ap-precalc-3-4-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-5-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sinusoidal-functions",
+    "title": {
+      "en": "Sinusoidal Functions",
+      "ja": "正弦波関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sinusoidal Functions.",
+      "ja": "正弦波関数（Sinusoidal Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sinusoidal Functions is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sinusoidal Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $y=3\\sin(2x)$, state the amplitude and period.\nReasoning: The amplitude is $3$ and the period is $2\\pi/2=\\pi$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦波関数（Sinusoidal Functions）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦波関数（Sinusoidal Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：振幅は3、周期は $\\pi$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sinusoidal-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-5-d1",
+      "ap-precalc-3-5-d2",
+      "ap-precalc-3-5-d3",
+      "ap-precalc-3-5-d4",
+      "ap-precalc-3-5-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-6-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sinusoidal-transformations",
+    "title": {
+      "en": "Sinusoidal Function Transformations",
+      "ja": "正弦波関数の変換"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sinusoidal Function Transformations.",
+      "ja": "正弦波関数の変換（Sinusoidal Function Transformations）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sinusoidal Function Transformations is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sinusoidal Function Transformations, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $y=2\\cos(3(x-\\pi/4))+1$, state the phase shift and vertical shift.\nReasoning: The phase shift is right $\\pi/4$ and the vertical shift is up 1.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦波関数の変換（Sinusoidal Function Transformations）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦波関数の変換（Sinusoidal Function Transformations）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：位相のずれは右へ $\\pi/4$、上下移動は上へ1です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sinusoidal-transformations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-6-d1",
+      "ap-precalc-3-6-d2",
+      "ap-precalc-3-6-d3",
+      "ap-precalc-3-6-d4",
+      "ap-precalc-3-6-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-7-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "sinusoidal-context-modeling",
+    "title": {
+      "en": "Sinusoidal Function Context and Data Modeling",
+      "ja": "正弦波関数の文脈とデータモデリング"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sinusoidal Function Context and Data Modeling.",
+      "ja": "正弦波関数の文脈（Sinusoidal Function Context）とデータモデリング（Data Modeling）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sinusoidal Function Context and Data Modeling is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sinusoidal Function Context and Data Modeling, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A wheel has radius 4 and its center is 6 units above the ground. Give the amplitude and midline of a sinusoidal height model.\nReasoning: The amplitude is $4$ and the midline is $y=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正弦波関数の文脈（Sinusoidal Function Context）とデータモデリング（Data Modeling）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正弦波関数の文脈（Sinusoidal Function Context）とデータモデリング（Data Modeling）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：振幅は4、中心線は $y=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sinusoidal-context-modeling",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-7-d1",
+      "ap-precalc-3-7-d2",
+      "ap-precalc-3-7-d3",
+      "ap-precalc-3-7-d4",
+      "ap-precalc-3-7-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-8-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "tangent-function",
+    "title": {
+      "en": "The Tangent Function",
+      "ja": "正接関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Tangent Function.",
+      "ja": "正接関数（The Tangent Function）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Tangent Function is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Tangent Function, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the period of $y=\\tan(4x)$.\nReasoning: The tangent period is $\\pi/4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正接関数（The Tangent Function）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正接関数（The Tangent Function）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：正接関数の周期は $\\pi/4$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "tangent-function",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-8-d1",
+      "ap-precalc-3-8-d2",
+      "ap-precalc-3-8-d3",
+      "ap-precalc-3-8-d4",
+      "ap-precalc-3-8-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-9-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "inverse-trigonometric",
+    "title": {
+      "en": "Inverse Trigonometric Functions",
+      "ja": "逆三角関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Inverse Trigonometric Functions.",
+      "ja": "逆三角関数（Inverse Trigonometric Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Inverse Trigonometric Functions is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Inverse Trigonometric Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\arcsin(1/2)$ using the principal range.\nReasoning: $\\arcsin(1/2)=\\pi/6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：逆三角関数（Inverse Trigonometric Functions）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、逆三角関数（Inverse Trigonometric Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\arcsin(1/2)=\\pi/6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inverse-trigonometric",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-9-d1",
+      "ap-precalc-3-9-d2",
+      "ap-precalc-3-9-d3",
+      "ap-precalc-3-9-d4",
+      "ap-precalc-3-9-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-10-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "trigonometric-equations",
+    "title": {
+      "en": "Trigonometric Equations and Inequalities",
+      "ja": "三角方程式と不等式"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Trigonometric Equations and Inequalities.",
+      "ja": "三角方程式（Trigonometric Equations）と不等式（Inequalities）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Trigonometric Equations and Inequalities is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Trigonometric Equations and Inequalities, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $2\\sin x=1$ on $0\\le x<2\\pi$.\nReasoning: $x=\\pi/6$ or $x=5\\pi/6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：三角方程式（Trigonometric Equations）と不等式（Inequalities）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、三角方程式（Trigonometric Equations）と不等式（Inequalities）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x=\\pi/6,5\\pi/6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "trigonometric-equations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-10-d1",
+      "ap-precalc-3-10-d2",
+      "ap-precalc-3-10-d3",
+      "ap-precalc-3-10-d4",
+      "ap-precalc-3-10-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-11-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "reciprocal-trigonometric",
+    "title": {
+      "en": "The Secant, Cosecant, and Cotangent Functions",
+      "ja": "正割・余割・余接関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Secant, Cosecant, and Cotangent Functions.",
+      "ja": "正割（The Secant）・余割（Cosecant）・余接関数（Cotangent Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Secant, Cosecant, and Cotangent Functions is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Secant, Cosecant, and Cotangent Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $\\sin\\theta=3/5$, find $\\csc\\theta$.\nReasoning: $\\csc\\theta=1/\\sin\\theta=5/3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正割（The Secant）・余割（Cosecant）・余接関数（Cotangent Functions）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正割（The Secant）・余割（Cosecant）・余接関数（Cotangent Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\csc\\theta=5/3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "reciprocal-trigonometric",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-11-d1",
+      "ap-precalc-3-11-d2",
+      "ap-precalc-3-11-d3",
+      "ap-precalc-3-11-d4",
+      "ap-precalc-3-11-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-12-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "equivalent-trigonometric",
+    "title": {
+      "en": "Equivalent Representations of Trigonometric Functions",
+      "ja": "三角関数の同値な表現"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Equivalent Representations of Trigonometric Functions.",
+      "ja": "三角関数の同値な表現（Equivalent Representations of Trigonometric Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Equivalent Representations of Trigonometric Functions is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Equivalent Representations of Trigonometric Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Simplify $(1-\\cos^2x)/\\sin x$ where $\\sin x\\ne0$.\nReasoning: Using $1-\\cos^2x=\\sin^2x$, the expression is $\\sin x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：三角関数の同値な表現（Equivalent Representations of Trigonometric Functions）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、三角関数の同値な表現（Equivalent Representations of Trigonometric Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$1-\\cos^2x=\\sin^2x$ より、$\\sin x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "equivalent-trigonometric",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-12-d1",
+      "ap-precalc-3-12-d2",
+      "ap-precalc-3-12-d3",
+      "ap-precalc-3-12-d4",
+      "ap-precalc-3-12-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-13-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "trigonometry-polar-coordinates",
+    "title": {
+      "en": "Trigonometry and Polar Coordinates",
+      "ja": "三角法と極座標"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Trigonometry and Polar Coordinates.",
+      "ja": "三角法（Trigonometry）と極座標（Polar Coordinates）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Trigonometry and Polar Coordinates is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Trigonometry and Polar Coordinates, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Convert the polar point $(r,\\theta)=(4,\\pi/3)$ to rectangular coordinates.\nReasoning: $(x,y)=(4\\cos(\\pi/3),4\\sin(\\pi/3))=(2,2\\sqrt3)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：三角法（Trigonometry）と極座標（Polar Coordinates）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、三角法（Trigonometry）と極座標（Polar Coordinates）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$(x,y)=(2,2\\sqrt3)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "trigonometry-polar-coordinates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-13-d1",
+      "ap-precalc-3-13-d2",
+      "ap-precalc-3-13-d3",
+      "ap-precalc-3-13-d4",
+      "ap-precalc-3-13-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-14-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "polar-graphs",
+    "title": {
+      "en": "Polar Function Graphs",
+      "ja": "極座標関数のグラフ"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Polar Function Graphs.",
+      "ja": "極座標関数のグラフ（Polar Function Graphs）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Polar Function Graphs is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Polar Function Graphs, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Convert the polar point $(r,\\theta)=(4,\\pi/3)$ to rectangular coordinates.\nReasoning: $(x,y)=(4\\cos(\\pi/3),4\\sin(\\pi/3))=(2,2\\sqrt3)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極座標関数のグラフ（Polar Function Graphs）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極座標関数のグラフ（Polar Function Graphs）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$(x,y)=(2,2\\sqrt3)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "polar-graphs",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-14-d1",
+      "ap-precalc-3-14-d2",
+      "ap-precalc-3-14-d3",
+      "ap-precalc-3-14-d4",
+      "ap-precalc-3-14-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-3-15-reference",
+    "course": "ap-precalc",
+    "unit": "trigonometric-polar",
+    "topic": "polar-rates",
+    "title": {
+      "en": "Rates of Change in Polar Functions",
+      "ja": "極座標関数の変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rates of Change in Polar Functions.",
+      "ja": "極座標関数の変化率（Rates of Change in Polar Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rates of Change in Polar Functions is a focused skill in Trigonometric and Polar Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rates of Change in Polar Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^2-3x$, find the average rate of change on $[1,4]$.\nReasoning: $[f(4)-f(1)]/(4-1)=(4-(-2))/3=2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極座標関数の変化率（Rates of Change in Polar Functions）は、Trigonometric and Polar Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極座標関数の変化率（Rates of Change in Polar Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$[f(4)-f(1)]/(4-1)=2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "polar-rates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-3-15-d1",
+      "ap-precalc-3-15-d2",
+      "ap-precalc-3-15-d3",
+      "ap-precalc-3-15-d4",
+      "ap-precalc-3-15-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-1-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "parametric-functions",
+    "title": {
+      "en": "Parametric Functions",
+      "ja": "媒介変数関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Parametric Functions.",
+      "ja": "媒介変数関数（Parametric Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Parametric Functions is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Parametric Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $x=t+1$ and $y=t^2$, find the point when $t=2$.\nReasoning: The point is $(3,4)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：媒介変数関数（Parametric Functions）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、媒介変数関数（Parametric Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：点は $(3,4)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "parametric-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-1-d1",
+      "ap-precalc-4-1-d2",
+      "ap-precalc-4-1-d3",
+      "ap-precalc-4-1-d4",
+      "ap-precalc-4-1-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-2-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "parametric-planar-motion",
+    "title": {
+      "en": "Parametric Functions Modeling Planar Motion",
+      "ja": "平面運動を表す媒介変数関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Parametric Functions Modeling Planar Motion.",
+      "ja": "平面運動を表す媒介変数関数（Parametric Functions Modeling Planar Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Parametric Functions Modeling Planar Motion is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Parametric Functions Modeling Planar Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $x=t+1$ and $y=t^2$, find the point when $t=2$.\nReasoning: The point is $(3,4)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：平面運動を表す媒介変数関数（Parametric Functions Modeling Planar Motion）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、平面運動を表す媒介変数関数（Parametric Functions Modeling Planar Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：点は $(3,4)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "parametric-planar-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-2-d1",
+      "ap-precalc-4-2-d2",
+      "ap-precalc-4-2-d3",
+      "ap-precalc-4-2-d4",
+      "ap-precalc-4-2-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-3-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "parametric-rates",
+    "title": {
+      "en": "Parametric Functions and Rates of Change",
+      "ja": "媒介変数関数と変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Parametric Functions and Rates of Change.",
+      "ja": "媒介変数関数（Parametric Functions）と変化率（Rates of Change）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Parametric Functions and Rates of Change is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Parametric Functions and Rates of Change, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^2-3x$, find the average rate of change on $[1,4]$.\nReasoning: $[f(4)-f(1)]/(4-1)=(4-(-2))/3=2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：媒介変数関数（Parametric Functions）と変化率（Rates of Change）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、媒介変数関数（Parametric Functions）と変化率（Rates of Change）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$[f(4)-f(1)]/(4-1)=2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "parametric-rates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-3-d1",
+      "ap-precalc-4-3-d2",
+      "ap-precalc-4-3-d3",
+      "ap-precalc-4-3-d4",
+      "ap-precalc-4-3-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-4-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "parametric-circles-lines",
+    "title": {
+      "en": "Parametrically Defined Circles and Lines",
+      "ja": "媒介変数表示された円と直線"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Parametrically Defined Circles and Lines.",
+      "ja": "媒介変数表示された円（Parametrically Defined Circles）と直線（Lines）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Parametrically Defined Circles and Lines is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Parametrically Defined Circles and Lines, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $x=t+1$ and $y=t^2$, find the point when $t=2$.\nReasoning: The point is $(3,4)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：媒介変数表示された円（Parametrically Defined Circles）と直線（Lines）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、媒介変数表示された円（Parametrically Defined Circles）と直線（Lines）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：点は $(3,4)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "parametric-circles-lines",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-4-d1",
+      "ap-precalc-4-4-d2",
+      "ap-precalc-4-4-d3",
+      "ap-precalc-4-4-d4",
+      "ap-precalc-4-4-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-5-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "implicit-functions",
+    "title": {
+      "en": "Implicitly Defined Functions",
+      "ja": "陰関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Implicitly Defined Functions.",
+      "ja": "陰関数（Implicitly Defined Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Implicitly Defined Functions is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Implicitly Defined Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $x^2+y^2=25$, give the upper branch as an explicit function of $x$.\nReasoning: $y=\\sqrt{25-x^2}$ for $-5\\le x\\le5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：陰関数（Implicitly Defined Functions）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、陰関数（Implicitly Defined Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：上側の枝は $y=\\sqrt{25-x^2}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "implicit-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-5-d1",
+      "ap-precalc-4-5-d2",
+      "ap-precalc-4-5-d3",
+      "ap-precalc-4-5-d4",
+      "ap-precalc-4-5-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-6-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "conic-sections",
+    "title": {
+      "en": "Conic Sections",
+      "ja": "円錐曲線"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conic Sections.",
+      "ja": "円錐曲線（Conic Sections）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conic Sections is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conic Sections, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Identify the conic $x^2/9+y^2/4=1$.\nReasoning: It is an ellipse centered at the origin with semiaxes 3 and 2.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円錐曲線（Conic Sections）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円錐曲線（Conic Sections）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：原点を中心とし、半軸が3と2の楕円です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "conic-sections",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-6-d1",
+      "ap-precalc-4-6-d2",
+      "ap-precalc-4-6-d3",
+      "ap-precalc-4-6-d4",
+      "ap-precalc-4-6-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-7-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "parametrization-implicit",
+    "title": {
+      "en": "Parametrization of Implicitly Defined Functions",
+      "ja": "陰関数の媒介変数表示"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Parametrization of Implicitly Defined Functions.",
+      "ja": "陰関数の媒介変数表示（Parametrization of Implicitly Defined Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Parametrization of Implicitly Defined Functions is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Parametrization of Implicitly Defined Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Give a parametrization of the circle $x^2+y^2=16$.\nReasoning: $x=4\\cos t$, $y=4\\sin t$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：陰関数の媒介変数表示（Parametrization of Implicitly Defined Functions）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、陰関数の媒介変数表示（Parametrization of Implicitly Defined Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x=4\\cos t$、$y=4\\sin t$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "parametrization-implicit",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-7-d1",
+      "ap-precalc-4-7-d2",
+      "ap-precalc-4-7-d3",
+      "ap-precalc-4-7-d4",
+      "ap-precalc-4-7-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-8-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "vectors",
+    "title": {
+      "en": "Vectors",
+      "ja": "ベクトル"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Vectors.",
+      "ja": "ベクトル（Vectors）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Vectors is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Vectors, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the magnitude of the vector $\\langle3,-4\\rangle$.\nReasoning: $\\sqrt{3^2+(-4)^2}=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ベクトル（Vectors）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ベクトル（Vectors）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：大きさは $5$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "vectors",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-8-d1",
+      "ap-precalc-4-8-d2",
+      "ap-precalc-4-8-d3",
+      "ap-precalc-4-8-d4",
+      "ap-precalc-4-8-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-9-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "vector-valued-functions",
+    "title": {
+      "en": "Vector-Valued Functions",
+      "ja": "ベクトル値関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Vector-Valued Functions.",
+      "ja": "ベクトル値関数（Vector-Valued Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Vector-Valued Functions is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Vector-Valued Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the magnitude of the vector $\\langle3,-4\\rangle$.\nReasoning: $\\sqrt{3^2+(-4)^2}=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：ベクトル値関数（Vector-Valued Functions）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、ベクトル値関数（Vector-Valued Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：大きさは $5$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "vector-valued-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-9-d1",
+      "ap-precalc-4-9-d2",
+      "ap-precalc-4-9-d3",
+      "ap-precalc-4-9-d4",
+      "ap-precalc-4-9-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-10-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "matrices",
+    "title": {
+      "en": "Matrices",
+      "ja": "行列"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Matrices.",
+      "ja": "行列（Matrices）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Matrices is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Matrices, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Compute $\\begin{bmatrix}1&2\\\\3&4\\end{bmatrix}\\begin{bmatrix}2\\\\1\\end{bmatrix}$.\nReasoning: The product is $\\begin{bmatrix}4\\\\10\\end{bmatrix}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：行列（Matrices）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、行列（Matrices）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：積は $\\begin{bmatrix}4\\\\10\\end{bmatrix}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "matrices",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-10-d1",
+      "ap-precalc-4-10-d2",
+      "ap-precalc-4-10-d3",
+      "ap-precalc-4-10-d4",
+      "ap-precalc-4-10-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-11-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "matrix-inverse-determinant",
+    "title": {
+      "en": "The Inverse and Determinant of a Matrix",
+      "ja": "逆行列と行列式"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Inverse and Determinant of a Matrix.",
+      "ja": "逆行列（The Inverse）と行列式（Determinant of a Matrix）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Inverse and Determinant of a Matrix is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Inverse and Determinant of a Matrix, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the determinant of $\\begin{bmatrix}2&1\\\\5&3\\end{bmatrix}$.\nReasoning: $2(3)-1(5)=1$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：逆行列（The Inverse）と行列式（Determinant of a Matrix）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、逆行列（The Inverse）と行列式（Determinant of a Matrix）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：行列式は $2\\cdot3-1\\cdot5=1$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "matrix-inverse-determinant",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-11-d1",
+      "ap-precalc-4-11-d2",
+      "ap-precalc-4-11-d3",
+      "ap-precalc-4-11-d4",
+      "ap-precalc-4-11-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-12-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "linear-transformations-matrices",
+    "title": {
+      "en": "Linear Transformations and Matrices",
+      "ja": "線形変換と行列"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Linear Transformations and Matrices.",
+      "ja": "線形変換（Linear Transformations）と行列（Matrices）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Linear Transformations and Matrices is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Linear Transformations and Matrices, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: The matrix $\\begin{bmatrix}0&-1\\\\1&0\\end{bmatrix}$ acts on the plane. What does it do to $(1,0)$?\nReasoning: It sends $(1,0)$ to $(0,1)$, a $90^\\circ$ counterclockwise rotation.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：線形変換（Linear Transformations）と行列（Matrices）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、線形変換（Linear Transformations）と行列（Matrices）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$(1,0)$ を $(0,1)$ に移し、反時計回りに90度回転します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "linear-transformations-matrices",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-12-d1",
+      "ap-precalc-4-12-d2",
+      "ap-precalc-4-12-d3",
+      "ap-precalc-4-12-d4",
+      "ap-precalc-4-12-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-13-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "matrices-as-functions",
+    "title": {
+      "en": "Matrices as Functions",
+      "ja": "関数としての行列"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Matrices as Functions.",
+      "ja": "関数としての行列（Matrices as Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Matrices as Functions is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Matrices as Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A two-state system changes by $\\mathbf{x}_{n+1}=A\\mathbf{x}_n$. What operation advances the system one step?\nReasoning: Multiply the current state vector by $A$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数としての行列（Matrices as Functions）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数としての行列（Matrices as Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：現在の状態ベクトルに行列 $A$ を掛けます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "matrices-as-functions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-13-d1",
+      "ap-precalc-4-13-d2",
+      "ap-precalc-4-13-d3",
+      "ap-precalc-4-13-d4",
+      "ap-precalc-4-13-d5"
+    ]
+  },
+  {
+    "id": "ap-precalc-4-14-reference",
+    "course": "ap-precalc",
+    "unit": "parameters-vectors-matrices",
+    "topic": "matrices-modeling",
+    "title": {
+      "en": "Matrices Modeling Contexts",
+      "ja": "行列による状況のモデリング"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Matrices Modeling Contexts.",
+      "ja": "行列による状況のモデリング（Matrices Modeling Contexts）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Matrices Modeling Contexts is a focused skill in Functions Involving Parameters, Vectors, and Matrices. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Matrices Modeling Contexts, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A two-state system changes by $\\mathbf{x}_{n+1}=A\\mathbf{x}_n$. What operation advances the system one step?\nReasoning: Multiply the current state vector by $A$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：行列による状況のモデリング（Matrices Modeling Contexts）は、Functions Involving Parameters, Vectors, and Matricesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、行列による状況のモデリング（Matrices Modeling Contexts）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：現在の状態ベクトルに行列 $A$ を掛けます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "matrices-modeling",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-precalc-4-14-d1",
+      "ap-precalc-4-14-d2",
+      "ap-precalc-4-14-d3",
+      "ap-precalc-4-14-d4",
+      "ap-precalc-4-14-d5"
+    ]
+  }
+]

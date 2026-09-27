@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "ap-calc-ab-1-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "introducing-calculus",
+    "title": {
+      "en": "Introducing Calculus: Can Change Occur at an Instant?",
+      "ja": "微積分入門：変化は瞬間に起こるか"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Introducing Calculus: Can Change Occur at an Instant?.",
+      "ja": "微積分入門：変化は瞬間に起こるか（Introducing Calculus: Can Change Occur at an Instant?）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Introducing Calculus: Can Change Occur at an Instant? is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Introducing Calculus: Can Change Occur at an Instant?, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微積分入門：変化は瞬間に起こるか（Introducing Calculus: Can Change Occur at an Instant?）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微積分入門：変化は瞬間に起こるか（Introducing Calculus: Can Change Occur at an Instant?）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "introducing-calculus",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-1-d1",
+      "ap-calc-ab-1-1-d2",
+      "ap-calc-ab-1-1-d3",
+      "ap-calc-ab-1-1-d4",
+      "ap-calc-ab-1-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "defining-limits",
+    "title": {
+      "en": "Defining Limits and Using Limit Notation",
+      "ja": "極限の定義と極限記法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Defining Limits and Using Limit Notation.",
+      "ja": "極限の定義（Defining Limits）と極限記法（Using Limit Notation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Defining Limits and Using Limit Notation is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Defining Limits and Using Limit Notation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極限の定義（Defining Limits）と極限記法（Using Limit Notation）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極限の定義（Defining Limits）と極限記法（Using Limit Notation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "defining-limits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-2-d1",
+      "ap-calc-ab-1-2-d2",
+      "ap-calc-ab-1-2-d3",
+      "ap-calc-ab-1-2-d4",
+      "ap-calc-ab-1-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "limits-from-graphs",
+    "title": {
+      "en": "Estimating Limit Values from Graphs",
+      "ja": "グラフから極限値を推定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Estimating Limit Values from Graphs.",
+      "ja": "グラフから極限値を推定（Estimating Limit Values from Graphs）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Estimating Limit Values from Graphs is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Estimating Limit Values from Graphs, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：グラフから極限値を推定（Estimating Limit Values from Graphs）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、グラフから極限値を推定（Estimating Limit Values from Graphs）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "limits-from-graphs",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-3-d1",
+      "ap-calc-ab-1-3-d2",
+      "ap-calc-ab-1-3-d3",
+      "ap-calc-ab-1-3-d4",
+      "ap-calc-ab-1-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "limits-from-tables",
+    "title": {
+      "en": "Estimating Limit Values from Tables",
+      "ja": "表から極限値を推定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Estimating Limit Values from Tables.",
+      "ja": "表から極限値を推定（Estimating Limit Values from Tables）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Estimating Limit Values from Tables is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Estimating Limit Values from Tables, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：表から極限値を推定（Estimating Limit Values from Tables）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、表から極限値を推定（Estimating Limit Values from Tables）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "limits-from-tables",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-4-d1",
+      "ap-calc-ab-1-4-d2",
+      "ap-calc-ab-1-4-d3",
+      "ap-calc-ab-1-4-d4",
+      "ap-calc-ab-1-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "algebraic-properties-limits",
+    "title": {
+      "en": "Determining Limits Using Algebraic Properties of Limits",
+      "ja": "極限の代数的性質による極限計算"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Determining Limits Using Algebraic Properties of Limits.",
+      "ja": "極限の代数的性質による極限計算（Determining Limits Using Algebraic Properties of Limits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Determining Limits Using Algebraic Properties of Limits is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Determining Limits Using Algebraic Properties of Limits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極限の代数的性質による極限計算（Determining Limits Using Algebraic Properties of Limits）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極限の代数的性質による極限計算（Determining Limits Using Algebraic Properties of Limits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "algebraic-properties-limits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-5-d1",
+      "ap-calc-ab-1-5-d2",
+      "ap-calc-ab-1-5-d3",
+      "ap-calc-ab-1-5-d4",
+      "ap-calc-ab-1-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "algebraic-manipulation-limits",
+    "title": {
+      "en": "Determining Limits Using Algebraic Manipulation",
+      "ja": "代数的変形による極限計算"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Determining Limits Using Algebraic Manipulation.",
+      "ja": "代数的変形による極限計算（Determining Limits Using Algebraic Manipulation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Determining Limits Using Algebraic Manipulation is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Determining Limits Using Algebraic Manipulation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\lim_{x\\to2}(x^2-4)/(x-2)$.\nReasoning: Factor and cancel: $(x^2-4)/(x-2)=x+2$ for $x\\ne2$, so the limit is $4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：代数的変形による極限計算（Determining Limits Using Algebraic Manipulation）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、代数的変形による極限計算（Determining Limits Using Algebraic Manipulation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：因数分解して約分すると $x+2$ となるので、極限は4です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "algebraic-manipulation-limits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-6-d1",
+      "ap-calc-ab-1-6-d2",
+      "ap-calc-ab-1-6-d3",
+      "ap-calc-ab-1-6-d4",
+      "ap-calc-ab-1-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "selecting-limit-procedures",
+    "title": {
+      "en": "Selecting Procedures for Determining Limits",
+      "ja": "極限計算方法の選択"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Selecting Procedures for Determining Limits.",
+      "ja": "極限計算方法の選択（Selecting Procedures for Determining Limits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Selecting Procedures for Determining Limits is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Selecting Procedures for Determining Limits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\lim_{x\\to2}(x^2-4)/(x-2)$.\nReasoning: Factor and cancel: $(x^2-4)/(x-2)=x+2$ for $x\\ne2$, so the limit is $4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極限計算方法の選択（Selecting Procedures for Determining Limits）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極限計算方法の選択（Selecting Procedures for Determining Limits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：因数分解して約分すると $x+2$ となるので、極限は4です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "selecting-limit-procedures",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-7-d1",
+      "ap-calc-ab-1-7-d2",
+      "ap-calc-ab-1-7-d3",
+      "ap-calc-ab-1-7-d4",
+      "ap-calc-ab-1-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "squeeze-theorem",
+    "title": {
+      "en": "Determining Limits Using the Squeeze Theorem",
+      "ja": "はさみうちの原理による極限計算"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Determining Limits Using the Squeeze Theorem.",
+      "ja": "はさみうちの原理による極限計算（Determining Limits Using the Squeeze Theorem）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Determining Limits Using the Squeeze Theorem is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Determining Limits Using the Squeeze Theorem, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Given $-|x|\\le f(x)\\le |x|$, find $\\lim_{x\\to0}f(x)$.\nReasoning: Both bounding functions approach 0, so the squeeze theorem gives the limit $0$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：はさみうちの原理による極限計算（Determining Limits Using the Squeeze Theorem）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、はさみうちの原理による極限計算（Determining Limits Using the Squeeze Theorem）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：両側の関数が0へ近づくので、はさみうちの原理より極限は0です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "squeeze-theorem",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-8-d1",
+      "ap-calc-ab-1-8-d2",
+      "ap-calc-ab-1-8-d3",
+      "ap-calc-ab-1-8-d4",
+      "ap-calc-ab-1-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-9-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "representations-limits",
+    "title": {
+      "en": "Connecting Multiple Representations of Limits",
+      "ja": "極限の複数表現の関連づけ"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Multiple Representations of Limits.",
+      "ja": "極限の複数表現の関連づけ（Connecting Multiple Representations of Limits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Multiple Representations of Limits is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Multiple Representations of Limits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If values of $f(x)$ approach 7 from both sides as $x$ approaches 3, state $\\lim_{x\\to3}f(x)$.\nReasoning: The two-sided limit is $7$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：極限の複数表現の関連づけ（Connecting Multiple Representations of Limits）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、極限の複数表現の関連づけ（Connecting Multiple Representations of Limits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：左右から同じ7へ近づくので、極限は7です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "representations-limits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-9-d1",
+      "ap-calc-ab-1-9-d2",
+      "ap-calc-ab-1-9-d3",
+      "ap-calc-ab-1-9-d4",
+      "ap-calc-ab-1-9-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-10-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "discontinuities",
+    "title": {
+      "en": "Exploring Types of Discontinuities",
+      "ja": "不連続の種類"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exploring Types of Discontinuities.",
+      "ja": "不連続の種類（Exploring Types of Discontinuities）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exploring Types of Discontinuities is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exploring Types of Discontinuities, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Choose $k$ so that $f(x)=(x^2-9)/(x-3)$ for $x\\ne3$ and $f(3)=k$ is continuous at $x=3$.\nReasoning: The limit is $\\lim_{x\\to3}(x+3)=6$, so $k=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：不連続の種類（Exploring Types of Discontinuities）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、不連続の種類（Exploring Types of Discontinuities）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：極限が6なので、連続にするには $k=6$ とします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "discontinuities",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-10-d1",
+      "ap-calc-ab-1-10-d2",
+      "ap-calc-ab-1-10-d3",
+      "ap-calc-ab-1-10-d4",
+      "ap-calc-ab-1-10-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-11-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "continuity-point",
+    "title": {
+      "en": "Defining Continuity at a Point",
+      "ja": "1点における連続性"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Defining Continuity at a Point.",
+      "ja": "1点における連続性（Defining Continuity at a Point）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Defining Continuity at a Point is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Defining Continuity at a Point, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Choose $k$ so that $f(x)=(x^2-9)/(x-3)$ for $x\\ne3$ and $f(3)=k$ is continuous at $x=3$.\nReasoning: The limit is $\\lim_{x\\to3}(x+3)=6$, so $k=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：1点における連続性（Defining Continuity at a Point）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、1点における連続性（Defining Continuity at a Point）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：極限が6なので、連続にするには $k=6$ とします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "continuity-point",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-11-d1",
+      "ap-calc-ab-1-11-d2",
+      "ap-calc-ab-1-11-d3",
+      "ap-calc-ab-1-11-d4",
+      "ap-calc-ab-1-11-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-12-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "continuity-interval",
+    "title": {
+      "en": "Confirming Continuity over an Interval",
+      "ja": "区間における連続性"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Confirming Continuity over an Interval.",
+      "ja": "区間における連続性（Confirming Continuity over an Interval）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Confirming Continuity over an Interval is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Confirming Continuity over an Interval, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Choose $k$ so that $f(x)=(x^2-9)/(x-3)$ for $x\\ne3$ and $f(3)=k$ is continuous at $x=3$.\nReasoning: The limit is $\\lim_{x\\to3}(x+3)=6$, so $k=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：区間における連続性（Confirming Continuity over an Interval）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、区間における連続性（Confirming Continuity over an Interval）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：極限が6なので、連続にするには $k=6$ とします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "continuity-interval",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-12-d1",
+      "ap-calc-ab-1-12-d2",
+      "ap-calc-ab-1-12-d3",
+      "ap-calc-ab-1-12-d4",
+      "ap-calc-ab-1-12-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-13-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "removing-discontinuities",
+    "title": {
+      "en": "Removing Discontinuities",
+      "ja": "不連続点の除去"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Removing Discontinuities.",
+      "ja": "不連続点の除去（Removing Discontinuities）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Removing Discontinuities is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Removing Discontinuities, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Choose $k$ so that $f(x)=(x^2-9)/(x-3)$ for $x\\ne3$ and $f(3)=k$ is continuous at $x=3$.\nReasoning: The limit is $\\lim_{x\\to3}(x+3)=6$, so $k=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：不連続点の除去（Removing Discontinuities）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、不連続点の除去（Removing Discontinuities）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：極限が6なので、連続にするには $k=6$ とします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "removing-discontinuities",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-13-d1",
+      "ap-calc-ab-1-13-d2",
+      "ap-calc-ab-1-13-d3",
+      "ap-calc-ab-1-13-d4",
+      "ap-calc-ab-1-13-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-14-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "infinite-limits-asymptotes",
+    "title": {
+      "en": "Connecting Infinite Limits and Vertical Asymptotes",
+      "ja": "無限極限と垂直漸近線"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Infinite Limits and Vertical Asymptotes.",
+      "ja": "無限極限（Connecting Infinite Limits）と垂直漸近線（Vertical Asymptotes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Infinite Limits and Vertical Asymptotes is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Infinite Limits and Vertical Asymptotes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find $\\lim_{x\\to\\infty}(3x^2+1)/(x^2-4)$.\nReasoning: Divide by $x^2$; the limit is the ratio of leading coefficients, $3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：無限極限（Connecting Infinite Limits）と垂直漸近線（Vertical Asymptotes）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、無限極限（Connecting Infinite Limits）と垂直漸近線（Vertical Asymptotes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x^2$ で割ると、極限は最高次係数の比 $3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "infinite-limits-asymptotes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-14-d1",
+      "ap-calc-ab-1-14-d2",
+      "ap-calc-ab-1-14-d3",
+      "ap-calc-ab-1-14-d4",
+      "ap-calc-ab-1-14-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-15-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "limits-infinity-asymptotes",
+    "title": {
+      "en": "Connecting Limits at Infinity and Horizontal Asymptotes",
+      "ja": "無限遠の極限と水平漸近線"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Limits at Infinity and Horizontal Asymptotes.",
+      "ja": "無限遠の極限（Connecting Limits at Infinity）と水平漸近線（Horizontal Asymptotes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Limits at Infinity and Horizontal Asymptotes is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Limits at Infinity and Horizontal Asymptotes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find $\\lim_{x\\to\\infty}(3x^2+1)/(x^2-4)$.\nReasoning: Divide by $x^2$; the limit is the ratio of leading coefficients, $3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：無限遠の極限（Connecting Limits at Infinity）と水平漸近線（Horizontal Asymptotes）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、無限遠の極限（Connecting Limits at Infinity）と水平漸近線（Horizontal Asymptotes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$x^2$ で割ると、極限は最高次係数の比 $3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "limits-infinity-asymptotes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-15-d1",
+      "ap-calc-ab-1-15-d2",
+      "ap-calc-ab-1-15-d3",
+      "ap-calc-ab-1-15-d4",
+      "ap-calc-ab-1-15-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-1-16-reference",
+    "course": "ap-calc-ab",
+    "unit": "limits-continuity",
+    "topic": "intermediate-value-theorem",
+    "title": {
+      "en": "Working with the Intermediate Value Theorem (IVT)",
+      "ja": "中間値の定理（IVT）"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Working with the Intermediate Value Theorem (IVT).",
+      "ja": "中間値の定理（IVT）（Working with the Intermediate Value Theorem (IVT)）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Working with the Intermediate Value Theorem (IVT) is a focused skill in Limits and Continuity. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Working with the Intermediate Value Theorem (IVT), carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A continuous function satisfies $f(1)=-2$ and $f(4)=5$. What does the IVT guarantee?\nReasoning: There is at least one $c$ in $(1,4)$ with $f(c)=0$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：中間値の定理（IVT）（Working with the Intermediate Value Theorem (IVT)）は、Limits and Continuityで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、中間値の定理（IVT）（Working with the Intermediate Value Theorem (IVT)）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$(1,4)$ に $f(c)=0$ を満たす点が少なくとも1つあります。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "intermediate-value-theorem",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-1-16-d1",
+      "ap-calc-ab-1-16-d2",
+      "ap-calc-ab-1-16-d3",
+      "ap-calc-ab-1-16-d4",
+      "ap-calc-ab-1-16-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "average-instantaneous-rate",
+    "title": {
+      "en": "Defining Average and Instantaneous Rates of Change at a Point",
+      "ja": "1点における平均変化率と瞬間変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Defining Average and Instantaneous Rates of Change at a Point.",
+      "ja": "1点における平均変化率（Defining Average）と瞬間変化率（Instantaneous Rates of Change at a Point）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Defining Average and Instantaneous Rates of Change at a Point is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Defining Average and Instantaneous Rates of Change at a Point, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：1点における平均変化率（Defining Average）と瞬間変化率（Instantaneous Rates of Change at a Point）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、1点における平均変化率（Defining Average）と瞬間変化率（Instantaneous Rates of Change at a Point）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "average-instantaneous-rate",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-1-d1",
+      "ap-calc-ab-2-1-d2",
+      "ap-calc-ab-2-1-d3",
+      "ap-calc-ab-2-1-d4",
+      "ap-calc-ab-2-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "derivative-definition-notation",
+    "title": {
+      "en": "Defining the Derivative of a Function and Using Derivative Notation",
+      "ja": "導関数の定義と微分記法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Defining the Derivative of a Function and Using Derivative Notation.",
+      "ja": "導関数の定義（Defining the Derivative of a Function）と微分記法（Using Derivative Notation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Defining the Derivative of a Function and Using Derivative Notation is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Defining the Derivative of a Function and Using Derivative Notation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：導関数の定義（Defining the Derivative of a Function）と微分記法（Using Derivative Notation）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、導関数の定義（Defining the Derivative of a Function）と微分記法（Using Derivative Notation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "derivative-definition-notation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-2-d1",
+      "ap-calc-ab-2-2-d2",
+      "ap-calc-ab-2-2-d3",
+      "ap-calc-ab-2-2-d4",
+      "ap-calc-ab-2-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "estimating-derivatives",
+    "title": {
+      "en": "Estimating Derivatives of a Function at a Point",
+      "ja": "1点における導関数の推定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Estimating Derivatives of a Function at a Point.",
+      "ja": "1点における導関数の推定（Estimating Derivatives of a Function at a Point）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Estimating Derivatives of a Function at a Point is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Estimating Derivatives of a Function at a Point, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：1点における導関数の推定（Estimating Derivatives of a Function at a Point）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、1点における導関数の推定（Estimating Derivatives of a Function at a Point）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "estimating-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-3-d1",
+      "ap-calc-ab-2-3-d2",
+      "ap-calc-ab-2-3-d3",
+      "ap-calc-ab-2-3-d4",
+      "ap-calc-ab-2-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "differentiability-continuity",
+    "title": {
+      "en": "Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist",
+      "ja": "微分可能性と連続性：導関数の存在条件"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist.",
+      "ja": "微分可能性と連続性：導関数の存在条件（Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Choose $k$ so that $f(x)=(x^2-9)/(x-3)$ for $x\\ne3$ and $f(3)=k$ is continuous at $x=3$.\nReasoning: The limit is $\\lim_{x\\to3}(x+3)=6$, so $k=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分可能性と連続性：導関数の存在条件（Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分可能性と連続性：導関数の存在条件（Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：極限が6なので、連続にするには $k=6$ とします。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "differentiability-continuity",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-4-d1",
+      "ap-calc-ab-2-4-d2",
+      "ap-calc-ab-2-4-d3",
+      "ap-calc-ab-2-4-d4",
+      "ap-calc-ab-2-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "power-rule",
+    "title": {
+      "en": "Applying the Power Rule",
+      "ja": "べき乗則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Applying the Power Rule.",
+      "ja": "べき乗則（Applying the Power Rule）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Applying the Power Rule is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Applying the Power Rule, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=4x^7-3x^2$.\nReasoning: $f'(x)=28x^6-6x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：べき乗則（Applying the Power Rule）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、べき乗則（Applying the Power Rule）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=28x^6-6x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "power-rule",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-5-d1",
+      "ap-calc-ab-2-5-d2",
+      "ap-calc-ab-2-5-d3",
+      "ap-calc-ab-2-5-d4",
+      "ap-calc-ab-2-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "basic-derivative-rules",
+    "title": {
+      "en": "Derivative Rules: Constant, Sum, Difference, and Constant Multiple",
+      "ja": "微分法則：定数・和・差・定数倍"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Derivative Rules: Constant, Sum, Difference, and Constant Multiple.",
+      "ja": "微分法則：定数・和・差・定数倍（Derivative Rules: Constant, Sum, Difference, and Constant Multiple）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Derivative Rules: Constant, Sum, Difference, and Constant Multiple is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Derivative Rules: Constant, Sum, Difference, and Constant Multiple, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=5x^3-2x+9$.\nReasoning: $f'(x)=15x^2-2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分法則：定数・和・差・定数倍（Derivative Rules: Constant, Sum, Difference, and Constant Multiple）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分法則：定数・和・差・定数倍（Derivative Rules: Constant, Sum, Difference, and Constant Multiple）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=15x^2-2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "basic-derivative-rules",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-6-d1",
+      "ap-calc-ab-2-6-d2",
+      "ap-calc-ab-2-6-d3",
+      "ap-calc-ab-2-6-d4",
+      "ap-calc-ab-2-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "elementary-derivatives",
+    "title": {
+      "en": "Derivatives of cos x, sin x, e^x, and ln x",
+      "ja": "cos x・sin x・e^x・ln xの微分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Derivatives of cos x, sin x, e^x, and ln x.",
+      "ja": "cos x（Derivatives of cos x）・sin x（sin x）・e^x（e^x）・ln xの微分（ln x）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Derivatives of cos x, sin x, e^x, and ln x is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Derivatives of cos x, sin x, e^x, and ln x, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=e^x+\\sin x-\\ln x$.\nReasoning: $f'(x)=e^x+\\cos x-1/x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：cos x（Derivatives of cos x）・sin x（sin x）・e^x（e^x）・ln xの微分（ln x）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、cos x（Derivatives of cos x）・sin x（sin x）・e^x（e^x）・ln xの微分（ln x）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=e^x+\\cos x-1/x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "elementary-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-7-d1",
+      "ap-calc-ab-2-7-d2",
+      "ap-calc-ab-2-7-d3",
+      "ap-calc-ab-2-7-d4",
+      "ap-calc-ab-2-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "product-rule",
+    "title": {
+      "en": "The Product Rule",
+      "ja": "積の微分法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Product Rule.",
+      "ja": "積の微分法（The Product Rule）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Product Rule is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Product Rule, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=x^2e^x$.\nReasoning: $f'(x)=2xe^x+x^2e^x=e^x(x^2+2x)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：積の微分法（The Product Rule）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、積の微分法（The Product Rule）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=e^x(x^2+2x)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "product-rule",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-8-d1",
+      "ap-calc-ab-2-8-d2",
+      "ap-calc-ab-2-8-d3",
+      "ap-calc-ab-2-8-d4",
+      "ap-calc-ab-2-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-9-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "quotient-rule",
+    "title": {
+      "en": "The Quotient Rule",
+      "ja": "商の微分法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Quotient Rule.",
+      "ja": "商の微分法（The Quotient Rule）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Quotient Rule is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Quotient Rule, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=(x^2+1)/x$.\nReasoning: $f'(x)=[2x(x)-(x^2+1)]/x^2=(x^2-1)/x^2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：商の微分法（The Quotient Rule）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、商の微分法（The Quotient Rule）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：商の微分法より $f'(x)=(x^2-1)/x^2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "quotient-rule",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-9-d1",
+      "ap-calc-ab-2-9-d2",
+      "ap-calc-ab-2-9-d3",
+      "ap-calc-ab-2-9-d4",
+      "ap-calc-ab-2-9-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-2-10-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-definition-properties",
+    "topic": "other-trig-derivatives",
+    "title": {
+      "en": "Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions",
+      "ja": "正接・余接・正割・余割関数の微分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions.",
+      "ja": "正接（Finding the Derivatives of Tangent）・余接（Cotangent）・正割（Secant）・余割関数の微分（and/or Cosecant Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions is a focused skill in Differentiation: Definition and Fundamental Properties. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=\\tan x+\\sec x$.\nReasoning: $f'(x)=\\sec^2x+\\sec x\\tan x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：正接（Finding the Derivatives of Tangent）・余接（Cotangent）・正割（Secant）・余割関数の微分（and/or Cosecant Functions）は、Differentiation: Definition and Fundamental Propertiesで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、正接（Finding the Derivatives of Tangent）・余接（Cotangent）・正割（Secant）・余割関数の微分（and/or Cosecant Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=\\sec^2x+\\sec x\\tan x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "other-trig-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-2-10-d1",
+      "ap-calc-ab-2-10-d2",
+      "ap-calc-ab-2-10-d3",
+      "ap-calc-ab-2-10-d4",
+      "ap-calc-ab-2-10-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-3-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "inverse-function-derivatives",
+    "title": {
+      "en": "Differentiating Inverse Functions",
+      "ja": "逆関数の微分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Differentiating Inverse Functions.",
+      "ja": "逆関数の微分（Differentiating Inverse Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Differentiating Inverse Functions is a focused skill in Differentiation: Composite, Implicit, and Inverse Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Differentiating Inverse Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $f(2)=5$ and $f'(2)=4$, find $(f^{-1})'(5)$.\nReasoning: $(f^{-1})'(5)=1/f'(2)=1/4$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：逆関数の微分（Differentiating Inverse Functions）は、Differentiation: Composite, Implicit, and Inverse Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、逆関数の微分（Differentiating Inverse Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：逆関数の微分公式より $1/4$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inverse-function-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-3-3-d1",
+      "ap-calc-ab-3-3-d2",
+      "ap-calc-ab-3-3-d3",
+      "ap-calc-ab-3-3-d4",
+      "ap-calc-ab-3-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-3-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "inverse-trig-derivatives",
+    "title": {
+      "en": "Differentiating Inverse Trigonometric Functions",
+      "ja": "逆三角関数の微分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Differentiating Inverse Trigonometric Functions.",
+      "ja": "逆三角関数の微分（Differentiating Inverse Trigonometric Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Differentiating Inverse Trigonometric Functions is a focused skill in Differentiation: Composite, Implicit, and Inverse Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Differentiating Inverse Trigonometric Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Differentiate $f(x)=\\arctan(2x)$.\nReasoning: $f'(x)=2/(1+4x^2)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：逆三角関数の微分（Differentiating Inverse Trigonometric Functions）は、Differentiation: Composite, Implicit, and Inverse Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、逆三角関数の微分（Differentiating Inverse Trigonometric Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)=2/(1+4x^2)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inverse-trig-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-3-4-d1",
+      "ap-calc-ab-3-4-d2",
+      "ap-calc-ab-3-4-d3",
+      "ap-calc-ab-3-4-d4",
+      "ap-calc-ab-3-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-3-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "selecting-derivative-procedures",
+    "title": {
+      "en": "Selecting Procedures for Calculating Derivatives",
+      "ja": "微分法の選択"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Selecting Procedures for Calculating Derivatives.",
+      "ja": "微分法の選択（Selecting Procedures for Calculating Derivatives）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Selecting Procedures for Calculating Derivatives is a focused skill in Differentiation: Composite, Implicit, and Inverse Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Selecting Procedures for Calculating Derivatives, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分法の選択（Selecting Procedures for Calculating Derivatives）は、Differentiation: Composite, Implicit, and Inverse Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分法の選択（Selecting Procedures for Calculating Derivatives）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "selecting-derivative-procedures",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-3-5-d1",
+      "ap-calc-ab-3-5-d2",
+      "ap-calc-ab-3-5-d3",
+      "ap-calc-ab-3-5-d4",
+      "ap-calc-ab-3-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-3-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "higher-order-derivatives",
+    "title": {
+      "en": "Calculating Higher-Order Derivatives",
+      "ja": "高階導関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Calculating Higher-Order Derivatives.",
+      "ja": "高階導関数（Calculating Higher-Order Derivatives）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Calculating Higher-Order Derivatives is a focused skill in Differentiation: Composite, Implicit, and Inverse Functions. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Calculating Higher-Order Derivatives, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^4-2x^3$, find $f''(x)$.\nReasoning: $f'(x)=4x^3-6x^2$ and $f''(x)=12x^2-12x$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：高階導関数（Calculating Higher-Order Derivatives）は、Differentiation: Composite, Implicit, and Inverse Functionsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、高階導関数（Calculating Higher-Order Derivatives）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f''(x)=12x^2-12x$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "higher-order-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-3-6-d1",
+      "ap-calc-ab-3-6-d2",
+      "ap-calc-ab-3-6-d3",
+      "ap-calc-ab-3-6-d4",
+      "ap-calc-ab-3-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "derivative-in-context",
+    "title": {
+      "en": "Interpreting the Meaning of the Derivative in Context",
+      "ja": "文脈における導関数の意味"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Interpreting the Meaning of the Derivative in Context.",
+      "ja": "文脈における導関数の意味（Interpreting the Meaning of the Derivative in Context）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Interpreting the Meaning of the Derivative in Context is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Interpreting the Meaning of the Derivative in Context, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：文脈における導関数の意味（Interpreting the Meaning of the Derivative in Context）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、文脈における導関数の意味（Interpreting the Meaning of the Derivative in Context）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "derivative-in-context",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-1-d1",
+      "ap-calc-ab-4-1-d2",
+      "ap-calc-ab-4-1-d3",
+      "ap-calc-ab-4-1-d4",
+      "ap-calc-ab-4-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "straight-line-motion",
+    "title": {
+      "en": "Straight-Line Motion: Connecting Position, Velocity, and Acceleration",
+      "ja": "直線運動：位置・速度・加速度"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Straight-Line Motion: Connecting Position, Velocity, and Acceleration.",
+      "ja": "直線運動：位置・速度・加速度（Straight-Line Motion: Connecting Position, Velocity, and Acceleration）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Straight-Line Motion: Connecting Position, Velocity, and Acceleration is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Straight-Line Motion: Connecting Position, Velocity, and Acceleration, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A particle has position $s(t)=t^3-6t^2+9t$. Find its velocity at $t=2$.\nReasoning: $v(t)=s'(t)=3t^2-12t+9$, so $v(2)=-3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：直線運動：位置・速度・加速度（Straight-Line Motion: Connecting Position, Velocity, and Acceleration）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、直線運動：位置・速度・加速度（Straight-Line Motion: Connecting Position, Velocity, and Acceleration）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$v(t)=3t^2-12t+9$ より、$v(2)=-3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "straight-line-motion",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-2-d1",
+      "ap-calc-ab-4-2-d2",
+      "ap-calc-ab-4-2-d3",
+      "ap-calc-ab-4-2-d4",
+      "ap-calc-ab-4-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "applied-rates",
+    "title": {
+      "en": "Rates of Change in Applied Contexts Other Than Motion",
+      "ja": "運動以外の文脈における変化率"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Rates of Change in Applied Contexts Other Than Motion.",
+      "ja": "運動以外の文脈における変化率（Rates of Change in Applied Contexts Other Than Motion）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Rates of Change in Applied Contexts Other Than Motion is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Rates of Change in Applied Contexts Other Than Motion, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: The area of a circular oil spill is $A(t)=25\\pi t^2$ square meters, where $t$ is in hours. Find the rate at which the area is changing at $t=3$.\nReasoning: $A'(t)=50\\pi t$, so $A'(3)=150\\pi$ m$^2$/h.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：運動以外の文脈における変化率（Rates of Change in Applied Contexts Other Than Motion）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、運動以外の文脈における変化率（Rates of Change in Applied Contexts Other Than Motion）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$A'(t)=50\\pi t$ なので、$t=3$ では $150\\pi$ m$^2$/h です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "applied-rates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-3-d1",
+      "ap-calc-ab-4-3-d2",
+      "ap-calc-ab-4-3-d3",
+      "ap-calc-ab-4-3-d4",
+      "ap-calc-ab-4-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "related-rates-intro",
+    "title": {
+      "en": "Introduction to Related Rates",
+      "ja": "関連変化率入門"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Introduction to Related Rates.",
+      "ja": "関連変化率入門（Introduction to Related Rates）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Introduction to Related Rates is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Introduction to Related Rates, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A circle's radius increases at $2$ cm/s. Find $dA/dt$ when $r=3$ cm.\nReasoning: $A=\\pi r^2$, so $dA/dt=2\\pi r\\,dr/dt=12\\pi$ cm$^2$/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関連変化率入門（Introduction to Related Rates）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関連変化率入門（Introduction to Related Rates）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$dA/dt=2\\pi r\\,dr/dt=12\\pi$ cm$^2$/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "related-rates-intro",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-4-d1",
+      "ap-calc-ab-4-4-d2",
+      "ap-calc-ab-4-4-d3",
+      "ap-calc-ab-4-4-d4",
+      "ap-calc-ab-4-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "related-rates",
+    "title": {
+      "en": "Solving Related Rates Problems",
+      "ja": "関連変化率問題"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Solving Related Rates Problems.",
+      "ja": "関連変化率問題（Solving Related Rates Problems）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Solving Related Rates Problems is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Solving Related Rates Problems, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A circle's radius increases at $2$ cm/s. Find $dA/dt$ when $r=3$ cm.\nReasoning: $A=\\pi r^2$, so $dA/dt=2\\pi r\\,dr/dt=12\\pi$ cm$^2$/s.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関連変化率問題（Solving Related Rates Problems）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関連変化率問題（Solving Related Rates Problems）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$dA/dt=2\\pi r\\,dr/dt=12\\pi$ cm$^2$/sです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "related-rates",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-5-d1",
+      "ap-calc-ab-4-5-d2",
+      "ap-calc-ab-4-5-d3",
+      "ap-calc-ab-4-5-d4",
+      "ap-calc-ab-4-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "local-linearity",
+    "title": {
+      "en": "Approximating Values of a Function Using Local Linearity and Linearization",
+      "ja": "局所線形性と線形化による近似"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Approximating Values of a Function Using Local Linearity and Linearization.",
+      "ja": "局所線形性（Approximating Values of a Function Using Local Linearity）と線形化による近似（Linearization）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Approximating Values of a Function Using Local Linearity and Linearization is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Approximating Values of a Function Using Local Linearity and Linearization, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use linearization of $f(x)=\\sqrt{x}$ at $x=9$ to approximate $\\sqrt{9.3}$.\nReasoning: $L(x)=3+(x-9)/6$, so $L(9.3)=3.05$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：局所線形性（Approximating Values of a Function Using Local Linearity）と線形化による近似（Linearization）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、局所線形性（Approximating Values of a Function Using Local Linearity）と線形化による近似（Linearization）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$L(x)=3+(x-9)/6$ より、$\\sqrt{9.3}\\approx3.05$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "local-linearity",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-6-d1",
+      "ap-calc-ab-4-6-d2",
+      "ap-calc-ab-4-6-d3",
+      "ap-calc-ab-4-6-d4",
+      "ap-calc-ab-4-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-4-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "contextual-applications-differentiation",
+    "topic": "lhopitals-rule",
+    "title": {
+      "en": "Using L'Hospital's Rule for Determining Limits of Indeterminate Forms",
+      "ja": "不定形の極限とロピタルの定理"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using L'Hospital's Rule for Determining Limits of Indeterminate Forms.",
+      "ja": "不定形の極限とロピタルの定理（Using L'Hospital's Rule for Determining Limits of Indeterminate Forms）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using L'Hospital's Rule for Determining Limits of Indeterminate Forms is a focused skill in Contextual Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using L'Hospital's Rule for Determining Limits of Indeterminate Forms, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\lim_{x\\to0}(e^x-1)/x$ using L'Hospital's rule.\nReasoning: Differentiate numerator and denominator to get $\\lim_{x\\to0}e^x=1$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：不定形の極限とロピタルの定理（Using L'Hospital's Rule for Determining Limits of Indeterminate Forms）は、Contextual Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、不定形の極限とロピタルの定理（Using L'Hospital's Rule for Determining Limits of Indeterminate Forms）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：分子・分母を微分すると $\\lim_{x\\to0}e^x=1$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "lhopitals-rule",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-4-7-d1",
+      "ap-calc-ab-4-7-d2",
+      "ap-calc-ab-4-7-d3",
+      "ap-calc-ab-4-7-d4",
+      "ap-calc-ab-4-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "mean-value-theorem",
+    "title": {
+      "en": "Using the Mean Value Theorem",
+      "ja": "平均値の定理"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using the Mean Value Theorem.",
+      "ja": "平均値の定理（Using the Mean Value Theorem）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using the Mean Value Theorem is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using the Mean Value Theorem, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f(x)=x^2$ on $[1,3]$, find the value guaranteed by the Mean Value Theorem.\nReasoning: The average slope is 4. Solve $f'(c)=2c=4$ to get $c=2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：平均値の定理（Using the Mean Value Theorem）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、平均値の定理（Using the Mean Value Theorem）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：平均変化率は4なので、$2c=4$ より $c=2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "mean-value-theorem",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-1-d1",
+      "ap-calc-ab-5-1-d2",
+      "ap-calc-ab-5-1-d3",
+      "ap-calc-ab-5-1-d4",
+      "ap-calc-ab-5-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "extreme-value-theorem",
+    "title": {
+      "en": "Extreme Value Theorem, Global Versus Local Extrema, and Critical Points",
+      "ja": "最大最小値の定理・大域的/局所的極値・臨界点"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Extreme Value Theorem, Global Versus Local Extrema, and Critical Points.",
+      "ja": "最大最小値の定理（Extreme Value Theorem）・大域的/局所的極値（Global Versus Local Extrema）・臨界点（Critical Points）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Extreme Value Theorem, Global Versus Local Extrema, and Critical Points, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the absolute maximum of $f(x)=x^2-4x$ on $[0,5]$.\nReasoning: Check $x=0,2,5$: the values are $0,-4,5$. The absolute maximum is $5$ at $x=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：最大最小値の定理（Extreme Value Theorem）・大域的/局所的極値（Global Versus Local Extrema）・臨界点（Critical Points）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、最大最小値の定理（Extreme Value Theorem）・大域的/局所的極値（Global Versus Local Extrema）・臨界点（Critical Points）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：端点と臨界点を比較すると、絶対最大値は $x=5$ での5です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "extreme-value-theorem",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-2-d1",
+      "ap-calc-ab-5-2-d2",
+      "ap-calc-ab-5-2-d3",
+      "ap-calc-ab-5-2-d4",
+      "ap-calc-ab-5-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "increasing-decreasing",
+    "title": {
+      "en": "Determining Intervals on Which a Function Is Increasing or Decreasing",
+      "ja": "関数の増加・減少区間"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Determining Intervals on Which a Function Is Increasing or Decreasing.",
+      "ja": "関数の増加・減少区間（Determining Intervals on Which a Function Is Increasing or Decreasing）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Determining Intervals on Which a Function Is Increasing or Decreasing is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Determining Intervals on Which a Function Is Increasing or Decreasing, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $f'(x)=(x-1)(x+2)$, where is $f$ increasing?\nReasoning: $f'>0$ on $(-\\infty,-2)\\cup(1,\\infty)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数の増加・減少区間（Determining Intervals on Which a Function Is Increasing or Decreasing）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数の増加・減少区間（Determining Intervals on Which a Function Is Increasing or Decreasing）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f'(x)>0$ となる $(-\\infty,-2)\\cup(1,\\infty)$ で増加します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "increasing-decreasing",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-3-d1",
+      "ap-calc-ab-5-3-d2",
+      "ap-calc-ab-5-3-d3",
+      "ap-calc-ab-5-3-d4",
+      "ap-calc-ab-5-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "first-derivative-test",
+    "title": {
+      "en": "Using the First Derivative Test to Determine Relative (Local) Extrema",
+      "ja": "一階導関数による局所的極値の判定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using the First Derivative Test to Determine Relative (Local) Extrema.",
+      "ja": "一階導関数による局所的極値の判定（Using the First Derivative Test to Determine Relative (Local) Extrema）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using the First Derivative Test to Determine Relative (Local) Extrema is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using the First Derivative Test to Determine Relative (Local) Extrema, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：一階導関数による局所的極値の判定（Using the First Derivative Test to Determine Relative (Local) Extrema）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、一階導関数による局所的極値の判定（Using the First Derivative Test to Determine Relative (Local) Extrema）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "first-derivative-test",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-4-d1",
+      "ap-calc-ab-5-4-d2",
+      "ap-calc-ab-5-4-d3",
+      "ap-calc-ab-5-4-d4",
+      "ap-calc-ab-5-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "candidates-test",
+    "title": {
+      "en": "Using the Candidates Test to Determine Absolute (Global) Extrema",
+      "ja": "候補点テストによる大域的極値の判定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using the Candidates Test to Determine Absolute (Global) Extrema.",
+      "ja": "候補点テストによる大域的極値の判定（Using the Candidates Test to Determine Absolute (Global) Extrema）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using the Candidates Test to Determine Absolute (Global) Extrema is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using the Candidates Test to Determine Absolute (Global) Extrema, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the absolute maximum of $f(x)=x^2-4x$ on $[0,5]$.\nReasoning: Check $x=0,2,5$: the values are $0,-4,5$. The absolute maximum is $5$ at $x=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：候補点テストによる大域的極値の判定（Using the Candidates Test to Determine Absolute (Global) Extrema）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、候補点テストによる大域的極値の判定（Using the Candidates Test to Determine Absolute (Global) Extrema）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：端点と臨界点を比較すると、絶対最大値は $x=5$ での5です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "candidates-test",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-5-d1",
+      "ap-calc-ab-5-5-d2",
+      "ap-calc-ab-5-5-d3",
+      "ap-calc-ab-5-5-d4",
+      "ap-calc-ab-5-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "concavity",
+    "title": {
+      "en": "Determining Concavity of Functions over Their Domains",
+      "ja": "関数の凹凸の判定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Determining Concavity of Functions over Their Domains.",
+      "ja": "関数の凹凸の判定（Determining Concavity of Functions over Their Domains）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Determining Concavity of Functions over Their Domains is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Determining Concavity of Functions over Their Domains, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $f''(x)=6x-12$, where is $f$ concave up?\nReasoning: $f''(x)>0$ when $x>2$, so $f$ is concave up on $(2,\\infty)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数の凹凸の判定（Determining Concavity of Functions over Their Domains）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数の凹凸の判定（Determining Concavity of Functions over Their Domains）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$f''(x)>0$ となる $(2,\\infty)$ で下に凸です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "concavity",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-6-d1",
+      "ap-calc-ab-5-6-d2",
+      "ap-calc-ab-5-6-d3",
+      "ap-calc-ab-5-6-d4",
+      "ap-calc-ab-5-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "second-derivative-test",
+    "title": {
+      "en": "Using the Second Derivative Test to Determine Extrema",
+      "ja": "二階導関数による極値の判定"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using the Second Derivative Test to Determine Extrema.",
+      "ja": "二階導関数による極値の判定（Using the Second Derivative Test to Determine Extrema）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using the Second Derivative Test to Determine Extrema is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using the Second Derivative Test to Determine Extrema, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：二階導関数による極値の判定（Using the Second Derivative Test to Determine Extrema）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、二階導関数による極値の判定（Using the Second Derivative Test to Determine Extrema）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "second-derivative-test",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-7-d1",
+      "ap-calc-ab-5-7-d2",
+      "ap-calc-ab-5-7-d3",
+      "ap-calc-ab-5-7-d4",
+      "ap-calc-ab-5-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "sketching-functions-derivatives",
+    "title": {
+      "en": "Sketching Graphs of Functions and Their Derivatives",
+      "ja": "関数と導関数のグラフ"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sketching Graphs of Functions and Their Derivatives.",
+      "ja": "関数（Sketching Graphs of Functions）と導関数のグラフ（Their Derivatives）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sketching Graphs of Functions and Their Derivatives is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sketching Graphs of Functions and Their Derivatives, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数（Sketching Graphs of Functions）と導関数のグラフ（Their Derivatives）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数（Sketching Graphs of Functions）と導関数のグラフ（Their Derivatives）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "sketching-functions-derivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-8-d1",
+      "ap-calc-ab-5-8-d2",
+      "ap-calc-ab-5-8-d3",
+      "ap-calc-ab-5-8-d4",
+      "ap-calc-ab-5-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-9-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "function-first-second-derivative",
+    "title": {
+      "en": "Connecting a Function, Its First Derivative, and Its Second Derivative",
+      "ja": "関数・一階導関数・二階導関数の関係"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting a Function, Its First Derivative, and Its Second Derivative.",
+      "ja": "関数（Connecting a Function）・一階導関数（Its First Derivative）・二階導関数の関係（Its Second Derivative）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting a Function, Its First Derivative, and Its Second Derivative is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting a Function, Its First Derivative, and Its Second Derivative, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：関数（Connecting a Function）・一階導関数（Its First Derivative）・二階導関数の関係（Its Second Derivative）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、関数（Connecting a Function）・一階導関数（Its First Derivative）・二階導関数の関係（Its Second Derivative）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "function-first-second-derivative",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-9-d1",
+      "ap-calc-ab-5-9-d2",
+      "ap-calc-ab-5-9-d3",
+      "ap-calc-ab-5-9-d4",
+      "ap-calc-ab-5-9-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-10-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "optimization-intro",
+    "title": {
+      "en": "Introduction to Optimization Problems",
+      "ja": "最適化問題入門"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Introduction to Optimization Problems.",
+      "ja": "最適化問題入門（Introduction to Optimization Problems）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Introduction to Optimization Problems is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Introduction to Optimization Problems, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A rectangle has perimeter 20. What dimensions maximize its area?\nReasoning: Let sides be $x$ and $10-x$. The area $x(10-x)$ is maximized at $x=5$, so the rectangle is $5$ by $5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：最適化問題入門（Introduction to Optimization Problems）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、最適化問題入門（Introduction to Optimization Problems）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：面積 $x(10-x)$ は $x=5$ で最大なので、$5\\times5$ の正方形です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "optimization-intro",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-10-d1",
+      "ap-calc-ab-5-10-d2",
+      "ap-calc-ab-5-10-d3",
+      "ap-calc-ab-5-10-d4",
+      "ap-calc-ab-5-10-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-11-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "optimization",
+    "title": {
+      "en": "Solving Optimization Problems",
+      "ja": "最適化問題"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Solving Optimization Problems.",
+      "ja": "最適化問題（Solving Optimization Problems）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Solving Optimization Problems is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Solving Optimization Problems, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A rectangle has perimeter 20. What dimensions maximize its area?\nReasoning: Let sides be $x$ and $10-x$. The area $x(10-x)$ is maximized at $x=5$, so the rectangle is $5$ by $5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：最適化問題（Solving Optimization Problems）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、最適化問題（Solving Optimization Problems）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：面積 $x(10-x)$ は $x=5$ で最大なので、$5\\times5$ の正方形です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "optimization",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-11-d1",
+      "ap-calc-ab-5-11-d2",
+      "ap-calc-ab-5-11-d3",
+      "ap-calc-ab-5-11-d4",
+      "ap-calc-ab-5-11-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-5-12-reference",
+    "course": "ap-calc-ab",
+    "unit": "analytical-applications-differentiation",
+    "topic": "implicit-relations",
+    "title": {
+      "en": "Exploring Behaviors of Implicit Relations",
+      "ja": "陰的関係の挙動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exploring Behaviors of Implicit Relations.",
+      "ja": "陰的関係の挙動（Exploring Behaviors of Implicit Relations）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exploring Behaviors of Implicit Relations is a focused skill in Analytical Applications of Differentiation. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exploring Behaviors of Implicit Relations, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $x^2+y^2=25$, at which points are the tangents horizontal?\nReasoning: $y'=-x/y$. Horizontal tangents require $x=0$, giving $(0,5)$ and $(0,-5)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：陰的関係の挙動（Exploring Behaviors of Implicit Relations）は、Analytical Applications of Differentiationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、陰的関係の挙動（Exploring Behaviors of Implicit Relations）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$dy/dx=-x/y=0$ より $x=0$ なので、$(0,\\pm5)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "implicit-relations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-5-12-d1",
+      "ap-calc-ab-5-12-d2",
+      "ap-calc-ab-5-12-d3",
+      "ap-calc-ab-5-12-d4",
+      "ap-calc-ab-5-12-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "accumulations-change",
+    "title": {
+      "en": "Exploring Accumulations of Change",
+      "ja": "変化の累積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exploring Accumulations of Change.",
+      "ja": "変化の累積（Exploring Accumulations of Change）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exploring Accumulations of Change is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exploring Accumulations of Change, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Water enters a tank at rate $r(t)=4+t^2$ liters per minute. Write an expression for the amount added from $t=1$ to $t=3$, and evaluate it.\nReasoning: The accumulation is $\\int_1^3(4+t^2)\\,dt=[4t+t^3/3]_1^3=50/3$ liters.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：変化の累積（Exploring Accumulations of Change）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、変化の累積（Exploring Accumulations of Change）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：増加量は $\\int_1^3(4+t^2)\\,dt=50/3$ L です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "accumulations-change",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-1-d1",
+      "ap-calc-ab-6-1-d2",
+      "ap-calc-ab-6-1-d3",
+      "ap-calc-ab-6-1-d4",
+      "ap-calc-ab-6-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "riemann-areas",
+    "title": {
+      "en": "Approximating Areas with Riemann Sums",
+      "ja": "リーマン和による面積近似"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Approximating Areas with Riemann Sums.",
+      "ja": "リーマン和による面積近似（Approximating Areas with Riemann Sums）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Approximating Areas with Riemann Sums is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Approximating Areas with Riemann Sums, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use a right Riemann sum with two equal subintervals to approximate $\\int_0^2 x^2\\,dx$.\nReasoning: $\\Delta x=1$ and right endpoints are 1 and 2, so the sum is $1(1^2+2^2)=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：リーマン和による面積近似（Approximating Areas with Riemann Sums）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、リーマン和による面積近似（Approximating Areas with Riemann Sums）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\Delta x=1$、右端点が1と2なので、近似値は5です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "riemann-areas",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-2-d1",
+      "ap-calc-ab-6-2-d2",
+      "ap-calc-ab-6-2-d3",
+      "ap-calc-ab-6-2-d4",
+      "ap-calc-ab-6-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "riemann-notation",
+    "title": {
+      "en": "Riemann Sums, Summation Notation, and Definite Integral Notation",
+      "ja": "リーマン和・総和記法・定積分記法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Riemann Sums, Summation Notation, and Definite Integral Notation.",
+      "ja": "リーマン和（Riemann Sums）・総和記法（Summation Notation）・定積分記法（Definite Integral Notation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Riemann Sums, Summation Notation, and Definite Integral Notation is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Riemann Sums, Summation Notation, and Definite Integral Notation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use a right Riemann sum with two equal subintervals to approximate $\\int_0^2 x^2\\,dx$.\nReasoning: $\\Delta x=1$ and right endpoints are 1 and 2, so the sum is $1(1^2+2^2)=5$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：リーマン和（Riemann Sums）・総和記法（Summation Notation）・定積分記法（Definite Integral Notation）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、リーマン和（Riemann Sums）・総和記法（Summation Notation）・定積分記法（Definite Integral Notation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\Delta x=1$、右端点が1と2なので、近似値は5です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "riemann-notation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-3-d1",
+      "ap-calc-ab-6-3-d2",
+      "ap-calc-ab-6-3-d3",
+      "ap-calc-ab-6-3-d4",
+      "ap-calc-ab-6-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "ftc-accumulation",
+    "title": {
+      "en": "The Fundamental Theorem of Calculus and Accumulation Functions",
+      "ja": "微積分学の基本定理と累積関数"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Fundamental Theorem of Calculus and Accumulation Functions.",
+      "ja": "微積分学の基本定理（The Fundamental Theorem of Calculus）と累積関数（Accumulation Functions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Fundamental Theorem of Calculus and Accumulation Functions is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Fundamental Theorem of Calculus and Accumulation Functions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $G(x)=\\int_1^x(t^2+1)\\,dt$, find $G'(x)$.\nReasoning: By the Fundamental Theorem of Calculus, $G'(x)=x^2+1$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微積分学の基本定理（The Fundamental Theorem of Calculus）と累積関数（Accumulation Functions）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微積分学の基本定理（The Fundamental Theorem of Calculus）と累積関数（Accumulation Functions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：微積分学の基本定理より $G'(x)=x^2+1$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "ftc-accumulation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-4-d1",
+      "ap-calc-ab-6-4-d2",
+      "ap-calc-ab-6-4-d3",
+      "ap-calc-ab-6-4-d4",
+      "ap-calc-ab-6-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "accumulation-behavior",
+    "title": {
+      "en": "Interpreting the Behavior of Accumulation Functions Involving Area",
+      "ja": "面積による累積関数の挙動"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Interpreting the Behavior of Accumulation Functions Involving Area.",
+      "ja": "面積による累積関数の挙動（Interpreting the Behavior of Accumulation Functions Involving Area）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Interpreting the Behavior of Accumulation Functions Involving Area is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Interpreting the Behavior of Accumulation Functions Involving Area, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: If $G(x)=\\int_1^x(t^2+1)\\,dt$, find $G'(x)$.\nReasoning: By the Fundamental Theorem of Calculus, $G'(x)=x^2+1$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：面積による累積関数の挙動（Interpreting the Behavior of Accumulation Functions Involving Area）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、面積による累積関数の挙動（Interpreting the Behavior of Accumulation Functions Involving Area）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：微積分学の基本定理より $G'(x)=x^2+1$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "accumulation-behavior",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-5-d1",
+      "ap-calc-ab-6-5-d2",
+      "ap-calc-ab-6-5-d3",
+      "ap-calc-ab-6-5-d4",
+      "ap-calc-ab-6-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "definite-integral-properties",
+    "title": {
+      "en": "Applying Properties of Definite Integrals",
+      "ja": "定積分の性質"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Applying Properties of Definite Integrals.",
+      "ja": "定積分の性質（Applying Properties of Definite Integrals）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Applying Properties of Definite Integrals is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Applying Properties of Definite Integrals, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Given $\\int_0^3 f(x)dx=5$, find $\\int_3^0 2f(x)dx$.\nReasoning: Reversing bounds changes the sign and the factor 2 scales the integral, so the value is $-10$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：定積分の性質（Applying Properties of Definite Integrals）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、定積分の性質（Applying Properties of Definite Integrals）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：積分区間を逆にして符号を変え、2倍するので $-10$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "definite-integral-properties",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-6-d1",
+      "ap-calc-ab-6-6-d2",
+      "ap-calc-ab-6-6-d3",
+      "ap-calc-ab-6-6-d4",
+      "ap-calc-ab-6-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "ftc-definite-integrals",
+    "title": {
+      "en": "The Fundamental Theorem of Calculus and Definite Integrals",
+      "ja": "微積分学の基本定理と定積分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for The Fundamental Theorem of Calculus and Definite Integrals.",
+      "ja": "微積分学の基本定理（The Fundamental Theorem of Calculus）と定積分（Definite Integrals）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: The Fundamental Theorem of Calculus and Definite Integrals is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to The Fundamental Theorem of Calculus and Definite Integrals, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\int_0^2(3x^2+1)\\,dx$.\nReasoning: $[x^3+x]_0^2=10$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微積分学の基本定理（The Fundamental Theorem of Calculus）と定積分（Definite Integrals）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微積分学の基本定理（The Fundamental Theorem of Calculus）と定積分（Definite Integrals）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$[x^3+x]_0^2=10$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "ftc-definite-integrals",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-7-d1",
+      "ap-calc-ab-6-7-d2",
+      "ap-calc-ab-6-7-d3",
+      "ap-calc-ab-6-7-d4",
+      "ap-calc-ab-6-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "antiderivatives",
+    "title": {
+      "en": "Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation",
+      "ja": "原始関数と不定積分：基本法則と記法"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation.",
+      "ja": "原始関数と不定積分：基本法則と記法（Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Use the limit definition to find the derivative of $f(x)=x^2$ at $x=3$.\nReasoning: $f'(3)=\\lim_{h\\to0}[(3+h)^2-9]/h=\\lim_{h\\to0}(6+h)=6$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：原始関数と不定積分：基本法則と記法（Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、原始関数と不定積分：基本法則と記法（Finding Antiderivatives and Indefinite Integrals: Basic Rules and Notation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：導関数の定義を使うと $f'(3)=6$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "antiderivatives",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-8-d1",
+      "ap-calc-ab-6-8-d2",
+      "ap-calc-ab-6-8-d3",
+      "ap-calc-ab-6-8-d4",
+      "ap-calc-ab-6-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-9-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "substitution",
+    "title": {
+      "en": "Integrating Using Substitution",
+      "ja": "置換積分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Integrating Using Substitution.",
+      "ja": "置換積分（Integrating Using Substitution）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Integrating Using Substitution is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Integrating Using Substitution, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Evaluate $\\int 2x\\cos(x^2)\\,dx$.\nReasoning: Let $u=x^2$. The integral is $\\sin(x^2)+C$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：置換積分（Integrating Using Substitution）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、置換積分（Integrating Using Substitution）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$u=x^2$ と置換すると $\\sin(x^2)+C$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "substitution",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-9-d1",
+      "ap-calc-ab-6-9-d2",
+      "ap-calc-ab-6-9-d3",
+      "ap-calc-ab-6-9-d4",
+      "ap-calc-ab-6-9-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-10-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "long-division-completing-square",
+    "title": {
+      "en": "Integrating Functions Using Long Division and Completing the Square",
+      "ja": "筆算除法と平方完成による積分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Integrating Functions Using Long Division and Completing the Square.",
+      "ja": "筆算除法（Integrating Functions Using Long Division）と平方完成による積分（Completing the Square）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Integrating Functions Using Long Division and Completing the Square is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Integrating Functions Using Long Division and Completing the Square, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Rewrite $(x^2+1)/(x+1)$ using polynomial division before integrating.\nReasoning: $(x^2+1)/(x+1)=x-1+2/(x+1)$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：筆算除法（Integrating Functions Using Long Division）と平方完成による積分（Completing the Square）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、筆算除法（Integrating Functions Using Long Division）と平方完成による積分（Completing the Square）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：多項式除法により $x-1+2/(x+1)$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "long-division-completing-square",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-10-d1",
+      "ap-calc-ab-6-10-d2",
+      "ap-calc-ab-6-10-d3",
+      "ap-calc-ab-6-10-d4",
+      "ap-calc-ab-6-10-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-6-14-reference",
+    "course": "ap-calc-ab",
+    "unit": "integration-accumulation",
+    "topic": "selecting-antidifferentiation",
+    "title": {
+      "en": "Selecting Techniques for Antidifferentiation",
+      "ja": "積分法の選択"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Selecting Techniques for Antidifferentiation.",
+      "ja": "積分法の選択（Selecting Techniques for Antidifferentiation）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Selecting Techniques for Antidifferentiation is a focused skill in Integration and Accumulation of Change. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Selecting Techniques for Antidifferentiation, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Which technique is most direct for $\\int x\\ln x\\,dx$?\nReasoning: Integration by parts is most direct.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：積分法の選択（Selecting Techniques for Antidifferentiation）は、Integration and Accumulation of Changeで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、積分法の選択（Selecting Techniques for Antidifferentiation）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：部分積分が最も直接的です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "selecting-antidifferentiation",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-6-14-d1",
+      "ap-calc-ab-6-14-d2",
+      "ap-calc-ab-6-14-d3",
+      "ap-calc-ab-6-14-d4",
+      "ap-calc-ab-6-14-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "modeling-differential-equations",
+    "title": {
+      "en": "Modeling Situations with Differential Equations",
+      "ja": "微分方程式によるモデリング"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Modeling Situations with Differential Equations.",
+      "ja": "微分方程式によるモデリング（Modeling Situations with Differential Equations）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Modeling Situations with Differential Equations is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Modeling Situations with Differential Equations, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A population grows at a rate proportional to its size. Write a differential equation.\nReasoning: $dP/dt=kP$ for a positive constant $k$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分方程式によるモデリング（Modeling Situations with Differential Equations）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分方程式によるモデリング（Modeling Situations with Differential Equations）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：正の定数 $k$ を用いて $dP/dt=kP$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "modeling-differential-equations",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-1-d1",
+      "ap-calc-ab-7-1-d2",
+      "ap-calc-ab-7-1-d3",
+      "ap-calc-ab-7-1-d4",
+      "ap-calc-ab-7-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "verifying-solutions",
+    "title": {
+      "en": "Verifying Solutions for Differential Equations",
+      "ja": "微分方程式の解の検証"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Verifying Solutions for Differential Equations.",
+      "ja": "微分方程式の解の検証（Verifying Solutions for Differential Equations）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Verifying Solutions for Differential Equations is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Verifying Solutions for Differential Equations, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Verify whether $y=3e^{2x}$ satisfies $y'=2y$.\nReasoning: $y'=6e^{2x}=2(3e^{2x})=2y$, so it does.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分方程式の解の検証（Verifying Solutions for Differential Equations）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分方程式の解の検証（Verifying Solutions for Differential Equations）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$y'=6e^{2x}=2y$ なので、解です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "verifying-solutions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-2-d1",
+      "ap-calc-ab-7-2-d2",
+      "ap-calc-ab-7-2-d3",
+      "ap-calc-ab-7-2-d4",
+      "ap-calc-ab-7-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "slope-fields",
+    "title": {
+      "en": "Sketching Slope Fields",
+      "ja": "方向場の作図"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Sketching Slope Fields.",
+      "ja": "方向場の作図（Sketching Slope Fields）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Sketching Slope Fields is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Sketching Slope Fields, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $dy/dx=x-y$, what slope appears at the point $(1,3)$?\nReasoning: The slope is $1-3=-2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：方向場の作図（Sketching Slope Fields）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、方向場の作図（Sketching Slope Fields）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：傾きは $1-3=-2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "slope-fields",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-3-d1",
+      "ap-calc-ab-7-3-d2",
+      "ap-calc-ab-7-3-d3",
+      "ap-calc-ab-7-3-d4",
+      "ap-calc-ab-7-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "reasoning-slope-fields",
+    "title": {
+      "en": "Reasoning Using Slope Fields",
+      "ja": "方向場を用いた推論"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Reasoning Using Slope Fields.",
+      "ja": "方向場を用いた推論（Reasoning Using Slope Fields）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Reasoning Using Slope Fields is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Reasoning Using Slope Fields, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: For $dy/dx=x-y$, what slope appears at the point $(1,3)$?\nReasoning: The slope is $1-3=-2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：方向場を用いた推論（Reasoning Using Slope Fields）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、方向場を用いた推論（Reasoning Using Slope Fields）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：傾きは $1-3=-2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "reasoning-slope-fields",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-4-d1",
+      "ap-calc-ab-7-4-d2",
+      "ap-calc-ab-7-4-d3",
+      "ap-calc-ab-7-4-d4",
+      "ap-calc-ab-7-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "separation-general",
+    "title": {
+      "en": "Finding General Solutions Using Separation of Variables",
+      "ja": "変数分離法による一般解"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding General Solutions Using Separation of Variables.",
+      "ja": "変数分離法による一般解（Finding General Solutions Using Separation of Variables）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding General Solutions Using Separation of Variables is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding General Solutions Using Separation of Variables, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $dy/dx=2xy$ by separation.\nReasoning: $dy/y=2x\\,dx$, so $\\ln|y|=x^2+C$ and $y=Ce^{x^2}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：変数分離法による一般解（Finding General Solutions Using Separation of Variables）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、変数分離法による一般解（Finding General Solutions Using Separation of Variables）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：変数分離すると $y=Ce^{x^2}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "separation-general",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-6-d1",
+      "ap-calc-ab-7-6-d2",
+      "ap-calc-ab-7-6-d3",
+      "ap-calc-ab-7-6-d4",
+      "ap-calc-ab-7-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "separation-particular",
+    "title": {
+      "en": "Finding Particular Solutions Using Initial Conditions and Separation of Variables",
+      "ja": "初期条件と変数分離法による特殊解"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding Particular Solutions Using Initial Conditions and Separation of Variables.",
+      "ja": "初期条件（Finding Particular Solutions Using Initial Conditions）と変数分離法による特殊解（Separation of Variables）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding Particular Solutions Using Initial Conditions and Separation of Variables is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding Particular Solutions Using Initial Conditions and Separation of Variables, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $dy/dx=2xy$ by separation.\nReasoning: $dy/y=2x\\,dx$, so $\\ln|y|=x^2+C$ and $y=Ce^{x^2}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：初期条件（Finding Particular Solutions Using Initial Conditions）と変数分離法による特殊解（Separation of Variables）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、初期条件（Finding Particular Solutions Using Initial Conditions）と変数分離法による特殊解（Separation of Variables）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：変数分離すると $y=Ce^{x^2}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "separation-particular",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-7-d1",
+      "ap-calc-ab-7-7-d2",
+      "ap-calc-ab-7-7-d3",
+      "ap-calc-ab-7-7-d4",
+      "ap-calc-ab-7-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-7-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "differential-equations",
+    "topic": "exponential-models",
+    "title": {
+      "en": "Exponential Models with Differential Equations",
+      "ja": "微分方程式による指数モデル"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Exponential Models with Differential Equations.",
+      "ja": "微分方程式による指数モデル（Exponential Models with Differential Equations）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Exponential Models with Differential Equations is a focused skill in Differential Equations. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Exponential Models with Differential Equations, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Solve $dP/dt=0.04P$ with $P(0)=500$.\nReasoning: $P(t)=500e^{0.04t}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：微分方程式による指数モデル（Exponential Models with Differential Equations）は、Differential Equationsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、微分方程式による指数モデル（Exponential Models with Differential Equations）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$P(t)=500e^{0.04t}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "exponential-models",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-7-8-d1",
+      "ap-calc-ab-7-8-d2",
+      "ap-calc-ab-7-8-d3",
+      "ap-calc-ab-7-8-d4",
+      "ap-calc-ab-7-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-1-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "average-value",
+    "title": {
+      "en": "Finding the Average Value of a Function on an Interval",
+      "ja": "区間における関数の平均値"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding the Average Value of a Function on an Interval.",
+      "ja": "区間における関数の平均値（Finding the Average Value of a Function on an Interval）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding the Average Value of a Function on an Interval is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding the Average Value of a Function on an Interval, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the average value of $f(x)=x^2$ on $[0,3]$.\nReasoning: $(1/3)\\int_0^3x^2dx=(1/3)(9)=3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：区間における関数の平均値（Finding the Average Value of a Function on an Interval）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、区間における関数の平均値（Finding the Average Value of a Function on an Interval）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：平均値は $(1/3)\\int_0^3x^2dx=3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "average-value",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-1-d1",
+      "ap-calc-ab-8-1-d2",
+      "ap-calc-ab-8-1-d3",
+      "ap-calc-ab-8-1-d4",
+      "ap-calc-ab-8-1-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-2-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "motion-using-integrals",
+    "title": {
+      "en": "Connecting Position, Velocity, and Acceleration of Functions Using Integrals",
+      "ja": "積分による位置・速度・加速度の関係"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Connecting Position, Velocity, and Acceleration of Functions Using Integrals.",
+      "ja": "積分による位置（Connecting Position）・速度（Velocity）・加速度の関係（Acceleration of Functions Using Integrals）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Connecting Position, Velocity, and Acceleration of Functions Using Integrals is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Connecting Position, Velocity, and Acceleration of Functions Using Integrals, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A particle has position $s(t)=t^3-6t^2+9t$. Find its velocity at $t=2$.\nReasoning: $v(t)=s'(t)=3t^2-12t+9$, so $v(2)=-3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：積分による位置（Connecting Position）・速度（Velocity）・加速度の関係（Acceleration of Functions Using Integrals）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、積分による位置（Connecting Position）・速度（Velocity）・加速度の関係（Acceleration of Functions Using Integrals）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$v(t)=3t^2-12t+9$ より、$v(2)=-3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "motion-using-integrals",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-2-d1",
+      "ap-calc-ab-8-2-d2",
+      "ap-calc-ab-8-2-d3",
+      "ap-calc-ab-8-2-d4",
+      "ap-calc-ab-8-2-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-3-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "integrals-applied-contexts",
+    "title": {
+      "en": "Using Accumulation Functions and Definite Integrals in Applied Contexts",
+      "ja": "応用文脈における累積関数と定積分"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Using Accumulation Functions and Definite Integrals in Applied Contexts.",
+      "ja": "応用文脈における累積関数（Using Accumulation Functions）と定積分（Definite Integrals in Applied Contexts）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Using Accumulation Functions and Definite Integrals in Applied Contexts is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Using Accumulation Functions and Definite Integrals in Applied Contexts, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A machine consumes power at rate $P(t)=100+20t$ watts for $0\\le t\\le5$ seconds. How much energy does it use during this interval?\nReasoning: $E=\\int_0^5(100+20t)\\,dt=750$ joules.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：応用文脈における累積関数（Using Accumulation Functions）と定積分（Definite Integrals in Applied Contexts）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、応用文脈における累積関数（Using Accumulation Functions）と定積分（Definite Integrals in Applied Contexts）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：使用エネルギーは $\\int_0^5(100+20t)\\,dt=750$ J です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "integrals-applied-contexts",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-3-d1",
+      "ap-calc-ab-8-3-d2",
+      "ap-calc-ab-8-3-d3",
+      "ap-calc-ab-8-3-d4",
+      "ap-calc-ab-8-3-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-4-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "area-between-curves-x",
+    "title": {
+      "en": "Finding the Area Between Curves Expressed as Functions of x",
+      "ja": "xの関数で表された曲線間の面積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding the Area Between Curves Expressed as Functions of x.",
+      "ja": "xの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of x）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding the Area Between Curves Expressed as Functions of x is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding the Area Between Curves Expressed as Functions of x, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the area between $y=2x$ and $y=x^2$ from $x=0$ to $x=2$.\nReasoning: $\\int_0^2(2x-x^2)dx=4/3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：xの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of x）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、xの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of x）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：面積は $\\int_0^2(2x-x^2)dx=4/3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "area-between-curves-x",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-4-d1",
+      "ap-calc-ab-8-4-d2",
+      "ap-calc-ab-8-4-d3",
+      "ap-calc-ab-8-4-d4",
+      "ap-calc-ab-8-4-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-5-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "area-between-curves-y",
+    "title": {
+      "en": "Finding the Area Between Curves Expressed as Functions of y",
+      "ja": "yの関数で表された曲線間の面積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding the Area Between Curves Expressed as Functions of y.",
+      "ja": "yの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of y）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding the Area Between Curves Expressed as Functions of y is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding the Area Between Curves Expressed as Functions of y, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the area between $y=2x$ and $y=x^2$ from $x=0$ to $x=2$.\nReasoning: $\\int_0^2(2x-x^2)dx=4/3$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：yの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of y）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、yの関数で表された曲線間の面積（Finding the Area Between Curves Expressed as Functions of y）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：面積は $\\int_0^2(2x-x^2)dx=4/3$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "area-between-curves-y",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-5-d1",
+      "ap-calc-ab-8-5-d2",
+      "ap-calc-ab-8-5-d3",
+      "ap-calc-ab-8-5-d4",
+      "ap-calc-ab-8-5-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-6-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "area-multiple-intersections",
+    "title": {
+      "en": "Finding the Area Between Curves That Intersect at More Than Two Points",
+      "ja": "3点以上で交わる曲線間の面積"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Finding the Area Between Curves That Intersect at More Than Two Points.",
+      "ja": "3点以上で交わる曲線間の面積（Finding the Area Between Curves That Intersect at More Than Two Points）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Finding the Area Between Curves That Intersect at More Than Two Points is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Finding the Area Between Curves That Intersect at More Than Two Points, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: The curves $y=x^3-x$ and $y=0$ intersect at $x=-1,0,1$. Find the total area between the curve and the $x$-axis on $[-1,1]$.\nReasoning: The sign changes at 0. By symmetry, the area is $2\\int_0^1(x-x^3)\\,dx=1/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：3点以上で交わる曲線間の面積（Finding the Area Between Curves That Intersect at More Than Two Points）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、3点以上で交わる曲線間の面積（Finding the Area Between Curves That Intersect at More Than Two Points）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：0で符号が変わります。対称性より、面積は $2\\int_0^1(x-x^3)\\,dx=1/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "area-multiple-intersections",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-6-d1",
+      "ap-calc-ab-8-6-d2",
+      "ap-calc-ab-8-6-d3",
+      "ap-calc-ab-8-6-d4",
+      "ap-calc-ab-8-6-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-7-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "cross-sections-squares-rectangles",
+    "title": {
+      "en": "Volumes with Cross Sections: Squares and Rectangles",
+      "ja": "断面による体積：正方形と長方形"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volumes with Cross Sections: Squares and Rectangles.",
+      "ja": "断面による体積：正方形（Volumes with Cross Sections: Squares）と長方形（Rectangles）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volumes with Cross Sections: Squares and Rectangles is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volumes with Cross Sections: Squares and Rectangles, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A solid has square cross sections perpendicular to the $x$-axis with side length $x$ for $0\\le x\\le2$. Write its volume integral.\nReasoning: $V=\\int_0^2x^2dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：断面による体積：正方形（Volumes with Cross Sections: Squares）と長方形（Rectangles）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、断面による体積：正方形（Volumes with Cross Sections: Squares）と長方形（Rectangles）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：体積は $V=\\int_0^2x^2dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "cross-sections-squares-rectangles",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-7-d1",
+      "ap-calc-ab-8-7-d2",
+      "ap-calc-ab-8-7-d3",
+      "ap-calc-ab-8-7-d4",
+      "ap-calc-ab-8-7-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-8-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "cross-sections-triangles-semicircles",
+    "title": {
+      "en": "Volumes with Cross Sections: Triangles and Semicircles",
+      "ja": "断面による体積：三角形と半円"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volumes with Cross Sections: Triangles and Semicircles.",
+      "ja": "断面による体積：三角形（Volumes with Cross Sections: Triangles）と半円（Semicircles）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volumes with Cross Sections: Triangles and Semicircles is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volumes with Cross Sections: Triangles and Semicircles, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A solid has square cross sections perpendicular to the $x$-axis with side length $x$ for $0\\le x\\le2$. Write its volume integral.\nReasoning: $V=\\int_0^2x^2dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：断面による体積：三角形（Volumes with Cross Sections: Triangles）と半円（Semicircles）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、断面による体積：三角形（Volumes with Cross Sections: Triangles）と半円（Semicircles）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：体積は $V=\\int_0^2x^2dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "cross-sections-triangles-semicircles",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-8-d1",
+      "ap-calc-ab-8-8-d2",
+      "ap-calc-ab-8-8-d3",
+      "ap-calc-ab-8-8-d4",
+      "ap-calc-ab-8-8-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-9-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "disc-coordinate-axes",
+    "title": {
+      "en": "Volume with Disc Method: Revolving Around the x- or y-Axis",
+      "ja": "円板法：x軸またはy軸のまわりの回転体"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volume with Disc Method: Revolving Around the x- or y-Axis.",
+      "ja": "円板法：x軸またはy軸のまわりの回転体（Volume with Disc Method: Revolving Around the x- or y-Axis）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volume with Disc Method: Revolving Around the x- or y-Axis is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volume with Disc Method: Revolving Around the x- or y-Axis, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the volume when $y=\\sqrt{x}$, $0\\le x\\le4$, is revolved about the $x$-axis.\nReasoning: $V=\\pi\\int_0^4(\\sqrt{x})^2dx=\\pi\\int_0^4x\\,dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円板法：x軸またはy軸のまわりの回転体（Volume with Disc Method: Revolving Around the x- or y-Axis）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円板法：x軸またはy軸のまわりの回転体（Volume with Disc Method: Revolving Around the x- or y-Axis）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$V=\\pi\\int_0^4x\\,dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "disc-coordinate-axes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-9-d1",
+      "ap-calc-ab-8-9-d2",
+      "ap-calc-ab-8-9-d3",
+      "ap-calc-ab-8-9-d4",
+      "ap-calc-ab-8-9-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-10-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "disc-other-axes",
+    "title": {
+      "en": "Volume with Disc Method: Revolving Around Other Axes",
+      "ja": "円板法：その他の軸のまわりの回転体"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volume with Disc Method: Revolving Around Other Axes.",
+      "ja": "円板法：その他の軸のまわりの回転体（Volume with Disc Method: Revolving Around Other Axes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volume with Disc Method: Revolving Around Other Axes is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volume with Disc Method: Revolving Around Other Axes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the volume when $y=\\sqrt{x}$, $0\\le x\\le4$, is revolved about the $x$-axis.\nReasoning: $V=\\pi\\int_0^4(\\sqrt{x})^2dx=\\pi\\int_0^4x\\,dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円板法：その他の軸のまわりの回転体（Volume with Disc Method: Revolving Around Other Axes）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円板法：その他の軸のまわりの回転体（Volume with Disc Method: Revolving Around Other Axes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$V=\\pi\\int_0^4x\\,dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "disc-other-axes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-10-d1",
+      "ap-calc-ab-8-10-d2",
+      "ap-calc-ab-8-10-d3",
+      "ap-calc-ab-8-10-d4",
+      "ap-calc-ab-8-10-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-11-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "washer-coordinate-axes",
+    "title": {
+      "en": "Volume with Washer Method: Revolving Around the x- or y-Axis",
+      "ja": "円環法：x軸またはy軸のまわりの回転体"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volume with Washer Method: Revolving Around the x- or y-Axis.",
+      "ja": "円環法：x軸またはy軸のまわりの回転体（Volume with Washer Method: Revolving Around the x- or y-Axis）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volume with Washer Method: Revolving Around the x- or y-Axis is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volume with Washer Method: Revolving Around the x- or y-Axis, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the washer-method volume when the region between $y=3$ and $y=x$ on $0\\le x\\le3$ is revolved about the $x$-axis.\nReasoning: $V=\\pi\\int_0^3(3^2-x^2)dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円環法：x軸またはy軸のまわりの回転体（Volume with Washer Method: Revolving Around the x- or y-Axis）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円環法：x軸またはy軸のまわりの回転体（Volume with Washer Method: Revolving Around the x- or y-Axis）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$V=\\pi\\int_0^3(9-x^2)dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "washer-coordinate-axes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-11-d1",
+      "ap-calc-ab-8-11-d2",
+      "ap-calc-ab-8-11-d3",
+      "ap-calc-ab-8-11-d4",
+      "ap-calc-ab-8-11-d5"
+    ]
+  },
+  {
+    "id": "ap-calc-ab-8-12-reference",
+    "course": "ap-calc-ab",
+    "unit": "applications-integration",
+    "topic": "washer-other-axes",
+    "title": {
+      "en": "Volume with Washer Method: Revolving Around Other Axes",
+      "ja": "円環法：その他の軸のまわりの回転体"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Volume with Washer Method: Revolving Around Other Axes.",
+      "ja": "円環法：その他の軸のまわりの回転体（Volume with Washer Method: Revolving Around Other Axes）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Volume with Washer Method: Revolving Around Other Axes is a focused skill in Applications of Integration. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Volume with Washer Method: Revolving Around Other Axes, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the washer-method volume when the region between $y=3$ and $y=x$ on $0\\le x\\le3$ is revolved about the $x$-axis.\nReasoning: $V=\\pi\\int_0^3(3^2-x^2)dx$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：円環法：その他の軸のまわりの回転体（Volume with Washer Method: Revolving Around Other Axes）は、Applications of Integrationで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、円環法：その他の軸のまわりの回転体（Volume with Washer Method: Revolving Around Other Axes）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$V=\\pi\\int_0^3(9-x^2)dx$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "washer-other-axes",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-calc-ab-8-12-d1",
+      "ap-calc-ab-8-12-d2",
+      "ap-calc-ab-8-12-d3",
+      "ap-calc-ab-8-12-d4",
+      "ap-calc-ab-8-12-d5"
+    ]
+  }
+]

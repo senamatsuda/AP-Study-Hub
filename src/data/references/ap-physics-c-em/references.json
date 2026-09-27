@@ -36,7 +36,7 @@
     },
     "description": {
       "en": "Use symmetry to relate electric flux and enclosed charge.",
-      "ja": "対称性を用いて電気フラックスと内部電荷を関係づけます。"
+      "ja": "対称性を用いて電束と内部電荷を関係づけます。"
     },
     "content": {
       "en": "Gauss's law states\n$$\\oint \\vec E\\cdot d\\vec A=\\frac{Q_{enc}}{\\varepsilon_0}.$$\nIt is most useful when symmetry makes the field magnitude constant on a Gaussian surface and fixes its direction relative to $d\\vec A$.",

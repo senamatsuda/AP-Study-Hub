@@ -6,8 +6,6 @@ import type { Course, Language, LocalizedText, Problem, QuestionType, ReferenceI
 const ui = {
   ja: {
     navHome: "ホーム", navReferences: "Reference検索", navProblems: "Problem検索",
-    heroEyebrow: "AP STUDY HUB", heroTitle: "必要な教材を、すぐに。",
-    heroBody: "科目を選ぶか、キーワードでReferenceとPractice Problemを検索できます。",
     searchAll: "全教材を検索", searchPlaceholder: "例：electric field、合成関数、energy…", search: "検索",
     courses: "科目を選ぶ", coursesLead: "学びたい科目から始めましょう。",
     explore: "科目を開く", refs: "References", practice: "Practice Problems", units: "Units", topics: "Topics",
@@ -23,8 +21,6 @@ const ui = {
   },
   en: {
     navHome: "Home", navReferences: "Find References", navProblems: "Find Problems",
-    heroEyebrow: "AP STUDY HUB", heroTitle: "Find what you need. Start learning.",
-    heroBody: "Choose a course or search for References and Practice Problems by keyword.",
     searchAll: "Search all materials", searchPlaceholder: "Try electric field, chain rule, energy…", search: "Search",
     courses: "Choose a course", coursesLead: "Start with the AP course you want to study.",
     explore: "Open course", refs: "References", practice: "Practice Problems", units: "Units", topics: "Topics",
@@ -48,6 +44,22 @@ const typeLabels: Record<QuestionType, LocalizedText> = {
 };
 
 const l = (value: LocalizedText, lang: Language) => value[lang];
+const bilingualTerm = (value: LocalizedText, lang: Language) => {
+  if (lang === "en" || value.ja === value.en) return value.en;
+  if (!value.en.includes(",") && value.en.split(" and ").length === 2 && value.ja.split("と").length === 2) {
+    const [jaFirst, jaSecond] = value.ja.split("と");
+    const [enFirst, enSecond] = value.en.split(" and ");
+    return `${jaFirst}（${enFirst}）と${jaSecond}（${enSecond}）`;
+  }
+  if (!value.en.includes(":") && value.en.includes(",") && value.ja.includes("・")) {
+    const englishParts = value.en.split(/,\s*(?:and\s+)?/);
+    const japaneseParts = value.ja.split("・");
+    if (englishParts.length === japaneseParts.length) {
+      return japaneseParts.map((part, index) => `${part}（${englishParts[index]}）`).join("・");
+    }
+  }
+  return `${value.ja}（${value.en}）`;
+};
 const href = (path: string) => `#${path}`;
 
 function parseRoute(): Route {
@@ -124,7 +136,6 @@ function Home({ lang }: { lang: Language }) {
 
   return <>
     <section className="hero">
-      <div className="hero-copy"><p className="eyebrow">{copy.heroEyebrow}</p><h1>{copy.heroTitle}</h1><p className="hero-body">{copy.heroBody}</p></div>
       <form className="global-search" onSubmit={(event) => { event.preventDefault(); setSubmitted(query); }}>
         <label htmlFor="global-search">{copy.searchAll}</label>
         <div><span aria-hidden="true">⌕</span><input id="global-search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder={copy.searchPlaceholder}/><button>{copy.search}</button></div>
@@ -166,14 +177,14 @@ function CoursePage({ id, lang }: { id: string; lang: Language }) {
       <div className="unit-list">{course.units.map((unit) => {
         const unitHasMaterials = references.some(item => item.course === id && item.unit === unit.id) || problems.some(item => item.course === id && item.unit === unit.id);
         return <details className="unit-block" key={unit.id} open={unitHasMaterials || undefined}>
-        <summary><div><span>UNIT {unit.number}</span><h3>{l(unit.name, lang)}</h3></div><div className="unit-summary-meta"><small><b>{copy.examWeight}</b>{l(unit.examWeighting, lang)}</small><i aria-hidden="true">+</i></div></summary>
+        <summary><div><span>UNIT {unit.number}</span><h3>{unit.name.en}</h3></div><div className="unit-summary-meta"><small><b>{copy.examWeight}</b>{l(unit.examWeighting, lang)}</small><i aria-hidden="true">+</i></div></summary>
         <div className="topic-list">{unit.topics.map((topic) => {
           const topicRefs = references.filter(item => item.course === id && item.unit === unit.id && item.topic === topic.id);
           const topicProblems = problems.filter(item => item.course === id && item.unit === unit.id && item.topic === topic.id);
           const hasMaterials = topicRefs.length > 0 || topicProblems.length > 0;
-          return <section className={`topic-block${hasMaterials ? " has-materials" : ""}`} key={topic.id}><div className="topic-title"><span>{topic.code}</span><h4>{l(topic.name, lang)}</h4></div>{hasMaterials ? <div className="material-columns">
-            <div><h5>{copy.refs}</h5>{topicRefs.map(item => <MiniLink key={item.id} title={l(item.title, lang)} meta={l(item.description, lang)} url={`/reference/${item.id}`}/>)}</div>
-            <div><h5>{copy.practice}</h5>{topicProblems.map(item => <MiniLink key={item.id} title={l(item.title, lang)} meta={`${l(typeLabels[item.questionType], lang)} · ${difficultyDots(item.difficulty)}`} url={`/problem/${item.id}`}/>)}</div>
+          return <section className={`topic-block${hasMaterials ? " has-materials" : ""}`} key={topic.id}><div className="topic-title"><span>{topic.code}</span><h4>{topic.name.en}</h4></div>{hasMaterials ? <div className="material-columns">
+            <div><h5>{copy.refs}</h5>{topicRefs.map(item => <MiniLink key={item.id} title={bilingualTerm(item.title, lang)} meta={l(item.description, lang)} url={`/reference/${item.id}`}/>)}</div>
+            <div><h5>{copy.practice}</h5>{topicProblems.map(item => <MiniLink key={item.id} title={item.title.en} meta={`${l(typeLabels[item.questionType], lang)} · ${difficultyDots(item.difficulty)}`} url={`/problem/${item.id}`}/>)}</div>
           </div> : <span className="topic-empty" aria-label={lang === "ja" ? "教材準備中" : "Materials coming soon"}>—</span>}</section>;
         })}</div>
       </details>;})}</div>
@@ -236,8 +247,8 @@ function FilterPanel({ filters, setFilters, lang, problem = false }: { filters: 
   return <div className="filter-panel">
     <label className="wide"><span>{copy.keyword}</span><input value={filters.query} onChange={e => update("query", e.target.value)} placeholder={copy.searchPlaceholder}/></label>
     <label><span>{copy.course}</span><select value={filters.course} onChange={e => update("course", e.target.value)}><option value="">{copy.allCourses}</option>{courses.map(course => <option key={course.id} value={course.id}>{course.name.en}</option>)}</select></label>
-    <label><span>{copy.unit}</span><select value={filters.unit} onChange={e => update("unit", e.target.value)}><option value="">{copy.allUnits}</option>{availableUnits.map(unit => <option key={unit.id} value={unit.id}>{l(unit.name, lang)}</option>)}</select></label>
-    <label><span>{copy.topic}</span><select value={filters.topic} onChange={e => update("topic", e.target.value)}><option value="">{copy.allTopics}</option>{availableTopics.map(topic => <option key={topic.id} value={topic.id}>{l(topic.name, lang)}</option>)}</select></label>
+    <label><span>{copy.unit}</span><select value={filters.unit} onChange={e => update("unit", e.target.value)}><option value="">{copy.allUnits}</option>{availableUnits.map(unit => <option key={unit.id} value={unit.id}>{unit.name.en}</option>)}</select></label>
+    <label><span>{copy.topic}</span><select value={filters.topic} onChange={e => update("topic", e.target.value)}><option value="">{copy.allTopics}</option>{availableTopics.map(topic => <option key={topic.id} value={topic.id}>{topic.name.en}</option>)}</select></label>
     {problem && <><label><span>{copy.difficulty}</span><select value={filters.difficulty || ""} onChange={e => update("difficulty", e.target.value)}><option value="">{copy.allDifficulties}</option>{[1,2,3,4,5].map(n => <option key={n} value={n}>{n} / 5</option>)}</select></label><label><span>{copy.questionType}</span><select value={filters.type || ""} onChange={e => update("type", e.target.value)}><option value="">{copy.allTypes}</option>{Object.entries(typeLabels).map(([key, value]) => <option key={key} value={key}>{l(value, lang)}</option>)}</select></label></>}
     <label><span>{copy.tags}</span><select value={filters.tag} onChange={e => update("tag", e.target.value)}><option value="">{copy.allTags}</option>{tags.map(tag => <option key={tag} value={tag}>{tag}</option>)}</select></label>
   </div>;
@@ -248,21 +259,25 @@ function ResultBar({ count, lang, clear }: { count: number; lang: Language; clea
 }
 
 function ReferenceResult({ item, lang }: { item: ReferenceItem; lang: Language }) {
-  return <a className="result-card" href={href(`/reference/${item.id}`)}><div className="result-kind">REFERENCE</div><div className="result-content"><h3>{l(item.title, lang)}</h3><p>{l(item.description, lang)}</p><ContextLine item={item} lang={lang}/><TagList tags={item.tags}/></div><span className="result-arrow">→</span></a>;
+  return <a className="result-card" href={href(`/reference/${item.id}`)}><div className="result-kind">REFERENCE</div><div className="result-content"><h3>{bilingualTerm(item.title, lang)}</h3><p>{l(item.description, lang)}</p><ContextLine item={item} lang={lang}/><TagList tags={item.tags}/></div><span className="result-arrow">→</span></a>;
 }
 
 function ProblemResult({ item, lang }: { item: Problem; lang: Language }) {
-  return <a className="result-card problem-result" href={href(`/problem/${item.id}`)}><div className="result-kind">PROBLEM</div><div className="result-content"><h3>{l(item.title, lang)}</h3><p>{truncatePlain(l(item.question, lang), 145)}</p><ContextLine item={item} lang={lang}/><div className="problem-badges"><span className="difficulty">{difficultyDots(item.difficulty)}</span><span>{l(typeLabels[item.questionType], lang)}</span></div></div><span className="result-arrow">→</span></a>;
+  return <a className="result-card problem-result" href={href(`/problem/${item.id}`)}><div className="result-kind">PROBLEM</div><div className="result-content"><h3>{item.title.en}</h3><p>{truncatePlain(item.question.en, 145)}</p><ContextLine item={item} lang={lang}/><div className="problem-badges"><span className="difficulty">{difficultyDots(item.difficulty)}</span><span>{l(typeLabels[item.questionType], lang)}</span></div></div><span className="result-arrow">→</span></a>;
 }
 
 function ReferencePage({ id, lang }: { id: string; lang: Language }) {
   const item = referenceById(id);
   if (!item) return <NotFound lang={lang}/>;
   const copy = ui[lang];
-  const relatedProblems = item.relatedProblems.map(problemById).filter(Boolean) as Problem[];
+  const relatedProblemIds = new Set(item.relatedProblems);
+  problems
+    .filter(problem => problem.course === item.course && problem.unit === item.unit && problem.topic === item.topic)
+    .forEach(problem => relatedProblemIds.add(problem.id));
+  const relatedProblems = [...relatedProblemIds].map(problemById).filter(Boolean) as Problem[];
   const relatedRefs = references.filter(candidate => candidate.id !== item.id && candidate.course === item.course && (candidate.topic === item.topic || candidate.tags.some(tag => item.tags.includes(tag)))).slice(0, 3);
-  return <DetailLayout item={item} lang={lang} kind={copy.reference} title={l(item.title, lang)} description={l(item.description, lang)}>
-    <article className="prose-card"><RichText text={l(item.content, lang)}/></article>
+  return <DetailLayout item={item} lang={lang} kind={copy.reference} title={bilingualTerm(item.title, lang)} description={l(item.description, lang)}>
+    <article className="prose-card">{lang === "ja" && <p><strong>重要用語：</strong>{bilingualTerm(item.title, lang)}</p>}<RichText text={l(item.content, lang)}/></article>
     <RelatedSection title={copy.relatedProblems}>{relatedProblems.map(problem => <ProblemResult key={problem.id} item={problem} lang={lang}/>)}</RelatedSection>
     {relatedRefs.length > 0 && <RelatedSection title={copy.relatedRefs}>{relatedRefs.map(ref => <ReferenceResult key={ref.id} item={ref} lang={lang}/>)}</RelatedSection>}
   </DetailLayout>;
@@ -271,11 +286,12 @@ function ReferencePage({ id, lang }: { id: string; lang: Language }) {
 function ProblemPage({ id, lang }: { id: string; lang: Language }) {
   const item = problemById(id);
   const [open, setOpen] = useState(false);
+  useEffect(() => setOpen(false), [id]);
   if (!item) return <NotFound lang={lang}/>;
   const copy = ui[lang];
   const relatedRefs = item.relatedReferences.map(referenceById).filter(Boolean) as ReferenceItem[];
-  return <DetailLayout item={item} lang={lang} kind={copy.problem} title={l(item.title, lang)} description={`${l(typeLabels[item.questionType], lang)} · ${copy.difficulty} ${item.difficulty}/5`}>
-    <article className="prose-card question-card"><p className="card-kicker">{copy.question}</p><RichText text={l(item.question, lang)}/>{item.choices && <ol className="choices" type="A">{item.choices.map((choice, index) => <li key={index}><RichText text={l(choice, lang)}/></li>)}</ol>}</article>
+  return <DetailLayout item={item} lang={lang} kind={copy.problem} title={item.title.en} description={`${l(typeLabels[item.questionType], lang)} · ${copy.difficulty} ${item.difficulty}/5`}>
+    <article className="prose-card question-card"><p className="card-kicker">{copy.question}</p><RichText text={item.question.en}/>{item.choices && <ol className="choices" type="A">{item.choices.map((choice, index) => <li key={index}><RichText text={choice.en}/></li>)}</ol>}</article>
     <div className="solution-wrap"><button className="solution-toggle" onClick={() => setOpen(value => !value)} aria-expanded={open}><span>{open ? "−" : "+"}</span>{open ? copy.hideSolution : copy.showSolution}</button>{open && <article className="prose-card solution-card"><p className="card-kicker">{copy.solution}</p><RichText text={l(item.solution, lang)}/></article>}</div>
     <RelatedSection title={copy.relatedRefs}>{relatedRefs.map(ref => <ReferenceResult key={ref.id} item={ref} lang={lang}/>)}</RelatedSection>
   </DetailLayout>;
@@ -283,14 +299,14 @@ function ProblemPage({ id, lang }: { id: string; lang: Language }) {
 
 function DetailLayout({ item, lang, kind, title, description, children }: { item: ReferenceItem | Problem; lang: Language; kind: string; title: string; description: string; children: ReactNode }) {
   const course = courseById(item.course)!;
-  return <div className="page-wrap detail-page"><Breadcrumb lang={lang} parts={[course.name.en, title]}/><header className="detail-header"><div><p className="eyebrow">{kind.toUpperCase()}</p><h1>{title}</h1><p>{description}</p></div><span className="detail-course" style={{ "--accent": course.accent } as React.CSSProperties}>{course.name.en}</span></header><ContextLine item={item} lang={lang}/><TagList tags={item.tags}/><div className="detail-grid"><div>{children}</div><aside><h3>{ui[lang].course}</h3><a href={href(`/course/${course.id}`)}>{course.name.en} <span>→</span></a><dl><dt>{ui[lang].unit}</dt><dd>{l(unitFor(item.course, item.unit)!.name, lang)}</dd><dt>{ui[lang].topic}</dt><dd>{l(topicFor(item.course, item.unit, item.topic)!.name, lang)}</dd>{"difficulty" in item && <><dt>{ui[lang].difficulty}</dt><dd>{difficultyDots(item.difficulty)} ({item.difficulty}/5)</dd></>}</dl></aside></div></div>;
+  return <div className="page-wrap detail-page"><Breadcrumb lang={lang} parts={[course.name.en, title]}/><header className="detail-header"><div><p className="eyebrow">{kind.toUpperCase()}</p><h1>{title}</h1><p>{description}</p></div><span className="detail-course" style={{ "--accent": course.accent } as React.CSSProperties}>{course.name.en}</span></header><ContextLine item={item} lang={lang}/><TagList tags={item.tags}/><div className="detail-grid"><div>{children}</div><aside><h3>{ui[lang].course}</h3><a href={href(`/course/${course.id}`)}>{course.name.en} <span>→</span></a><dl><dt>{ui[lang].unit}</dt><dd>{unitFor(item.course, item.unit)!.name.en}</dd><dt>{ui[lang].topic}</dt><dd>{topicFor(item.course, item.unit, item.topic)!.name.en}</dd>{"difficulty" in item && <><dt>{ui[lang].difficulty}</dt><dd>{difficultyDots(item.difficulty)} ({item.difficulty}/5)</dd></>}</dl></aside></div></div>;
 }
 
 function RelatedSection({ title, children }: { title: string; children: ReactNode }) { return <section className="related-section"><h2>{title}</h2><div className="result-list compact">{children}</div></section>; }
 
 function ContextLine({ item, lang }: { item: ReferenceItem | Problem; lang: Language }) {
   const course = courseById(item.course); const unit = unitFor(item.course, item.unit); const topic = topicFor(item.course, item.unit, item.topic);
-  return <div className="context-line"><span>{course?.name.en}</span><b>/</b><span>{unit && l(unit.name, lang)}</span><b>/</b><span>{topic && l(topic.name, lang)}</span></div>;
+  return <div className="context-line"><span>{course?.name.en}</span><b>/</b><span>{unit?.name.en}</span><b>/</b><span>{topic?.name.en}</span></div>;
 }
 
 function TagList({ tags }: { tags: string[] }) { return <div className="tag-list">{tags.map(tag => <span key={tag}>#{tag}</span>)}</div>; }

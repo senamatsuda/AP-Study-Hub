@@ -41,6 +41,8 @@ const problemIds = new Set(problems.map((item) => item.id));
 const allowedTypes = new Set(["multiple-choice", "free-response", "conceptual", "calculation"]);
 const errors = [];
 const privateFileExtensions = new Set([".pdf", ".doc", ".docx", ".ppt", ".pptx", ".xls", ".xlsx"]);
+const japaneseCharacters = /[\u3040-\u30ff\u3400-\u9fff]/;
+const discouragedJapaneseTerms = /電気フラックス|磁気フラックス|キャパシタ|回転慣性|並進運動量|ワッシャー法|円盤法|終端挙動/;
 
 function rejectPrivateFiles(folder) {
   const directory = join(root, folder);
@@ -81,6 +83,7 @@ for (const course of courses) {
   const topicIds = new Set();
   for (const unit of course.units) {
     localized(unit.name, `${course.id}/${unit.id}.name`);
+    if (discouragedJapaneseTerms.test(unit.name.ja)) errors.push(`${course.id}/${unit.id}.name uses a discouraged Japanese term`);
     localized(unit.examWeighting, `${course.id}/${unit.id}.examWeighting`);
     if (!Number.isInteger(unit.number)) errors.push(`${course.id}/${unit.id}.number must be an integer`);
     if (unitIds.has(unit.id)) errors.push(`${course.id}: duplicate unit id ${unit.id}`);
@@ -89,6 +92,7 @@ for (const course of courses) {
     unitNumbers.add(unit.number);
     for (const topic of unit.topics) {
       localized(topic.name, `${course.id}/${unit.id}/${topic.id}.name`);
+      if (discouragedJapaneseTerms.test(topic.name.ja)) errors.push(`${course.id}/${unit.id}/${topic.id}.name uses a discouraged Japanese term`);
       if (!/^\d+\.\d+$/.test(topic.code)) errors.push(`${course.id}/${unit.id}/${topic.id}.code is invalid`);
       if (!topic.code.startsWith(`${unit.number}.`)) errors.push(`${course.id}/${unit.id}/${topic.id}.code does not match unit number`);
       if (topicIds.has(topic.id)) errors.push(`${course.id}: duplicate topic id ${topic.id}`);
@@ -102,6 +106,14 @@ for (const item of references) {
   localized(item.title, `${item.id}.title`);
   localized(item.description, `${item.id}.description`);
   localized(item.content, `${item.id}.content`);
+  if (japaneseCharacters.test(item.title.en) || japaneseCharacters.test(item.description.en) || japaneseCharacters.test(item.content.en)) {
+    errors.push(`${item.id}: English reference fields must not contain Japanese text`);
+  }
+  if (!japaneseCharacters.test(item.description.ja) || !japaneseCharacters.test(item.content.ja)) {
+    errors.push(`${item.id}: Japanese reference description and content must contain Japanese text`);
+  }
+  if (item.content.en.trim().length < 80) errors.push(`${item.id}: English reference content is too short`);
+  if (!item.relatedProblems.length) errors.push(`${item.id}: reference must link to at least one problem`);
   for (const id of item.relatedProblems) if (!problemIds.has(id)) errors.push(`${item.id}: unknown related problem ${id}`);
 }
 
@@ -112,7 +124,30 @@ for (const item of problems) {
   localized(item.solution, `${item.id}.solution`);
   if (!Number.isInteger(item.difficulty) || item.difficulty < 1 || item.difficulty > 5) errors.push(`${item.id}: difficulty must be 1-5`);
   if (!allowedTypes.has(item.questionType)) errors.push(`${item.id}: unsupported questionType ${item.questionType}`);
+  if (japaneseCharacters.test(item.title.en) || japaneseCharacters.test(item.question.en)) {
+    errors.push(`${item.id}: English problem title and question must not contain Japanese text`);
+  }
+  for (const [index, choice] of (item.choices ?? []).entries()) {
+    localized(choice, `${item.id}.choices[${index}]`);
+    if (japaneseCharacters.test(choice.en)) errors.push(`${item.id}.choices[${index}]: English choice must not contain Japanese text`);
+  }
+  if (!item.relatedReferences.length) errors.push(`${item.id}: problem must link to at least one reference`);
   for (const id of item.relatedReferences) if (!referenceIds.has(id)) errors.push(`${item.id}: unknown related reference ${id}`);
+}
+
+for (const course of courses) {
+  for (const unit of course.units) {
+    for (const topic of unit.topics) {
+      const topicReferences = references.filter((reference) =>
+        reference.course === course.id && reference.unit === unit.id && reference.topic === topic.id);
+      if (!topicReferences.length) errors.push(`${course.id}/${unit.id}/${topic.id}: missing reference`);
+      const levels = new Set(problems
+        .filter((problem) => problem.course === course.id && problem.unit === unit.id && problem.topic === topic.id)
+        .map((problem) => problem.difficulty));
+      const missing = [1, 2, 3, 4, 5].filter((level) => !levels.has(level));
+      if (missing.length) errors.push(`${course.id}/${unit.id}/${topic.id}: missing problem difficulties ${missing.join(", ")}`);
+    }
+  }
 }
 
 const allIds = [...references, ...problems].map((item) => item.id);

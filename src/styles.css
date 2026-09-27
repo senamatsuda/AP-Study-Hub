@@ -37,12 +37,9 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 main { flex: 1; }
 
 .hero { padding: 64px max(28px, calc((100vw - 1160px)/2)) 58px; color: #f7faf7; background: var(--green); }
-.hero-copy { max-width: 790px; }
 .eyebrow { margin: 0 0 17px; color: #cbdc74; font-size: 11px; font-weight: 900; letter-spacing: .16em; }
 .eyebrow.muted { color: #718078; }
-.hero h1 { margin: 0; font-family: Georgia, "Yu Mincho", serif; font-size: clamp(40px, 5vw, 62px); font-weight: 500; line-height: 1.08; letter-spacing: -.04em; }
-.hero-body { max-width: 620px; margin: 25px 0 0; color: #c8d7d2; font-size: 16px; line-height: 1.85; }
-.global-search { width: min(850px, 100%); margin-top: 38px; }
+.global-search { width: min(850px, 100%); }
 .global-search label { display: block; margin-bottom: 10px; color: #dbe5e0; font-size: 12px; font-weight: 700; }
 .global-search > div { display: flex; align-items: center; gap: 12px; padding: 7px 7px 7px 19px; border-radius: 10px; background: white; box-shadow: 0 15px 35px rgba(7,25,21,.2); }
 .global-search > div > span { color: #5c6e68; font-size: 25px; transform: rotate(-20deg); }
@@ -197,8 +194,6 @@ main { flex: 1; }
   .main-nav a { flex: 1; padding-top: 10px; text-align: center; }
   .language-switch button { padding: 6px 8px; font-size: 9px; }
   .hero { padding: 58px 24px 50px; }
-  .hero h1 { font-size: 42px; }
-  .hero-body { font-size: 14px; }
   .global-search > div { flex-wrap: wrap; padding: 8px; }
   .global-search > div > span { display: none; }
   .global-search input { width: calc(100% - 90px); padding-left: 7px; }

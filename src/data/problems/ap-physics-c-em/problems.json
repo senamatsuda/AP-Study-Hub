@@ -5,23 +5,24 @@
     "unit": "electric-charges-fields-gauss-law",
     "topic": "electric-fields",
     "title": {
-      "en": "Field at a Midpoint",
-      "ja": "中点の電場"
+      "en": "Electric Field Between Unequal Charges",
+      "ja": "大きさの異なる電荷間の電場"
     },
     "difficulty": 3,
     "questionType": "calculation",
     "question": {
-      "en": "Charges $+q$ and $+4q$ are separated by distance $3d$. Find the magnitude and direction of the electric field at the point between them that is distance $d$ from $+q$.",
-      "ja": "電荷 $+q$ と $+4q$ が距離 $3d$ を隔てて置かれています。$+q$ から距離 $d$ の両電荷間の点で、電場の大きさと向きを求めてください。"
+      "en": "A charge $+Q$ is fixed at $x=-a$, and a charge $-4Q$ is fixed at $x=2a$. Determine the magnitude and direction of the net electric field at the origin. Express your answer in terms of $k$, $Q$, and $a$.",
+      "ja": "電荷 $+Q$ が $x=-a$ に、電荷 $-4Q$ が $x=2a$ に固定されています。原点での合成電場の大きさと向きを、$k$、$Q$、$a$ を用いて表しなさい。"
     },
     "solution": {
-      "en": "The $+q$ field points toward $+4q$ with magnitude $kq/d^2$. The $+4q$ field points toward $+q$ and has magnitude $k(4q)/(2d)^2=kq/d^2$. They cancel, so the net field is zero.",
-      "ja": "$+q$ が作る電場は $+4q$ 向きで大きさ $kq/d^2$。$+4q$ が作る電場は $+q$ 向きで、大きさは $k(4q)/(2d)^2=kq/d^2$ です。両者は打ち消し合うので合成電場は0です。"
+      "en": "At the origin, the field from $+Q$ points in the $+x$ direction and has magnitude $kQ/a^2$. The field from $-4Q$ also points in the $+x$ direction, toward the negative charge, and has magnitude\n$$\\frac{k(4Q)}{(2a)^2}=\\frac{kQ}{a^2}.$$\nTherefore, the fields add:\n$$\\vec E=\\frac{2kQ}{a^2}\\,\\hat{x}.$$",
+      "ja": "原点では、$+Q$ による電場は $+x$ 方向で、大きさは $kQ/a^2$ です。$-4Q$ による電場も負電荷の方向、つまり $+x$ 方向を向き、その大きさは\n$$\\frac{k(4Q)}{(2a)^2}=\\frac{kQ}{a^2}$$\nです。したがって両者は加わり、\n$$\\vec E=\\frac{2kQ}{a^2}\\,\\hat{x}$$\nとなります。"
     },
     "tags": [
       "electric-field",
       "superposition",
-      "point-charge"
+      "point-charge",
+      "direction"
     ],
     "relatedReferences": [
       "physics-c-em-electric-field-001"
@@ -33,23 +34,24 @@
     "unit": "electric-charges-fields-gauss-law",
     "topic": "gauss-law",
     "title": {
-      "en": "Field Outside a Charged Sphere",
-      "ja": "帯電球の外側の電場"
+      "en": "Flux Through a Closed Surface",
+      "ja": "閉曲面を通る電束"
     },
     "difficulty": 3,
-    "questionType": "free-response",
+    "questionType": "conceptual",
     "question": {
-      "en": "A solid insulating sphere of radius $R$ carries uniform total charge $Q$. Use Gauss's law to find the electric field magnitude at $r>R$.",
-      "ja": "半径 $R$ の絶縁体の球が、全電荷 $Q$ を一様に持っています。ガウスの法則を用いて $r>R$ での電場の大きさを求めてください。"
+      "en": "A closed cubical surface encloses two point charges, $+3q$ and $-q$. A separate charge outside the cube produces an additional nonuniform electric field across the cube. Determine the net electric flux through the cube and explain whether the outside charge changes your answer.",
+      "ja": "閉じた立方体表面の内部に、点電荷 $+3q$ と $-q$ があります。立方体の外にある別の電荷が、立方体表面に不均一な電場を加えています。立方体を通る正味の電束を求め、外部電荷が答えを変えるか説明しなさい。"
     },
     "solution": {
-      "en": "Choose a spherical Gaussian surface of radius $r$. Symmetry gives constant radial $E$, so $E(4\\pi r^2)=Q/\\varepsilon_0$. Therefore\n$$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}.$$",
-      "ja": "半径 $r$ の球形ガウス面を選びます。対称性から $E$ は面上で一定で放射方向なので、$E(4\\pi r^2)=Q/\\varepsilon_0$。したがって\n$$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}$$\nです。"
+      "en": "The enclosed charge is\n$$Q_{\\text{enc}}=3q-q=2q.$$\nGauss's law gives\n$$\\Phi_E=\\frac{Q_{\\text{enc}}}{\\varepsilon_0}=\\frac{2q}{\\varepsilon_0}.$$\nThe outside charge can change the electric field at individual points on the surface, but its field lines enter and leave the closed surface in equal net amount. It contributes zero net flux and does not change the result.",
+      "ja": "包まれた正味の電荷は\n$$Q_{\\text{enc}}=3q-q=2q$$\nです。ガウスの法則より、\n$$\\Phi_E=\\frac{Q_{\\text{enc}}}{\\varepsilon_0}=\\frac{2q}{\\varepsilon_0}$$\nとなります。外部電荷は表面上の各点の電場を変えますが、その電気力線は閉曲面へ入る分と出る分が正味で打ち消し合います。したがって外部電荷の正味電束への寄与は0で、結果は変わりません。"
     },
     "tags": [
       "gauss-law",
-      "sphere",
-      "symmetry"
+      "electric-flux",
+      "enclosed-charge",
+      "closed-surface"
     ],
     "relatedReferences": [
       "physics-c-em-gauss-001"

@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "ap-physics-c-em-8-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force - Foundation",
+      "ja": "電荷と電気力 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude."
+    },
+    "solution": {
+      "en": "Use Electric Charge and Electric Force. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「電荷と電気力」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force - Direct Practice",
+      "ja": "電荷と電気力 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Two charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.",
+      "ja": "Two charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude."
+    },
+    "solution": {
+      "en": "$F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$; the force is repulsive.",
+      "ja": "クーロン力は $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$ で、反発力です。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force - Reasoning",
+      "ja": "電荷と電気力 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Charge and Electric Force is used.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.",
+      "ja": "Solve the following problem and justify the one step where Electric Charge and Electric Force is used.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude."
+    },
+    "solution": {
+      "en": "$F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$; the force is repulsive.\n\nThe required justification is the defining relationship or condition from Electric Charge and Electric Force.",
+      "ja": "クーロン力は $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$ で、反発力です。\n\n根拠として「電荷と電気力」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force - Validity Check",
+      "ja": "電荷と電気力 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$; the force is repulsive.\n\nThen verify that the assumptions and conditions required by Electric Charge and Electric Force are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。クーロン力は $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$ で、反発力です。\n\nそのうえで「電荷と電気力」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force - Challenge",
+      "ja": "電荷と電気力 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Charge and Electric Force, and do not quote a memorized answer without deriving it.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Charge and Electric Force, and do not quote a memorized answer without deriving it.\n\nTwo charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude."
+    },
+    "solution": {
+      "en": "$F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$; the force is repulsive.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "クーロン力は $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$ で、反発力です。\n\n難易度5では、最終結果だけでなく「電荷と電気力」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging - Foundation",
+      "ja": "電荷保存と帯電過程 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "A neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?",
+      "ja": "A neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?"
+    },
+    "solution": {
+      "en": "It becomes positively charged because it lost negative charge.",
+      "ja": "負電荷を失ったので正に帯電します。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging - Direct Practice",
+      "ja": "電荷保存と帯電過程 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?",
+      "ja": "Solve this direct, single-topic problem.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?"
+    },
+    "solution": {
+      "en": "It becomes positively charged because it lost negative charge.",
+      "ja": "負電荷を失ったので正に帯電します。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging - Reasoning",
+      "ja": "電荷保存と帯電過程 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Conservation of Electric Charge and the Process of Charging is used.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?",
+      "ja": "Solve the following problem and justify the one step where Conservation of Electric Charge and the Process of Charging is used.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?"
+    },
+    "solution": {
+      "en": "It becomes positively charged because it lost negative charge.\n\nThe required justification is the defining relationship or condition from Conservation of Electric Charge and the Process of Charging.",
+      "ja": "負電荷を失ったので正に帯電します。\n\n根拠として「電荷保存と帯電過程」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging - Validity Check",
+      "ja": "電荷保存と帯電過程 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: It becomes positively charged because it lost negative charge.\n\nThen verify that the assumptions and conditions required by Conservation of Electric Charge and the Process of Charging are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。負電荷を失ったので正に帯電します。\n\nそのうえで「電荷保存と帯電過程」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging - Challenge",
+      "ja": "電荷保存と帯電過程 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Conservation of Electric Charge and the Process of Charging, and do not quote a memorized answer without deriving it.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Conservation of Electric Charge and the Process of Charging, and do not quote a memorized answer without deriving it.\n\nA neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?"
+    },
+    "solution": {
+      "en": "It becomes positively charged because it lost negative charge.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "負電荷を失ったので正に帯電します。\n\n難易度5では、最終結果だけでなく「電荷保存と帯電過程」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Electric Fields - Foundation",
+      "ja": "電場 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Find the electric-field magnitude a distance $r$ from a point charge $Q$.",
+      "ja": "Find the electric-field magnitude a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$E=k|Q|/r^2$.",
+      "ja": "$E=k|Q|/r^2$ です。"
+    },
+    "tags": [
+      "electric-fields",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "physics-c-em-electric-field-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Electric Fields - Direct Practice",
+      "ja": "電場 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$.",
+      "ja": "Solve this direct, single-topic problem.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$E=k|Q|/r^2$.",
+      "ja": "$E=k|Q|/r^2$ です。"
+    },
+    "tags": [
+      "electric-fields",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "physics-c-em-electric-field-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Electric Fields - Validity Check",
+      "ja": "電場 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $E=k|Q|/r^2$.\n\nThen verify that the assumptions and conditions required by Electric Fields are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$E=k|Q|/r^2$ です。\n\nそのうえで「電場」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-fields",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "physics-c-em-electric-field-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Electric Fields - Challenge",
+      "ja": "電場 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Fields, and do not quote a memorized answer without deriving it.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Fields, and do not quote a memorized answer without deriving it.\n\nFind the electric-field magnitude a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$E=k|Q|/r^2$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$E=k|Q|/r^2$ です。\n\n難易度5では、最終結果だけでなく「電場」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-fields",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "physics-c-em-electric-field-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions - Foundation",
+      "ja": "電荷分布による電場 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite an integral expression for the electric field from a continuous line charge.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite an integral expression for the electric field from a continuous line charge."
+    },
+    "solution": {
+      "en": "Use Electric Fields of Charge Distributions. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「電荷分布による電場」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions - Direct Practice",
+      "ja": "電荷分布による電場 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWrite an integral expression for the electric field from a continuous line charge.",
+      "ja": "Solve this direct, single-topic problem.\n\nWrite an integral expression for the electric field from a continuous line charge."
+    },
+    "solution": {
+      "en": "$d\\mathbf E=k\\,dq\\,\\hat{r}/r^2$ and $\\mathbf E=\\int d\\mathbf E$, with $dq=\\lambda\\,d\\ell$.",
+      "ja": "$dq=\\lambda d\\ell$ とし、$d\\mathbf E$ を分布全体で積分します。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions - Reasoning",
+      "ja": "電荷分布による電場 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write an integral expression for the electric field from a continuous line charge.",
+      "ja": "Write an integral expression for the electric field from a continuous line charge."
+    },
+    "solution": {
+      "en": "$d\\mathbf E=k\\,dq\\,\\hat{r}/r^2$ and $\\mathbf E=\\int d\\mathbf E$, with $dq=\\lambda\\,d\\ell$.",
+      "ja": "$dq=\\lambda d\\ell$ とし、$d\\mathbf E$ を分布全体で積分します。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions - Validity Check",
+      "ja": "電荷分布による電場 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite an integral expression for the electric field from a continuous line charge.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite an integral expression for the electric field from a continuous line charge."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $d\\mathbf E=k\\,dq\\,\\hat{r}/r^2$ and $\\mathbf E=\\int d\\mathbf E$, with $dq=\\lambda\\,d\\ell$.\n\nThen verify that the assumptions and conditions required by Electric Fields of Charge Distributions are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$dq=\\lambda d\\ell$ とし、$d\\mathbf E$ を分布全体で積分します。\n\nそのうえで「電荷分布による電場」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions - Challenge",
+      "ja": "電荷分布による電場 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Fields of Charge Distributions, and do not quote a memorized answer without deriving it.\n\nWrite an integral expression for the electric field from a continuous line charge.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Fields of Charge Distributions, and do not quote a memorized answer without deriving it.\n\nWrite an integral expression for the electric field from a continuous line charge."
+    },
+    "solution": {
+      "en": "$d\\mathbf E=k\\,dq\\,\\hat{r}/r^2$ and $\\mathbf E=\\int d\\mathbf E$, with $dq=\\lambda\\,d\\ell$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$dq=\\lambda d\\ell$ とし、$d\\mathbf E$ を分布全体で積分します。\n\n難易度5では、最終結果だけでなく「電荷分布による電場」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux - Foundation",
+      "ja": "電束 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.",
+      "ja": "A uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=EA\\cos\\theta$.",
+      "ja": "$\\Phi_E=EA\\cos\\theta$ です。"
+    },
+    "tags": [
+      "electric-flux",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux - Direct Practice",
+      "ja": "電束 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.",
+      "ja": "Solve this direct, single-topic problem.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=EA\\cos\\theta$.",
+      "ja": "$\\Phi_E=EA\\cos\\theta$ です。"
+    },
+    "tags": [
+      "electric-flux",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux - Reasoning",
+      "ja": "電束 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Flux is used.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.",
+      "ja": "Solve the following problem and justify the one step where Electric Flux is used.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=EA\\cos\\theta$.\n\nThe required justification is the defining relationship or condition from Electric Flux.",
+      "ja": "$\\Phi_E=EA\\cos\\theta$ です。\n\n根拠として「電束」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-flux",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux - Validity Check",
+      "ja": "電束 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\Phi_E=EA\\cos\\theta$.\n\nThen verify that the assumptions and conditions required by Electric Flux are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\Phi_E=EA\\cos\\theta$ です。\n\nそのうえで「電束」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-flux",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux - Challenge",
+      "ja": "電束 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Flux, and do not quote a memorized answer without deriving it.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Flux, and do not quote a memorized answer without deriving it.\n\nA uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=EA\\cos\\theta$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\Phi_E=EA\\cos\\theta$ です。\n\n難易度5では、最終結果だけでなく「電束」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-flux",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-8-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-6-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Gauss's Law - Foundation",
+      "ja": "ガウスの法則 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A closed surface encloses charge $3Q$. Find its net electric flux.",
+      "ja": "A closed surface encloses charge $3Q$. Find its net electric flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=3Q/\\varepsilon_0$.",
+      "ja": "正味の電束は $3Q/\\varepsilon_0$ です。"
+    },
+    "tags": [
+      "gauss-law",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "physics-c-em-gauss-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-6-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Gauss's Law - Direct Practice",
+      "ja": "ガウスの法則 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA closed surface encloses charge $3Q$. Find its net electric flux.",
+      "ja": "Solve this direct, single-topic problem.\n\nA closed surface encloses charge $3Q$. Find its net electric flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=3Q/\\varepsilon_0$.",
+      "ja": "正味の電束は $3Q/\\varepsilon_0$ です。"
+    },
+    "tags": [
+      "gauss-law",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "physics-c-em-gauss-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-6-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Gauss's Law - Validity Check",
+      "ja": "ガウスの法則 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA closed surface encloses charge $3Q$. Find its net electric flux.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA closed surface encloses charge $3Q$. Find its net electric flux."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\Phi_E=3Q/\\varepsilon_0$.\n\nThen verify that the assumptions and conditions required by Gauss's Law are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。正味の電束は $3Q/\\varepsilon_0$ です。\n\nそのうえで「ガウスの法則」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "gauss-law",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "physics-c-em-gauss-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-6-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Gauss's Law - Challenge",
+      "ja": "ガウスの法則 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Gauss's Law, and do not quote a memorized answer without deriving it.\n\nA closed surface encloses charge $3Q$. Find its net electric flux.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Gauss's Law, and do not quote a memorized answer without deriving it.\n\nA closed surface encloses charge $3Q$. Find its net electric flux."
+    },
+    "solution": {
+      "en": "$\\Phi_E=3Q/\\varepsilon_0$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "正味の電束は $3Q/\\varepsilon_0$ です。\n\n難易度5では、最終結果だけでなく「ガウスの法則」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "gauss-law",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "physics-c-em-gauss-001"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy - Foundation",
+      "ja": "電気的位置エネルギー - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.",
+      "ja": "Write the potential energy of two point charges $q_1$ and $q_2$ separated by $r$."
+    },
+    "solution": {
+      "en": "$U=kq_1q_2/r$.",
+      "ja": "$U=kq_1q_2/r$ です。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy - Direct Practice",
+      "ja": "電気的位置エネルギー - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.",
+      "ja": "Solve this direct, single-topic problem.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$."
+    },
+    "solution": {
+      "en": "$U=kq_1q_2/r$.",
+      "ja": "$U=kq_1q_2/r$ です。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy - Reasoning",
+      "ja": "電気的位置エネルギー - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Potential Energy is used.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.",
+      "ja": "Solve the following problem and justify the one step where Electric Potential Energy is used.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$."
+    },
+    "solution": {
+      "en": "$U=kq_1q_2/r$.\n\nThe required justification is the defining relationship or condition from Electric Potential Energy.",
+      "ja": "$U=kq_1q_2/r$ です。\n\n根拠として「電気的位置エネルギー」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy - Validity Check",
+      "ja": "電気的位置エネルギー - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $U=kq_1q_2/r$.\n\nThen verify that the assumptions and conditions required by Electric Potential Energy are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$U=kq_1q_2/r$ です。\n\nそのうえで「電気的位置エネルギー」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy - Challenge",
+      "ja": "電気的位置エネルギー - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Potential Energy, and do not quote a memorized answer without deriving it.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Potential Energy, and do not quote a memorized answer without deriving it.\n\nWrite the potential energy of two point charges $q_1$ and $q_2$ separated by $r$."
+    },
+    "solution": {
+      "en": "$U=kq_1q_2/r$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$U=kq_1q_2/r$ です。\n\n難易度5では、最終結果だけでなく「電気的位置エネルギー」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential - Foundation",
+      "ja": "電位 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Find the electric potential a distance $r$ from a point charge $Q$.",
+      "ja": "Find the electric potential a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$V=kQ/r$.",
+      "ja": "$V=kQ/r$ です。"
+    },
+    "tags": [
+      "electric-potential",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential - Direct Practice",
+      "ja": "電位 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nFind the electric potential a distance $r$ from a point charge $Q$.",
+      "ja": "Solve this direct, single-topic problem.\n\nFind the electric potential a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$V=kQ/r$.",
+      "ja": "$V=kQ/r$ です。"
+    },
+    "tags": [
+      "electric-potential",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential - Reasoning",
+      "ja": "電位 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Potential is used.\n\nFind the electric potential a distance $r$ from a point charge $Q$.",
+      "ja": "Solve the following problem and justify the one step where Electric Potential is used.\n\nFind the electric potential a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$V=kQ/r$.\n\nThe required justification is the defining relationship or condition from Electric Potential.",
+      "ja": "$V=kQ/r$ です。\n\n根拠として「電位」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-potential",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential - Validity Check",
+      "ja": "電位 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nFind the electric potential a distance $r$ from a point charge $Q$.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nFind the electric potential a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $V=kQ/r$.\n\nThen verify that the assumptions and conditions required by Electric Potential are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$V=kQ/r$ です。\n\nそのうえで「電位」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-potential",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential - Challenge",
+      "ja": "電位 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Potential, and do not quote a memorized answer without deriving it.\n\nFind the electric potential a distance $r$ from a point charge $Q$.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Potential, and do not quote a memorized answer without deriving it.\n\nFind the electric potential a distance $r$ from a point charge $Q$."
+    },
+    "solution": {
+      "en": "$V=kQ/r$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$V=kQ/r$ です。\n\n難易度5では、最終結果だけでなく「電位」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-potential",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy - Foundation",
+      "ja": "電気エネルギー保存 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "A positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?",
+      "ja": "A positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?"
+    },
+    "solution": {
+      "en": "Its electric potential energy decreases and kinetic energy increases.",
+      "ja": "電気的位置エネルギーが減少し、運動エネルギーが増加します。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy - Direct Practice",
+      "ja": "電気エネルギー保存 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?",
+      "ja": "Solve this direct, single-topic problem.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?"
+    },
+    "solution": {
+      "en": "Its electric potential energy decreases and kinetic energy increases.",
+      "ja": "電気的位置エネルギーが減少し、運動エネルギーが増加します。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy - Reasoning",
+      "ja": "電気エネルギー保存 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Conservation of Electric Energy is used.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?",
+      "ja": "Solve the following problem and justify the one step where Conservation of Electric Energy is used.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?"
+    },
+    "solution": {
+      "en": "Its electric potential energy decreases and kinetic energy increases.\n\nThe required justification is the defining relationship or condition from Conservation of Electric Energy.",
+      "ja": "電気的位置エネルギーが減少し、運動エネルギーが増加します。\n\n根拠として「電気エネルギー保存」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy - Validity Check",
+      "ja": "電気エネルギー保存 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: Its electric potential energy decreases and kinetic energy increases.\n\nThen verify that the assumptions and conditions required by Conservation of Electric Energy are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。電気的位置エネルギーが減少し、運動エネルギーが増加します。\n\nそのうえで「電気エネルギー保存」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy - Challenge",
+      "ja": "電気エネルギー保存 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Conservation of Electric Energy, and do not quote a memorized answer without deriving it.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Conservation of Electric Energy, and do not quote a memorized answer without deriving it.\n\nA positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?"
+    },
+    "solution": {
+      "en": "Its electric potential energy decreases and kinetic energy increases.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "電気的位置エネルギーが減少し、運動エネルギーが増加します。\n\n難易度5では、最終結果だけでなく「電気エネルギー保存」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-9-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors - Foundation",
+      "ja": "導体の静電気学 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "What is the electric field inside a conductor in electrostatic equilibrium?",
+      "ja": "What is the electric field inside a conductor in electrostatic equilibrium?"
+    },
+    "solution": {
+      "en": "It is zero.",
+      "ja": "0です。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors - Direct Practice",
+      "ja": "導体の静電気学 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?",
+      "ja": "Solve this direct, single-topic problem.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?"
+    },
+    "solution": {
+      "en": "It is zero.",
+      "ja": "0です。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors - Reasoning",
+      "ja": "導体の静電気学 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electrostatics with Conductors is used.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?",
+      "ja": "Solve the following problem and justify the one step where Electrostatics with Conductors is used.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?"
+    },
+    "solution": {
+      "en": "It is zero.\n\nThe required justification is the defining relationship or condition from Electrostatics with Conductors.",
+      "ja": "0です。\n\n根拠として「導体の静電気学」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors - Validity Check",
+      "ja": "導体の静電気学 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: It is zero.\n\nThen verify that the assumptions and conditions required by Electrostatics with Conductors are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。0です。\n\nそのうえで「導体の静電気学」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors - Challenge",
+      "ja": "導体の静電気学 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electrostatics with Conductors, and do not quote a memorized answer without deriving it.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electrostatics with Conductors, and do not quote a memorized answer without deriving it.\n\nWhat is the electric field inside a conductor in electrostatic equilibrium?"
+    },
+    "solution": {
+      "en": "It is zero.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "0です。\n\n難易度5では、最終結果だけでなく「導体の静電気学」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors - Foundation",
+      "ja": "導体間の電荷再分布 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge."
+    },
+    "solution": {
+      "en": "Use Redistribution of Charge between Conductors. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「導体間の電荷再分布」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors - Direct Practice",
+      "ja": "導体間の電荷再分布 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Identical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.",
+      "ja": "Identical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge."
+    },
+    "solution": {
+      "en": "Total charge is $4Q$, shared equally, so each sphere has $+2Q$.",
+      "ja": "全電荷 $4Q$ を等分するので、それぞれ $+2Q$ です。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors - Reasoning",
+      "ja": "導体間の電荷再分布 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Redistribution of Charge between Conductors is used.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.",
+      "ja": "Solve the following problem and justify the one step where Redistribution of Charge between Conductors is used.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge."
+    },
+    "solution": {
+      "en": "Total charge is $4Q$, shared equally, so each sphere has $+2Q$.\n\nThe required justification is the defining relationship or condition from Redistribution of Charge between Conductors.",
+      "ja": "全電荷 $4Q$ を等分するので、それぞれ $+2Q$ です。\n\n根拠として「導体間の電荷再分布」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors - Validity Check",
+      "ja": "導体間の電荷再分布 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge."
+    },
+    "solution": {
+      "en": "First obtain the focused result: Total charge is $4Q$, shared equally, so each sphere has $+2Q$.\n\nThen verify that the assumptions and conditions required by Redistribution of Charge between Conductors are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。全電荷 $4Q$ を等分するので、それぞれ $+2Q$ です。\n\nそのうえで「導体間の電荷再分布」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors - Challenge",
+      "ja": "導体間の電荷再分布 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Redistribution of Charge between Conductors, and do not quote a memorized answer without deriving it.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Redistribution of Charge between Conductors, and do not quote a memorized answer without deriving it.\n\nIdentical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge."
+    },
+    "solution": {
+      "en": "Total charge is $4Q$, shared equally, so each sphere has $+2Q$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "全電荷 $4Q$ を等分するので、それぞれ $+2Q$ です。\n\n難易度5では、最終結果だけでなく「導体間の電荷再分布」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors - Foundation",
+      "ja": "コンデンサー - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.",
+      "ja": "A capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance."
+    },
+    "solution": {
+      "en": "$C=Q/V=4\\,\\mu$F.",
+      "ja": "静電容量は $4\\,\\mu$Fです。"
+    },
+    "tags": [
+      "capacitors",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors - Direct Practice",
+      "ja": "コンデンサー - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.",
+      "ja": "Solve this direct, single-topic problem.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance."
+    },
+    "solution": {
+      "en": "$C=Q/V=4\\,\\mu$F.",
+      "ja": "静電容量は $4\\,\\mu$Fです。"
+    },
+    "tags": [
+      "capacitors",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-d3",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors - Reasoning",
+      "ja": "コンデンサー - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Capacitors is used.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.",
+      "ja": "Solve the following problem and justify the one step where Capacitors is used.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance."
+    },
+    "solution": {
+      "en": "$C=Q/V=4\\,\\mu$F.\n\nThe required justification is the defining relationship or condition from Capacitors.",
+      "ja": "静電容量は $4\\,\\mu$Fです。\n\n根拠として「コンデンサー」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "capacitors",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors - Validity Check",
+      "ja": "コンデンサー - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $C=Q/V=4\\,\\mu$F.\n\nThen verify that the assumptions and conditions required by Capacitors are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。静電容量は $4\\,\\mu$Fです。\n\nそのうえで「コンデンサー」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "capacitors",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors - Challenge",
+      "ja": "コンデンサー - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Capacitors, and do not quote a memorized answer without deriving it.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Capacitors, and do not quote a memorized answer without deriving it.\n\nA capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance."
+    },
+    "solution": {
+      "en": "$C=Q/V=4\\,\\mu$F.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "静電容量は $4\\,\\mu$Fです。\n\n難易度5では、最終結果だけでなく「コンデンサー」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "capacitors",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-d1",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics - Foundation",
+      "ja": "誘電体 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "An isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?",
+      "ja": "An isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?"
+    },
+    "solution": {
+      "en": "The capacitance increases by a factor of $\\kappa$.",
+      "ja": "静電容量は $\\kappa$ 倍になります。"
+    },
+    "tags": [
+      "dielectrics",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-d2",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics - Direct Practice",
+      "ja": "誘電体 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?",
+      "ja": "Solve this direct, single-topic problem.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?"
+    },
+    "solution": {
+      "en": "The capacitance increases by a factor of $\\kappa$.",
+      "ja": "静電容量は $\\kappa$ 倍になります。"
+    },
+    "tags": [
+      "dielectrics",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-d3",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics - Reasoning",
+      "ja": "誘電体 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Dielectrics is used.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?",
+      "ja": "Solve the following problem and justify the one step where Dielectrics is used.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?"
+    },
+    "solution": {
+      "en": "The capacitance increases by a factor of $\\kappa$.\n\nThe required justification is the defining relationship or condition from Dielectrics.",
+      "ja": "静電容量は $\\kappa$ 倍になります。\n\n根拠として「誘電体」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "dielectrics",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-d4",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics - Validity Check",
+      "ja": "誘電体 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: The capacitance increases by a factor of $\\kappa$.\n\nThen verify that the assumptions and conditions required by Dielectrics are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。静電容量は $\\kappa$ 倍になります。\n\nそのうえで「誘電体」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "dielectrics",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-d5",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics - Challenge",
+      "ja": "誘電体 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Dielectrics, and do not quote a memorized answer without deriving it.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Dielectrics, and do not quote a memorized answer without deriving it.\n\nAn isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?"
+    },
+    "solution": {
+      "en": "The capacitance increases by a factor of $\\kappa$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "静電容量は $\\kappa$ 倍になります。\n\n難易度5では、最終結果だけでなく「誘電体」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "dielectrics",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-10-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current - Foundation",
+      "ja": "電流 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A charge of 15 C passes a point in 3 s. Find current.",
+      "ja": "A charge of 15 C passes a point in 3 s. Find current."
+    },
+    "solution": {
+      "en": "$I=Q/t=5$ A.",
+      "ja": "電流は5 Aです。"
+    },
+    "tags": [
+      "electric-current",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current - Direct Practice",
+      "ja": "電流 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA charge of 15 C passes a point in 3 s. Find current.",
+      "ja": "Solve this direct, single-topic problem.\n\nA charge of 15 C passes a point in 3 s. Find current."
+    },
+    "solution": {
+      "en": "$I=Q/t=5$ A.",
+      "ja": "電流は5 Aです。"
+    },
+    "tags": [
+      "electric-current",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current - Reasoning",
+      "ja": "電流 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Current is used.\n\nA charge of 15 C passes a point in 3 s. Find current.",
+      "ja": "Solve the following problem and justify the one step where Electric Current is used.\n\nA charge of 15 C passes a point in 3 s. Find current."
+    },
+    "solution": {
+      "en": "$I=Q/t=5$ A.\n\nThe required justification is the defining relationship or condition from Electric Current.",
+      "ja": "電流は5 Aです。\n\n根拠として「電流」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-current",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current - Validity Check",
+      "ja": "電流 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA charge of 15 C passes a point in 3 s. Find current.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA charge of 15 C passes a point in 3 s. Find current."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $I=Q/t=5$ A.\n\nThen verify that the assumptions and conditions required by Electric Current are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。電流は5 Aです。\n\nそのうえで「電流」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-current",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current - Challenge",
+      "ja": "電流 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Current, and do not quote a memorized answer without deriving it.\n\nA charge of 15 C passes a point in 3 s. Find current.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Current, and do not quote a memorized answer without deriving it.\n\nA charge of 15 C passes a point in 3 s. Find current."
+    },
+    "solution": {
+      "en": "$I=Q/t=5$ A.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "電流は5 Aです。\n\n難易度5では、最終結果だけでなく「電流」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-current",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits - Foundation",
+      "ja": "単純回路 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.",
+      "ja": "A 6 V battery is connected across a 3 $\\Omega$ resistor. Find current."
+    },
+    "solution": {
+      "en": "$I=V/R=2$ A.",
+      "ja": "電流は2 Aです。"
+    },
+    "tags": [
+      "simple-circuits",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits - Direct Practice",
+      "ja": "単純回路 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.",
+      "ja": "Solve this direct, single-topic problem.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current."
+    },
+    "solution": {
+      "en": "$I=V/R=2$ A.",
+      "ja": "電流は2 Aです。"
+    },
+    "tags": [
+      "simple-circuits",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits - Reasoning",
+      "ja": "単純回路 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Simple Circuits is used.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.",
+      "ja": "Solve the following problem and justify the one step where Simple Circuits is used.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current."
+    },
+    "solution": {
+      "en": "$I=V/R=2$ A.\n\nThe required justification is the defining relationship or condition from Simple Circuits.",
+      "ja": "電流は2 Aです。\n\n根拠として「単純回路」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "simple-circuits",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits - Validity Check",
+      "ja": "単純回路 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $I=V/R=2$ A.\n\nThen verify that the assumptions and conditions required by Simple Circuits are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。電流は2 Aです。\n\nそのうえで「単純回路」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "simple-circuits",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits - Challenge",
+      "ja": "単純回路 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Simple Circuits, and do not quote a memorized answer without deriving it.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Simple Circuits, and do not quote a memorized answer without deriving it.\n\nA 6 V battery is connected across a 3 $\\Omega$ resistor. Find current."
+    },
+    "solution": {
+      "en": "$I=V/R=2$ A.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "電流は2 Aです。\n\n難易度5では、最終結果だけでなく「単純回路」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "simple-circuits",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law - Foundation",
+      "ja": "抵抗・抵抗率・オームの法則 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.",
+      "ja": "A wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance."
+    },
+    "solution": {
+      "en": "$R=\\rho L/A$.",
+      "ja": "$R=\\rho L/A$ です。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law - Direct Practice",
+      "ja": "抵抗・抵抗率・オームの法則 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.",
+      "ja": "Solve this direct, single-topic problem.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance."
+    },
+    "solution": {
+      "en": "$R=\\rho L/A$.",
+      "ja": "$R=\\rho L/A$ です。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law - Reasoning",
+      "ja": "抵抗・抵抗率・オームの法則 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Resistance, Resistivity, and Ohm's Law is used.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.",
+      "ja": "Solve the following problem and justify the one step where Resistance, Resistivity, and Ohm's Law is used.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance."
+    },
+    "solution": {
+      "en": "$R=\\rho L/A$.\n\nThe required justification is the defining relationship or condition from Resistance, Resistivity, and Ohm's Law.",
+      "ja": "$R=\\rho L/A$ です。\n\n根拠として「抵抗・抵抗率・オームの法則」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law - Validity Check",
+      "ja": "抵抗・抵抗率・オームの法則 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $R=\\rho L/A$.\n\nThen verify that the assumptions and conditions required by Resistance, Resistivity, and Ohm's Law are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$R=\\rho L/A$ です。\n\nそのうえで「抵抗・抵抗率・オームの法則」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law - Challenge",
+      "ja": "抵抗・抵抗率・オームの法則 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Resistance, Resistivity, and Ohm's Law, and do not quote a memorized answer without deriving it.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Resistance, Resistivity, and Ohm's Law, and do not quote a memorized answer without deriving it.\n\nA wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance."
+    },
+    "solution": {
+      "en": "$R=\\rho L/A$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$R=\\rho L/A$ です。\n\n難易度5では、最終結果だけでなく「抵抗・抵抗率・オームの法則」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power - Foundation",
+      "ja": "電力 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A device uses 12 V and 2 A. Find its power.",
+      "ja": "A device uses 12 V and 2 A. Find its power."
+    },
+    "solution": {
+      "en": "$P=IV=24$ W.",
+      "ja": "電力は24 Wです。"
+    },
+    "tags": [
+      "electric-power",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power - Direct Practice",
+      "ja": "電力 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA device uses 12 V and 2 A. Find its power.",
+      "ja": "Solve this direct, single-topic problem.\n\nA device uses 12 V and 2 A. Find its power."
+    },
+    "solution": {
+      "en": "$P=IV=24$ W.",
+      "ja": "電力は24 Wです。"
+    },
+    "tags": [
+      "electric-power",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power - Reasoning",
+      "ja": "電力 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electric Power is used.\n\nA device uses 12 V and 2 A. Find its power.",
+      "ja": "Solve the following problem and justify the one step where Electric Power is used.\n\nA device uses 12 V and 2 A. Find its power."
+    },
+    "solution": {
+      "en": "$P=IV=24$ W.\n\nThe required justification is the defining relationship or condition from Electric Power.",
+      "ja": "電力は24 Wです。\n\n根拠として「電力」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electric-power",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power - Validity Check",
+      "ja": "電力 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA device uses 12 V and 2 A. Find its power.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA device uses 12 V and 2 A. Find its power."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $P=IV=24$ W.\n\nThen verify that the assumptions and conditions required by Electric Power are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。電力は24 Wです。\n\nそのうえで「電力」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electric-power",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power - Challenge",
+      "ja": "電力 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electric Power, and do not quote a memorized answer without deriving it.\n\nA device uses 12 V and 2 A. Find its power.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electric Power, and do not quote a memorized answer without deriving it.\n\nA device uses 12 V and 2 A. Find its power."
+    },
+    "solution": {
+      "en": "$P=IV=24$ W.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "電力は24 Wです。\n\n難易度5では、最終結果だけでなく「電力」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electric-power",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits - Foundation",
+      "ja": "複合直流回路 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Two resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.",
+      "ja": "Two resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance."
+    },
+    "solution": {
+      "en": "$R_{eq}=10\\,\\Omega$.",
+      "ja": "合成抵抗は10 $\\Omega$です。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits - Direct Practice",
+      "ja": "複合直流回路 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.",
+      "ja": "Solve this direct, single-topic problem.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance."
+    },
+    "solution": {
+      "en": "$R_{eq}=10\\,\\Omega$.",
+      "ja": "合成抵抗は10 $\\Omega$です。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits - Reasoning",
+      "ja": "複合直流回路 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Compound Direct Current Circuits is used.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.",
+      "ja": "Solve the following problem and justify the one step where Compound Direct Current Circuits is used.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance."
+    },
+    "solution": {
+      "en": "$R_{eq}=10\\,\\Omega$.\n\nThe required justification is the defining relationship or condition from Compound Direct Current Circuits.",
+      "ja": "合成抵抗は10 $\\Omega$です。\n\n根拠として「複合直流回路」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits - Validity Check",
+      "ja": "複合直流回路 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $R_{eq}=10\\,\\Omega$.\n\nThen verify that the assumptions and conditions required by Compound Direct Current Circuits are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。合成抵抗は10 $\\Omega$です。\n\nそのうえで「複合直流回路」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits - Challenge",
+      "ja": "複合直流回路 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Compound Direct Current Circuits, and do not quote a memorized answer without deriving it.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Compound Direct Current Circuits, and do not quote a memorized answer without deriving it.\n\nTwo resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance."
+    },
+    "solution": {
+      "en": "$R_{eq}=10\\,\\Omega$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "合成抵抗は10 $\\Omega$です。\n\n難易度5では、最終結果だけでなく「複合直流回路」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule - Foundation",
+      "ja": "キルヒホッフの第2法則（ループ則） - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current."
+    },
+    "solution": {
+      "en": "Use Kirchhoff's Loop Rule. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「キルヒホッフの第2法則（ループ則）」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule - Direct Practice",
+      "ja": "キルヒホッフの第2法則（ループ則） - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "A loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.",
+      "ja": "A loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current."
+    },
+    "solution": {
+      "en": "$12-I(2)-I(4)=0$, so $I=2$ A.",
+      "ja": "ループ則より $12-6I=0$、したがって $I=2$ Aです。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule - Reasoning",
+      "ja": "キルヒホッフの第2法則（ループ則） - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Kirchhoff's Loop Rule is used.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.",
+      "ja": "Solve the following problem and justify the one step where Kirchhoff's Loop Rule is used.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current."
+    },
+    "solution": {
+      "en": "$12-I(2)-I(4)=0$, so $I=2$ A.\n\nThe required justification is the defining relationship or condition from Kirchhoff's Loop Rule.",
+      "ja": "ループ則より $12-6I=0$、したがって $I=2$ Aです。\n\n根拠として「キルヒホッフの第2法則（ループ則）」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule - Validity Check",
+      "ja": "キルヒホッフの第2法則（ループ則） - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $12-I(2)-I(4)=0$, so $I=2$ A.\n\nThen verify that the assumptions and conditions required by Kirchhoff's Loop Rule are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。ループ則より $12-6I=0$、したがって $I=2$ Aです。\n\nそのうえで「キルヒホッフの第2法則（ループ則）」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule - Challenge",
+      "ja": "キルヒホッフの第2法則（ループ則） - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Kirchhoff's Loop Rule, and do not quote a memorized answer without deriving it.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Kirchhoff's Loop Rule, and do not quote a memorized answer without deriving it.\n\nA loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current."
+    },
+    "solution": {
+      "en": "$12-I(2)-I(4)=0$, so $I=2$ A.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "ループ則より $12-6I=0$、したがって $I=2$ Aです。\n\n難易度5では、最終結果だけでなく「キルヒホッフの第2法則（ループ則）」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule - Foundation",
+      "ja": "キルヒホッフの第1法則（接点則） - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "At a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.",
+      "ja": "At a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch."
+    },
+    "solution": {
+      "en": "$5=2+I$, so $I=3$ A.",
+      "ja": "接点則より、もう一方から出る電流は3 Aです。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-7-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule - Direct Practice",
+      "ja": "キルヒホッフの第1法則（接点則） - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.",
+      "ja": "Solve this direct, single-topic problem.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch."
+    },
+    "solution": {
+      "en": "$5=2+I$, so $I=3$ A.",
+      "ja": "接点則より、もう一方から出る電流は3 Aです。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-7-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule - Reasoning",
+      "ja": "キルヒホッフの第1法則（接点則） - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Kirchhoff's Junction Rule is used.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.",
+      "ja": "Solve the following problem and justify the one step where Kirchhoff's Junction Rule is used.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch."
+    },
+    "solution": {
+      "en": "$5=2+I$, so $I=3$ A.\n\nThe required justification is the defining relationship or condition from Kirchhoff's Junction Rule.",
+      "ja": "接点則より、もう一方から出る電流は3 Aです。\n\n根拠として「キルヒホッフの第1法則（接点則）」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-7-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule - Validity Check",
+      "ja": "キルヒホッフの第1法則（接点則） - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $5=2+I$, so $I=3$ A.\n\nThen verify that the assumptions and conditions required by Kirchhoff's Junction Rule are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。接点則より、もう一方から出る電流は3 Aです。\n\nそのうえで「キルヒホッフの第1法則（接点則）」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-7-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule - Challenge",
+      "ja": "キルヒホッフの第1法則（接点則） - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Kirchhoff's Junction Rule, and do not quote a memorized answer without deriving it.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Kirchhoff's Junction Rule, and do not quote a memorized answer without deriving it.\n\nAt a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch."
+    },
+    "solution": {
+      "en": "$5=2+I$, so $I=3$ A.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "接点則より、もう一方から出る電流は3 Aです。\n\n難易度5では、最終結果だけでなく「キルヒホッフの第1法則（接点則）」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-7-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits - Foundation",
+      "ja": "RC回路 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write the time constant of an RC circuit.",
+      "ja": "Write the time constant of an RC circuit."
+    },
+    "solution": {
+      "en": "$\\tau=RC$.",
+      "ja": "$\\tau=RC$ です。"
+    },
+    "tags": [
+      "rc-circuits",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-8-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits - Direct Practice",
+      "ja": "RC回路 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWrite the time constant of an RC circuit.",
+      "ja": "Solve this direct, single-topic problem.\n\nWrite the time constant of an RC circuit."
+    },
+    "solution": {
+      "en": "$\\tau=RC$.",
+      "ja": "$\\tau=RC$ です。"
+    },
+    "tags": [
+      "rc-circuits",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-8-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits - Reasoning",
+      "ja": "RC回路 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Resistor Capacitor (RC) Circuits is used.\n\nWrite the time constant of an RC circuit.",
+      "ja": "Solve the following problem and justify the one step where Resistor Capacitor (RC) Circuits is used.\n\nWrite the time constant of an RC circuit."
+    },
+    "solution": {
+      "en": "$\\tau=RC$.\n\nThe required justification is the defining relationship or condition from Resistor Capacitor (RC) Circuits.",
+      "ja": "$\\tau=RC$ です。\n\n根拠として「RC回路」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "rc-circuits",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-8-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits - Validity Check",
+      "ja": "RC回路 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the time constant of an RC circuit.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the time constant of an RC circuit."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\tau=RC$.\n\nThen verify that the assumptions and conditions required by Resistor Capacitor (RC) Circuits are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\tau=RC$ です。\n\nそのうえで「RC回路」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "rc-circuits",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-8-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits - Challenge",
+      "ja": "RC回路 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Resistor Capacitor (RC) Circuits, and do not quote a memorized answer without deriving it.\n\nWrite the time constant of an RC circuit.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Resistor Capacitor (RC) Circuits, and do not quote a memorized answer without deriving it.\n\nWrite the time constant of an RC circuit."
+    },
+    "solution": {
+      "en": "$\\tau=RC$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\tau=RC$ です。\n\n難易度5では、最終結果だけでなく「RC回路」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "rc-circuits",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-11-8-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields - Foundation",
+      "ja": "磁場 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Which direction does the magnetic field point around a straight wire carrying current upward?",
+      "ja": "Which direction does the magnetic field point around a straight wire carrying current upward?"
+    },
+    "solution": {
+      "en": "It circles the wire according to the right-hand rule.",
+      "ja": "右ねじの法則に従って導線の周囲を円状に向きます。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields - Direct Practice",
+      "ja": "磁場 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?",
+      "ja": "Solve this direct, single-topic problem.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?"
+    },
+    "solution": {
+      "en": "It circles the wire according to the right-hand rule.",
+      "ja": "右ねじの法則に従って導線の周囲を円状に向きます。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields - Reasoning",
+      "ja": "磁場 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Magnetic Fields is used.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?",
+      "ja": "Solve the following problem and justify the one step where Magnetic Fields is used.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?"
+    },
+    "solution": {
+      "en": "It circles the wire according to the right-hand rule.\n\nThe required justification is the defining relationship or condition from Magnetic Fields.",
+      "ja": "右ねじの法則に従って導線の周囲を円状に向きます。\n\n根拠として「磁場」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields - Validity Check",
+      "ja": "磁場 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: It circles the wire according to the right-hand rule.\n\nThen verify that the assumptions and conditions required by Magnetic Fields are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。右ねじの法則に従って導線の周囲を円状に向きます。\n\nそのうえで「磁場」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields - Challenge",
+      "ja": "磁場 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Magnetic Fields, and do not quote a memorized answer without deriving it.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Magnetic Fields, and do not quote a memorized answer without deriving it.\n\nWhich direction does the magnetic field point around a straight wire carrying current upward?"
+    },
+    "solution": {
+      "en": "It circles the wire according to the right-hand rule.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "右ねじの法則に従って導線の周囲を円状に向きます。\n\n難易度5では、最終結果だけでなく「磁場」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges - Foundation",
+      "ja": "磁気と運動する電荷 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.",
+      "ja": "A charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude."
+    },
+    "solution": {
+      "en": "$F=|q|vB$.",
+      "ja": "$F=|q|vB$ です。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges - Direct Practice",
+      "ja": "磁気と運動する電荷 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.",
+      "ja": "Solve this direct, single-topic problem.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude."
+    },
+    "solution": {
+      "en": "$F=|q|vB$.",
+      "ja": "$F=|q|vB$ です。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges - Reasoning",
+      "ja": "磁気と運動する電荷 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Magnetism and Moving Charges is used.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.",
+      "ja": "Solve the following problem and justify the one step where Magnetism and Moving Charges is used.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude."
+    },
+    "solution": {
+      "en": "$F=|q|vB$.\n\nThe required justification is the defining relationship or condition from Magnetism and Moving Charges.",
+      "ja": "$F=|q|vB$ です。\n\n根拠として「磁気と運動する電荷」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges - Validity Check",
+      "ja": "磁気と運動する電荷 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $F=|q|vB$.\n\nThen verify that the assumptions and conditions required by Magnetism and Moving Charges are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$F=|q|vB$ です。\n\nそのうえで「磁気と運動する電荷」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges - Challenge",
+      "ja": "磁気と運動する電荷 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Magnetism and Moving Charges, and do not quote a memorized answer without deriving it.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Magnetism and Moving Charges, and do not quote a memorized answer without deriving it.\n\nA charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude."
+    },
+    "solution": {
+      "en": "$F=|q|vB$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$F=|q|vB$ です。\n\n難易度5では、最終結果だけでなく「磁気と運動する電荷」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law - Foundation",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nState the distance dependence of the magnetic field from a long straight wire.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nState the distance dependence of the magnetic field from a long straight wire."
+    },
+    "solution": {
+      "en": "Use Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「電流が流れる導線の磁場とビオ・サバールの法則」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law - Direct Practice",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "State the distance dependence of the magnetic field from a long straight wire.",
+      "ja": "State the distance dependence of the magnetic field from a long straight wire."
+    },
+    "solution": {
+      "en": "$B=\\mu_0I/(2\\pi r)$, so it decreases as $1/r$.",
+      "ja": "$B=\\mu_0I/(2\\pi r)$ で、距離に反比例します。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-d3",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law - Reasoning",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law is used.\n\nState the distance dependence of the magnetic field from a long straight wire.",
+      "ja": "Solve the following problem and justify the one step where Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law is used.\n\nState the distance dependence of the magnetic field from a long straight wire."
+    },
+    "solution": {
+      "en": "$B=\\mu_0I/(2\\pi r)$, so it decreases as $1/r$.\n\nThe required justification is the defining relationship or condition from Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law.",
+      "ja": "$B=\\mu_0I/(2\\pi r)$ で、距離に反比例します。\n\n根拠として「電流が流れる導線の磁場とビオ・サバールの法則」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law - Validity Check",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nState the distance dependence of the magnetic field from a long straight wire.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nState the distance dependence of the magnetic field from a long straight wire."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $B=\\mu_0I/(2\\pi r)$, so it decreases as $1/r$.\n\nThen verify that the assumptions and conditions required by Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$B=\\mu_0I/(2\\pi r)$ で、距離に反比例します。\n\nそのうえで「電流が流れる導線の磁場とビオ・サバールの法則」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law - Challenge",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law, and do not quote a memorized answer without deriving it.\n\nState the distance dependence of the magnetic field from a long straight wire.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law, and do not quote a memorized answer without deriving it.\n\nState the distance dependence of the magnetic field from a long straight wire."
+    },
+    "solution": {
+      "en": "$B=\\mu_0I/(2\\pi r)$, so it decreases as $1/r$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$B=\\mu_0I/(2\\pi r)$ で、距離に反比例します。\n\n難易度5では、最終結果だけでなく「電流が流れる導線の磁場とビオ・サバールの法則」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-d1",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law - Foundation",
+      "ja": "アンペールの法則 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite Ampère's law for a closed path.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite Ampère's law for a closed path."
+    },
+    "solution": {
+      "en": "Use Ampère's Law. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「アンペールの法則」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "amperes-law",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-d2",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law - Direct Practice",
+      "ja": "アンペールの法則 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Write Ampère's law for a closed path.",
+      "ja": "Write Ampère's law for a closed path."
+    },
+    "solution": {
+      "en": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$.",
+      "ja": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$ です。"
+    },
+    "tags": [
+      "amperes-law",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-d3",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law - Reasoning",
+      "ja": "アンペールの法則 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Ampère's Law is used.\n\nWrite Ampère's law for a closed path.",
+      "ja": "Solve the following problem and justify the one step where Ampère's Law is used.\n\nWrite Ampère's law for a closed path."
+    },
+    "solution": {
+      "en": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$.\n\nThe required justification is the defining relationship or condition from Ampère's Law.",
+      "ja": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$ です。\n\n根拠として「アンペールの法則」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "amperes-law",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-d4",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law - Validity Check",
+      "ja": "アンペールの法則 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite Ampère's law for a closed path.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite Ampère's law for a closed path."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$.\n\nThen verify that the assumptions and conditions required by Ampère's Law are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$ です。\n\nそのうえで「アンペールの法則」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "amperes-law",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-d5",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law - Challenge",
+      "ja": "アンペールの法則 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Ampère's Law, and do not quote a memorized answer without deriving it.\n\nWrite Ampère's law for a closed path.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Ampère's Law, and do not quote a memorized answer without deriving it.\n\nWrite Ampère's law for a closed path."
+    },
+    "solution": {
+      "en": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$ です。\n\n難易度5では、最終結果だけでなく「アンペールの法則」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "amperes-law",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-12-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux - Foundation",
+      "ja": "磁束 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "A uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.",
+      "ja": "A uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux."
+    },
+    "solution": {
+      "en": "$\\Phi_B=BA\\cos\\theta$.",
+      "ja": "$\\Phi_B=BA\\cos\\theta$ です。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux - Direct Practice",
+      "ja": "磁束 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.",
+      "ja": "Solve this direct, single-topic problem.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux."
+    },
+    "solution": {
+      "en": "$\\Phi_B=BA\\cos\\theta$.",
+      "ja": "$\\Phi_B=BA\\cos\\theta$ です。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux - Reasoning",
+      "ja": "磁束 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Magnetic Flux is used.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.",
+      "ja": "Solve the following problem and justify the one step where Magnetic Flux is used.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux."
+    },
+    "solution": {
+      "en": "$\\Phi_B=BA\\cos\\theta$.\n\nThe required justification is the defining relationship or condition from Magnetic Flux.",
+      "ja": "$\\Phi_B=BA\\cos\\theta$ です。\n\n根拠として「磁束」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux - Validity Check",
+      "ja": "磁束 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\Phi_B=BA\\cos\\theta$.\n\nThen verify that the assumptions and conditions required by Magnetic Flux are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\Phi_B=BA\\cos\\theta$ です。\n\nそのうえで「磁束」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux - Challenge",
+      "ja": "磁束 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Magnetic Flux, and do not quote a memorized answer without deriving it.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Magnetic Flux, and do not quote a memorized answer without deriving it.\n\nA uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux."
+    },
+    "solution": {
+      "en": "$\\Phi_B=BA\\cos\\theta$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\Phi_B=BA\\cos\\theta$ です。\n\n難易度5では、最終結果だけでなく「磁束」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-1-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction - Foundation",
+      "ja": "電磁誘導 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude."
+    },
+    "solution": {
+      "en": "Use Electromagnetic Induction. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「電磁誘導」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction - Direct Practice",
+      "ja": "電磁誘導 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Magnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.",
+      "ja": "Magnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude."
+    },
+    "solution": {
+      "en": "$|\\mathcal E|=|\\Delta\\Phi_B/\\Delta t|=3$ V.",
+      "ja": "誘導起電力の大きさは3 Vです。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction - Reasoning",
+      "ja": "電磁誘導 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Electromagnetic Induction is used.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.",
+      "ja": "Solve the following problem and justify the one step where Electromagnetic Induction is used.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude."
+    },
+    "solution": {
+      "en": "$|\\mathcal E|=|\\Delta\\Phi_B/\\Delta t|=3$ V.\n\nThe required justification is the defining relationship or condition from Electromagnetic Induction.",
+      "ja": "誘導起電力の大きさは3 Vです。\n\n根拠として「電磁誘導」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction - Validity Check",
+      "ja": "電磁誘導 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $|\\mathcal E|=|\\Delta\\Phi_B/\\Delta t|=3$ V.\n\nThen verify that the assumptions and conditions required by Electromagnetic Induction are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。誘導起電力の大きさは3 Vです。\n\nそのうえで「電磁誘導」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction - Challenge",
+      "ja": "電磁誘導 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Electromagnetic Induction, and do not quote a memorized answer without deriving it.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Electromagnetic Induction, and do not quote a memorized answer without deriving it.\n\nMagnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude."
+    },
+    "solution": {
+      "en": "$|\\mathcal E|=|\\Delta\\Phi_B/\\Delta t|=3$ V.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "誘導起電力の大きさは3 Vです。\n\n難易度5では、最終結果だけでなく「電磁誘導」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-2-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces - Foundation",
+      "ja": "誘導電流と磁気力 - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nA north pole approaches a conducting loop. What does the induced current do?",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nA north pole approaches a conducting loop. What does the induced current do?"
+    },
+    "solution": {
+      "en": "Use Induced Currents and Magnetic Forces. The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「誘導電流と磁気力」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces - Direct Practice",
+      "ja": "誘導電流と磁気力 - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "A north pole approaches a conducting loop. What does the induced current do?",
+      "ja": "A north pole approaches a conducting loop. What does the induced current do?"
+    },
+    "solution": {
+      "en": "It creates a magnetic field that opposes the increase in flux, in accordance with Lenz's law.",
+      "ja": "レンツの法則により、磁束の増加を妨げる磁場を作ります。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces - Reasoning",
+      "ja": "誘導電流と磁気力 - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Induced Currents and Magnetic Forces is used.\n\nA north pole approaches a conducting loop. What does the induced current do?",
+      "ja": "Solve the following problem and justify the one step where Induced Currents and Magnetic Forces is used.\n\nA north pole approaches a conducting loop. What does the induced current do?"
+    },
+    "solution": {
+      "en": "It creates a magnetic field that opposes the increase in flux, in accordance with Lenz's law.\n\nThe required justification is the defining relationship or condition from Induced Currents and Magnetic Forces.",
+      "ja": "レンツの法則により、磁束の増加を妨げる磁場を作ります。\n\n根拠として「誘導電流と磁気力」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces - Validity Check",
+      "ja": "誘導電流と磁気力 - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA north pole approaches a conducting loop. What does the induced current do?",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nA north pole approaches a conducting loop. What does the induced current do?"
+    },
+    "solution": {
+      "en": "First obtain the focused result: It creates a magnetic field that opposes the increase in flux, in accordance with Lenz's law.\n\nThen verify that the assumptions and conditions required by Induced Currents and Magnetic Forces are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。レンツの法則により、磁束の増加を妨げる磁場を作ります。\n\nそのうえで「誘導電流と磁気力」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces - Challenge",
+      "ja": "誘導電流と磁気力 - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Induced Currents and Magnetic Forces, and do not quote a memorized answer without deriving it.\n\nA north pole approaches a conducting loop. What does the induced current do?",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Induced Currents and Magnetic Forces, and do not quote a memorized answer without deriving it.\n\nA north pole approaches a conducting loop. What does the induced current do?"
+    },
+    "solution": {
+      "en": "It creates a magnetic field that opposes the increase in flux, in accordance with Lenz's law.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "レンツの法則により、磁束の増加を妨げる磁場を作ります。\n\n難易度5では、最終結果だけでなく「誘導電流と磁気力」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-3-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance - Foundation",
+      "ja": "インダクタンス - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write the energy stored in an inductor carrying current $I$.",
+      "ja": "Write the energy stored in an inductor carrying current $I$."
+    },
+    "solution": {
+      "en": "$U_L=LI^2/2$.",
+      "ja": "$U_L=LI^2/2$ です。"
+    },
+    "tags": [
+      "inductance",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance - Direct Practice",
+      "ja": "インダクタンス - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWrite the energy stored in an inductor carrying current $I$.",
+      "ja": "Solve this direct, single-topic problem.\n\nWrite the energy stored in an inductor carrying current $I$."
+    },
+    "solution": {
+      "en": "$U_L=LI^2/2$.",
+      "ja": "$U_L=LI^2/2$ です。"
+    },
+    "tags": [
+      "inductance",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance - Reasoning",
+      "ja": "インダクタンス - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Inductance is used.\n\nWrite the energy stored in an inductor carrying current $I$.",
+      "ja": "Solve the following problem and justify the one step where Inductance is used.\n\nWrite the energy stored in an inductor carrying current $I$."
+    },
+    "solution": {
+      "en": "$U_L=LI^2/2$.\n\nThe required justification is the defining relationship or condition from Inductance.",
+      "ja": "$U_L=LI^2/2$ です。\n\n根拠として「インダクタンス」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "inductance",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance - Validity Check",
+      "ja": "インダクタンス - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the energy stored in an inductor carrying current $I$.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the energy stored in an inductor carrying current $I$."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $U_L=LI^2/2$.\n\nThen verify that the assumptions and conditions required by Inductance are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$U_L=LI^2/2$ です。\n\nそのうえで「インダクタンス」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "inductance",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance - Challenge",
+      "ja": "インダクタンス - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Inductance, and do not quote a memorized answer without deriving it.\n\nWrite the energy stored in an inductor carrying current $I$.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Inductance, and do not quote a memorized answer without deriving it.\n\nWrite the energy stored in an inductor carrying current $I$."
+    },
+    "solution": {
+      "en": "$U_L=LI^2/2$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$U_L=LI^2/2$ です。\n\n難易度5では、最終結果だけでなく「インダクタンス」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "inductance",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-4-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits) - Foundation",
+      "ja": "抵抗とコイルを含む回路（LR回路） - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write the time constant of an LR circuit.",
+      "ja": "Write the time constant of an LR circuit."
+    },
+    "solution": {
+      "en": "$\\tau=L/R$.",
+      "ja": "$\\tau=L/R$ です。"
+    },
+    "tags": [
+      "lr-circuits",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits) - Direct Practice",
+      "ja": "抵抗とコイルを含む回路（LR回路） - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Solve this direct, single-topic problem.\n\nWrite the time constant of an LR circuit.",
+      "ja": "Solve this direct, single-topic problem.\n\nWrite the time constant of an LR circuit."
+    },
+    "solution": {
+      "en": "$\\tau=L/R$.",
+      "ja": "$\\tau=L/R$ です。"
+    },
+    "tags": [
+      "lr-circuits",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits) - Reasoning",
+      "ja": "抵抗とコイルを含む回路（LR回路） - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Circuits with Resistors and Inductors (LR Circuits) is used.\n\nWrite the time constant of an LR circuit.",
+      "ja": "Solve the following problem and justify the one step where Circuits with Resistors and Inductors (LR Circuits) is used.\n\nWrite the time constant of an LR circuit."
+    },
+    "solution": {
+      "en": "$\\tau=L/R$.\n\nThe required justification is the defining relationship or condition from Circuits with Resistors and Inductors (LR Circuits).",
+      "ja": "$\\tau=L/R$ です。\n\n根拠として「抵抗とコイルを含む回路（LR回路）」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "lr-circuits",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits) - Validity Check",
+      "ja": "抵抗とコイルを含む回路（LR回路） - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the time constant of an LR circuit.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the time constant of an LR circuit."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\tau=L/R$.\n\nThen verify that the assumptions and conditions required by Circuits with Resistors and Inductors (LR Circuits) are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\tau=L/R$ です。\n\nそのうえで「抵抗とコイルを含む回路（LR回路）」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "lr-circuits",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits) - Challenge",
+      "ja": "抵抗とコイルを含む回路（LR回路） - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Circuits with Resistors and Inductors (LR Circuits), and do not quote a memorized answer without deriving it.\n\nWrite the time constant of an LR circuit.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Circuits with Resistors and Inductors (LR Circuits), and do not quote a memorized answer without deriving it.\n\nWrite the time constant of an LR circuit."
+    },
+    "solution": {
+      "en": "$\\tau=L/R$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\tau=L/R$ です。\n\n難易度5では、最終結果だけでなく「抵抗とコイルを含む回路（LR回路）」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "lr-circuits",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-5-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-d1",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits) - Foundation",
+      "ja": "コンデンサーとコイルを含む回路（LC回路） - Foundation"
+    },
+    "difficulty": 1,
+    "questionType": "conceptual",
+    "question": {
+      "en": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite the angular frequency of an ideal LC circuit.",
+      "ja": "Name the single rule, definition, or physical law that should be used first for this prompt. Do not solve the full problem.\n\nWrite the angular frequency of an ideal LC circuit."
+    },
+    "solution": {
+      "en": "Use Circuits with Capacitors and Inductors (LC Circuits). The purpose of this foundation check is to recognize the governing idea before calculating.",
+      "ja": "最初に使うのは「コンデンサーとコイルを含む回路（LC回路）」の基本関係です。このレベルでは、計算前に使う考え方を正しく選べれば十分です。"
+    },
+    "tags": [
+      "lc-circuits",
+      "focused-practice",
+      "difficulty-1"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-d2",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits) - Direct Practice",
+      "ja": "コンデンサーとコイルを含む回路（LC回路） - Direct Practice"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Write the angular frequency of an ideal LC circuit.",
+      "ja": "Write the angular frequency of an ideal LC circuit."
+    },
+    "solution": {
+      "en": "$\\omega=1/\\sqrt{LC}$.",
+      "ja": "$\\omega=1/\\sqrt{LC}$ です。"
+    },
+    "tags": [
+      "lc-circuits",
+      "focused-practice",
+      "difficulty-2"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-d3",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits) - Reasoning",
+      "ja": "コンデンサーとコイルを含む回路（LC回路） - Reasoning"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem and justify the one step where Circuits with Capacitors and Inductors (LC Circuits) is used.\n\nWrite the angular frequency of an ideal LC circuit.",
+      "ja": "Solve the following problem and justify the one step where Circuits with Capacitors and Inductors (LC Circuits) is used.\n\nWrite the angular frequency of an ideal LC circuit."
+    },
+    "solution": {
+      "en": "$\\omega=1/\\sqrt{LC}$.\n\nThe required justification is the defining relationship or condition from Circuits with Capacitors and Inductors (LC Circuits).",
+      "ja": "$\\omega=1/\\sqrt{LC}$ です。\n\n根拠として「コンデンサーとコイルを含む回路（LC回路）」の定義となる関係または適用条件を明記します。"
+    },
+    "tags": [
+      "lc-circuits",
+      "focused-practice",
+      "difficulty-3"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-d4",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits) - Validity Check",
+      "ja": "コンデンサーとコイルを含む回路（LC回路） - Validity Check"
+    },
+    "difficulty": 4,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the angular frequency of an ideal LC circuit.",
+      "ja": "For the prompt below, state the most important domain, sign, direction, unit, or theorem-condition check that must be made before accepting a solution.\n\nWrite the angular frequency of an ideal LC circuit."
+    },
+    "solution": {
+      "en": "First obtain the focused result: $\\omega=1/\\sqrt{LC}$.\n\nThen verify that the assumptions and conditions required by Circuits with Capacitors and Inductors (LC Circuits) are satisfied. A numerical result without that check is incomplete.",
+      "ja": "まず基本結果を得ます。$\\omega=1/\\sqrt{LC}$ です。\n\nそのうえで「コンデンサーとコイルを含む回路（LC回路）」の適用条件、定義域、符号、向き、単位のうち該当するものを確認します。"
+    },
+    "tags": [
+      "lc-circuits",
+      "focused-practice",
+      "difficulty-4"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-6-reference"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-d5",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits) - Challenge",
+      "ja": "コンデンサーとコイルを含む回路（LC回路） - Challenge"
+    },
+    "difficulty": 5,
+    "questionType": "free-response",
+    "question": {
+      "en": "Solve the following problem from first principles. Keep the work focused on Circuits with Capacitors and Inductors (LC Circuits), and do not quote a memorized answer without deriving it.\n\nWrite the angular frequency of an ideal LC circuit.",
+      "ja": "Solve the following problem from first principles. Keep the work focused on Circuits with Capacitors and Inductors (LC Circuits), and do not quote a memorized answer without deriving it.\n\nWrite the angular frequency of an ideal LC circuit."
+    },
+    "solution": {
+      "en": "$\\omega=1/\\sqrt{LC}$.\n\nA complete challenge-level response derives this result from the governing definition or law, rather than only stating the final value.",
+      "ja": "$\\omega=1/\\sqrt{LC}$ です。\n\n難易度5では、最終結果だけでなく「コンデンサーとコイルを含む回路（LC回路）」の定義や法則から結果を導く過程まで示します。"
+    },
+    "tags": [
+      "lc-circuits",
+      "focused-practice",
+      "difficulty-5"
+    ],
+    "relatedReferences": [
+      "ap-physics-c-em-13-6-reference"
+    ]
+  }
+]

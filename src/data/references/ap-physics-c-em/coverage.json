@@ -1,0 +1,872 @@
+[
+  {
+    "id": "ap-physics-c-em-8-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-charge-force",
+    "title": {
+      "en": "Electric Charge and Electric Force",
+      "ja": "電荷と電気力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Charge and Electric Force.",
+      "ja": "電荷（Electric Charge）と電気力（Electric Force）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Charge and Electric Force is a focused skill in Electric Charges, Fields, and Gauss's Law. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Charge and Electric Force, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Two charges $+2\\,\\mu$C and $+3\\,\\mu$C are separated by distance $r$. Write the force magnitude.\nReasoning: $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$; the force is repulsive.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電荷（Electric Charge）と電気力（Electric Force）は、Electric Charges, Fields, and Gauss's Lawで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電荷（Electric Charge）と電気力（Electric Force）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：クーロン力は $F=k(2\\times10^{-6})(3\\times10^{-6})/r^2$ で、反発力です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-charge-force",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-8-1-d1",
+      "ap-physics-c-em-8-1-d2",
+      "ap-physics-c-em-8-1-d3",
+      "ap-physics-c-em-8-1-d4",
+      "ap-physics-c-em-8-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "charge-conservation-charging",
+    "title": {
+      "en": "Conservation of Electric Charge and the Process of Charging",
+      "ja": "電荷保存と帯電過程"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conservation of Electric Charge and the Process of Charging.",
+      "ja": "電荷保存（Conservation of Electric Charge）と帯電過程（the Process of Charging）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conservation of Electric Charge and the Process of Charging is a focused skill in Electric Charges, Fields, and Gauss's Law. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conservation of Electric Charge and the Process of Charging, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A neutral object loses $5\\times10^{12}$ electrons. What sign of charge does it acquire?\nReasoning: It becomes positively charged because it lost negative charge.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電荷保存（Conservation of Electric Charge）と帯電過程（the Process of Charging）は、Electric Charges, Fields, and Gauss's Lawで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電荷保存（Conservation of Electric Charge）と帯電過程（the Process of Charging）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：負電荷を失ったので正に帯電します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "charge-conservation-charging",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-8-2-d1",
+      "ap-physics-c-em-8-2-d2",
+      "ap-physics-c-em-8-2-d3",
+      "ap-physics-c-em-8-2-d4",
+      "ap-physics-c-em-8-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-4-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "fields-charge-distributions",
+    "title": {
+      "en": "Electric Fields of Charge Distributions",
+      "ja": "電荷分布による電場"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Fields of Charge Distributions.",
+      "ja": "電荷分布による電場（Electric Fields of Charge Distributions）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Fields of Charge Distributions is a focused skill in Electric Charges, Fields, and Gauss's Law. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Fields of Charge Distributions, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write an integral expression for the electric field from a continuous line charge.\nReasoning: $d\\mathbf E=k\\,dq\\,\\hat{r}/r^2$ and $\\mathbf E=\\int d\\mathbf E$, with $dq=\\lambda\\,d\\ell$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電荷分布による電場（Electric Fields of Charge Distributions）は、Electric Charges, Fields, and Gauss's Lawで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電荷分布による電場（Electric Fields of Charge Distributions）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$dq=\\lambda d\\ell$ とし、$d\\mathbf E$ を分布全体で積分します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "fields-charge-distributions",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-8-4-d1",
+      "ap-physics-c-em-8-4-d2",
+      "ap-physics-c-em-8-4-d3",
+      "ap-physics-c-em-8-4-d4",
+      "ap-physics-c-em-8-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-8-5-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-flux",
+    "title": {
+      "en": "Electric Flux",
+      "ja": "電束"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Flux.",
+      "ja": "電束（Electric Flux）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Flux is a focused skill in Electric Charges, Fields, and Gauss's Law. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Flux, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A uniform field $E$ passes through a flat area $A$ at angle $\\theta$ to the area vector. Find flux.\nReasoning: $\\Phi_E=EA\\cos\\theta$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電束（Electric Flux）は、Electric Charges, Fields, and Gauss's Lawで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電束（Electric Flux）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\Phi_E=EA\\cos\\theta$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-flux",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-8-5-d1",
+      "ap-physics-c-em-8-5-d2",
+      "ap-physics-c-em-8-5-d3",
+      "ap-physics-c-em-8-5-d4",
+      "ap-physics-c-em-8-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential-energy",
+    "title": {
+      "en": "Electric Potential Energy",
+      "ja": "電気的位置エネルギー"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Potential Energy.",
+      "ja": "電気的位置エネルギー（Electric Potential Energy）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Potential Energy is a focused skill in Electric Potential. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Potential Energy, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the potential energy of two point charges $q_1$ and $q_2$ separated by $r$.\nReasoning: $U=kq_1q_2/r$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電気的位置エネルギー（Electric Potential Energy）は、Electric Potentialで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電気的位置エネルギー（Electric Potential Energy）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$U=kq_1q_2/r$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-potential-energy",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-9-1-d1",
+      "ap-physics-c-em-9-1-d2",
+      "ap-physics-c-em-9-1-d3",
+      "ap-physics-c-em-9-1-d4",
+      "ap-physics-c-em-9-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "electric-potential",
+    "title": {
+      "en": "Electric Potential",
+      "ja": "電位"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Potential.",
+      "ja": "電位（Electric Potential）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Potential is a focused skill in Electric Potential. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Potential, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Find the electric potential a distance $r$ from a point charge $Q$.\nReasoning: $V=kQ/r$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電位（Electric Potential）は、Electric Potentialで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電位（Electric Potential）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$V=kQ/r$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-potential",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-9-2-d1",
+      "ap-physics-c-em-9-2-d2",
+      "ap-physics-c-em-9-2-d3",
+      "ap-physics-c-em-9-2-d4",
+      "ap-physics-c-em-9-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-9-3-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-potential",
+    "topic": "conservation-electric-energy",
+    "title": {
+      "en": "Conservation of Electric Energy",
+      "ja": "電気エネルギー保存"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Conservation of Electric Energy.",
+      "ja": "電気エネルギー保存（Conservation of Electric Energy）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Conservation of Electric Energy is a focused skill in Electric Potential. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Conservation of Electric Energy, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A positive charge is released from rest and moves to lower electric potential. What happens to its kinetic energy?\nReasoning: Its electric potential energy decreases and kinetic energy increases.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電気エネルギー保存（Conservation of Electric Energy）は、Electric Potentialで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電気エネルギー保存（Conservation of Electric Energy）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：電気的位置エネルギーが減少し、運動エネルギーが増加します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "conservation-electric-energy",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-9-3-d1",
+      "ap-physics-c-em-9-3-d2",
+      "ap-physics-c-em-9-3-d3",
+      "ap-physics-c-em-9-3-d4",
+      "ap-physics-c-em-9-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "electrostatics-conductors",
+    "title": {
+      "en": "Electrostatics with Conductors",
+      "ja": "導体の静電気学"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electrostatics with Conductors.",
+      "ja": "導体の静電気学（Electrostatics with Conductors）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electrostatics with Conductors is a focused skill in Conductors and Capacitors. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electrostatics with Conductors, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: What is the electric field inside a conductor in electrostatic equilibrium?\nReasoning: It is zero.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：導体の静電気学（Electrostatics with Conductors）は、Conductors and Capacitorsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、導体の静電気学（Electrostatics with Conductors）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：0です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electrostatics-conductors",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-10-1-d1",
+      "ap-physics-c-em-10-1-d2",
+      "ap-physics-c-em-10-1-d3",
+      "ap-physics-c-em-10-1-d4",
+      "ap-physics-c-em-10-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "charge-redistribution",
+    "title": {
+      "en": "Redistribution of Charge between Conductors",
+      "ja": "導体間の電荷再分布"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Redistribution of Charge between Conductors.",
+      "ja": "導体間の電荷再分布（Redistribution of Charge between Conductors）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Redistribution of Charge between Conductors is a focused skill in Conductors and Capacitors. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Redistribution of Charge between Conductors, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Identical conducting spheres carry $+6Q$ and $-2Q$. They touch and separate. Find each final charge.\nReasoning: Total charge is $4Q$, shared equally, so each sphere has $+2Q$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：導体間の電荷再分布（Redistribution of Charge between Conductors）は、Conductors and Capacitorsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、導体間の電荷再分布（Redistribution of Charge between Conductors）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：全電荷 $4Q$ を等分するので、それぞれ $+2Q$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "charge-redistribution",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-10-2-d1",
+      "ap-physics-c-em-10-2-d2",
+      "ap-physics-c-em-10-2-d3",
+      "ap-physics-c-em-10-2-d4",
+      "ap-physics-c-em-10-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-3-reference",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "capacitors",
+    "title": {
+      "en": "Capacitors",
+      "ja": "コンデンサー"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Capacitors.",
+      "ja": "コンデンサー（Capacitors）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Capacitors is a focused skill in Conductors and Capacitors. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Capacitors, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A capacitor has $Q=12\\,\\mu$C and $V=3$ V. Find capacitance.\nReasoning: $C=Q/V=4\\,\\mu$F.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：コンデンサー（Capacitors）は、Conductors and Capacitorsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、コンデンサー（Capacitors）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：静電容量は $4\\,\\mu$Fです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "capacitors",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-10-3-d1",
+      "ap-physics-c-em-10-3-d2",
+      "ap-physics-c-em-10-3-d3",
+      "ap-physics-c-em-10-3-d4",
+      "ap-physics-c-em-10-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-10-4-reference",
+    "course": "ap-physics-c-em",
+    "unit": "conductors-capacitors",
+    "topic": "dielectrics",
+    "title": {
+      "en": "Dielectrics",
+      "ja": "誘電体"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Dielectrics.",
+      "ja": "誘電体（Dielectrics）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Dielectrics is a focused skill in Conductors and Capacitors. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Dielectrics, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: An isolated charged capacitor is filled with a dielectric of constant $\\kappa$. What happens to capacitance?\nReasoning: The capacitance increases by a factor of $\\kappa$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：誘電体（Dielectrics）は、Conductors and Capacitorsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、誘電体（Dielectrics）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：静電容量は $\\kappa$ 倍になります。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "dielectrics",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-10-4-d1",
+      "ap-physics-c-em-10-4-d2",
+      "ap-physics-c-em-10-4-d3",
+      "ap-physics-c-em-10-4-d4",
+      "ap-physics-c-em-10-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-current",
+    "title": {
+      "en": "Electric Current",
+      "ja": "電流"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Current.",
+      "ja": "電流（Electric Current）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Current is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Current, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A charge of 15 C passes a point in 3 s. Find current.\nReasoning: $I=Q/t=5$ A.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電流（Electric Current）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電流（Electric Current）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：電流は5 Aです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-current",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-1-d1",
+      "ap-physics-c-em-11-1-d2",
+      "ap-physics-c-em-11-1-d3",
+      "ap-physics-c-em-11-1-d4",
+      "ap-physics-c-em-11-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "simple-circuits",
+    "title": {
+      "en": "Simple Circuits",
+      "ja": "単純回路"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Simple Circuits.",
+      "ja": "単純回路（Simple Circuits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Simple Circuits is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Simple Circuits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A 6 V battery is connected across a 3 $\\Omega$ resistor. Find current.\nReasoning: $I=V/R=2$ A.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：単純回路（Simple Circuits）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、単純回路（Simple Circuits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：電流は2 Aです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "simple-circuits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-2-d1",
+      "ap-physics-c-em-11-2-d2",
+      "ap-physics-c-em-11-2-d3",
+      "ap-physics-c-em-11-2-d4",
+      "ap-physics-c-em-11-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-3-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "resistance-resistivity-ohms-law",
+    "title": {
+      "en": "Resistance, Resistivity, and Ohm's Law",
+      "ja": "抵抗・抵抗率・オームの法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Resistance, Resistivity, and Ohm's Law.",
+      "ja": "抵抗（Resistance）・抵抗率（Resistivity）・オームの法則（Ohm's Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Resistance, Resistivity, and Ohm's Law is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Resistance, Resistivity, and Ohm's Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A wire has resistivity $\\rho$, length $L$, and area $A$. Write its resistance.\nReasoning: $R=\\rho L/A$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：抵抗（Resistance）・抵抗率（Resistivity）・オームの法則（Ohm's Law）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、抵抗（Resistance）・抵抗率（Resistivity）・オームの法則（Ohm's Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$R=\\rho L/A$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "resistance-resistivity-ohms-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-3-d1",
+      "ap-physics-c-em-11-3-d2",
+      "ap-physics-c-em-11-3-d3",
+      "ap-physics-c-em-11-3-d4",
+      "ap-physics-c-em-11-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-4-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "electric-power",
+    "title": {
+      "en": "Electric Power",
+      "ja": "電力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electric Power.",
+      "ja": "電力（Electric Power）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electric Power is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electric Power, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A device uses 12 V and 2 A. Find its power.\nReasoning: $P=IV=24$ W.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電力（Electric Power）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電力（Electric Power）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：電力は24 Wです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electric-power",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-4-d1",
+      "ap-physics-c-em-11-4-d2",
+      "ap-physics-c-em-11-4-d3",
+      "ap-physics-c-em-11-4-d4",
+      "ap-physics-c-em-11-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-5-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "compound-dc-circuits",
+    "title": {
+      "en": "Compound Direct Current Circuits",
+      "ja": "複合直流回路"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Compound Direct Current Circuits.",
+      "ja": "複合直流回路（Compound Direct Current Circuits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Compound Direct Current Circuits is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Compound Direct Current Circuits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Two resistors, 4 $\\Omega$ and 6 $\\Omega$, are in series. Find equivalent resistance.\nReasoning: $R_{eq}=10\\,\\Omega$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：複合直流回路（Compound Direct Current Circuits）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、複合直流回路（Compound Direct Current Circuits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：合成抵抗は10 $\\Omega$です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "compound-dc-circuits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-5-d1",
+      "ap-physics-c-em-11-5-d2",
+      "ap-physics-c-em-11-5-d3",
+      "ap-physics-c-em-11-5-d4",
+      "ap-physics-c-em-11-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-6-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-loop",
+    "title": {
+      "en": "Kirchhoff's Loop Rule",
+      "ja": "キルヒホッフの第2法則（ループ則）"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Kirchhoff's Loop Rule.",
+      "ja": "キルヒホッフの第2法則（ループ則）（Kirchhoff's Loop Rule）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Kirchhoff's Loop Rule is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Kirchhoff's Loop Rule, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A loop contains a 12 V battery and resistors 2 $\\Omega$ and 4 $\\Omega$ in series. Find current.\nReasoning: $12-I(2)-I(4)=0$, so $I=2$ A.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：キルヒホッフの第2法則（ループ則）（Kirchhoff's Loop Rule）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、キルヒホッフの第2法則（ループ則）（Kirchhoff's Loop Rule）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：ループ則より $12-6I=0$、したがって $I=2$ Aです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "kirchhoff-loop",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-6-d1",
+      "ap-physics-c-em-11-6-d2",
+      "ap-physics-c-em-11-6-d3",
+      "ap-physics-c-em-11-6-d4",
+      "ap-physics-c-em-11-6-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-7-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "kirchhoff-junction",
+    "title": {
+      "en": "Kirchhoff's Junction Rule",
+      "ja": "キルヒホッフの第1法則（接点則）"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Kirchhoff's Junction Rule.",
+      "ja": "キルヒホッフの第1法則（接点則）（Kirchhoff's Junction Rule）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Kirchhoff's Junction Rule is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Kirchhoff's Junction Rule, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: At a junction, 5 A enters and 2 A leaves through one branch. Find the current leaving through the other branch.\nReasoning: $5=2+I$, so $I=3$ A.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：キルヒホッフの第1法則（接点則）（Kirchhoff's Junction Rule）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、キルヒホッフの第1法則（接点則）（Kirchhoff's Junction Rule）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：接点則より、もう一方から出る電流は3 Aです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "kirchhoff-junction",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-7-d1",
+      "ap-physics-c-em-11-7-d2",
+      "ap-physics-c-em-11-7-d3",
+      "ap-physics-c-em-11-7-d4",
+      "ap-physics-c-em-11-7-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-11-8-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electric-circuits",
+    "topic": "rc-circuits",
+    "title": {
+      "en": "Resistor Capacitor (RC) Circuits",
+      "ja": "RC回路"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Resistor Capacitor (RC) Circuits.",
+      "ja": "RC回路（Resistor Capacitor (RC) Circuits）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Resistor Capacitor (RC) Circuits is a focused skill in Electric Circuits. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Resistor Capacitor (RC) Circuits, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the time constant of an RC circuit.\nReasoning: $\\tau=RC$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：RC回路（Resistor Capacitor (RC) Circuits）は、Electric Circuitsで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、RC回路（Resistor Capacitor (RC) Circuits）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\tau=RC$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "rc-circuits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-11-8-d1",
+      "ap-physics-c-em-11-8-d2",
+      "ap-physics-c-em-11-8-d3",
+      "ap-physics-c-em-11-8-d4",
+      "ap-physics-c-em-11-8-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetic-fields",
+    "title": {
+      "en": "Magnetic Fields",
+      "ja": "磁場"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Magnetic Fields.",
+      "ja": "磁場（Magnetic Fields）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Magnetic Fields is a focused skill in Magnetic Fields and Electromagnetism. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Magnetic Fields, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Which direction does the magnetic field point around a straight wire carrying current upward?\nReasoning: It circles the wire according to the right-hand rule.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：磁場（Magnetic Fields）は、Magnetic Fields and Electromagnetismで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、磁場（Magnetic Fields）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：右ねじの法則に従って導線の周囲を円状に向きます。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "magnetic-fields",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-12-1-d1",
+      "ap-physics-c-em-12-1-d2",
+      "ap-physics-c-em-12-1-d3",
+      "ap-physics-c-em-12-1-d4",
+      "ap-physics-c-em-12-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "magnetism-moving-charges",
+    "title": {
+      "en": "Magnetism and Moving Charges",
+      "ja": "磁気と運動する電荷"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Magnetism and Moving Charges.",
+      "ja": "磁気（Magnetism）と運動する電荷（Moving Charges）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Magnetism and Moving Charges is a focused skill in Magnetic Fields and Electromagnetism. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Magnetism and Moving Charges, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A charge $q$ moves perpendicular to field $B$ with speed $v$. Find magnetic-force magnitude.\nReasoning: $F=|q|vB$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：磁気（Magnetism）と運動する電荷（Moving Charges）は、Magnetic Fields and Electromagnetismで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、磁気（Magnetism）と運動する電荷（Moving Charges）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$F=|q|vB$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "magnetism-moving-charges",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-12-2-d1",
+      "ap-physics-c-em-12-2-d2",
+      "ap-physics-c-em-12-2-d3",
+      "ap-physics-c-em-12-2-d4",
+      "ap-physics-c-em-12-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-3-reference",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "fields-current-wires-biot-savart",
+    "title": {
+      "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law",
+      "ja": "電流が流れる導線の磁場とビオ・サバールの法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law.",
+      "ja": "電流が流れる導線の磁場（Magnetic Fields of Current-Carrying Wires）とビオ・サバールの法則（the Biot-Savart Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law is a focused skill in Magnetic Fields and Electromagnetism. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: State the distance dependence of the magnetic field from a long straight wire.\nReasoning: $B=\\mu_0I/(2\\pi r)$, so it decreases as $1/r$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電流が流れる導線の磁場（Magnetic Fields of Current-Carrying Wires）とビオ・サバールの法則（the Biot-Savart Law）は、Magnetic Fields and Electromagnetismで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電流が流れる導線の磁場（Magnetic Fields of Current-Carrying Wires）とビオ・サバールの法則（the Biot-Savart Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$B=\\mu_0I/(2\\pi r)$ で、距離に反比例します。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "fields-current-wires-biot-savart",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-12-3-d1",
+      "ap-physics-c-em-12-3-d2",
+      "ap-physics-c-em-12-3-d3",
+      "ap-physics-c-em-12-3-d4",
+      "ap-physics-c-em-12-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-12-4-reference",
+    "course": "ap-physics-c-em",
+    "unit": "magnetic-fields-electromagnetism",
+    "topic": "amperes-law",
+    "title": {
+      "en": "Ampère's Law",
+      "ja": "アンペールの法則"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Ampère's Law.",
+      "ja": "アンペールの法則（Ampère's Law）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Ampère's Law is a focused skill in Magnetic Fields and Electromagnetism. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Ampère's Law, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write Ampère's law for a closed path.\nReasoning: $\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：アンペールの法則（Ampère's Law）は、Magnetic Fields and Electromagnetismで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、アンペールの法則（Ampère's Law）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\oint\\mathbf B\\cdot d\\boldsymbol\\ell=\\mu_0I_{enc}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "amperes-law",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-12-4-d1",
+      "ap-physics-c-em-12-4-d2",
+      "ap-physics-c-em-12-4-d3",
+      "ap-physics-c-em-12-4-d4",
+      "ap-physics-c-em-12-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-1-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "magnetic-flux",
+    "title": {
+      "en": "Magnetic Flux",
+      "ja": "磁束"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Magnetic Flux.",
+      "ja": "磁束（Magnetic Flux）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Magnetic Flux is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Magnetic Flux, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A uniform field $B$ passes through area $A$ at angle $\\theta$ to the area vector. Find magnetic flux.\nReasoning: $\\Phi_B=BA\\cos\\theta$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：磁束（Magnetic Flux）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、磁束（Magnetic Flux）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\Phi_B=BA\\cos\\theta$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "magnetic-flux",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-1-d1",
+      "ap-physics-c-em-13-1-d2",
+      "ap-physics-c-em-13-1-d3",
+      "ap-physics-c-em-13-1-d4",
+      "ap-physics-c-em-13-1-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-2-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "electromagnetic-induction",
+    "title": {
+      "en": "Electromagnetic Induction",
+      "ja": "電磁誘導"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Electromagnetic Induction.",
+      "ja": "電磁誘導（Electromagnetic Induction）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Electromagnetic Induction is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Electromagnetic Induction, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Magnetic flux through a loop changes by $0.6$ Wb in $0.2$ s. Find the induced-emf magnitude.\nReasoning: $|\\mathcal E|=|\\Delta\\Phi_B/\\Delta t|=3$ V.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：電磁誘導（Electromagnetic Induction）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、電磁誘導（Electromagnetic Induction）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：誘導起電力の大きさは3 Vです。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "electromagnetic-induction",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-2-d1",
+      "ap-physics-c-em-13-2-d2",
+      "ap-physics-c-em-13-2-d3",
+      "ap-physics-c-em-13-2-d4",
+      "ap-physics-c-em-13-2-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-3-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "induced-currents-forces",
+    "title": {
+      "en": "Induced Currents and Magnetic Forces",
+      "ja": "誘導電流と磁気力"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Induced Currents and Magnetic Forces.",
+      "ja": "誘導電流（Induced Currents）と磁気力（Magnetic Forces）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Induced Currents and Magnetic Forces is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Induced Currents and Magnetic Forces, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: A north pole approaches a conducting loop. What does the induced current do?\nReasoning: It creates a magnetic field that opposes the increase in flux, in accordance with Lenz's law.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：誘導電流（Induced Currents）と磁気力（Magnetic Forces）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、誘導電流（Induced Currents）と磁気力（Magnetic Forces）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：レンツの法則により、磁束の増加を妨げる磁場を作ります。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "induced-currents-forces",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-3-d1",
+      "ap-physics-c-em-13-3-d2",
+      "ap-physics-c-em-13-3-d3",
+      "ap-physics-c-em-13-3-d4",
+      "ap-physics-c-em-13-3-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-4-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "inductance",
+    "title": {
+      "en": "Inductance",
+      "ja": "インダクタンス"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Inductance.",
+      "ja": "インダクタンス（Inductance）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Inductance is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Inductance, carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the energy stored in an inductor carrying current $I$.\nReasoning: $U_L=LI^2/2$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：インダクタンス（Inductance）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、インダクタンス（Inductance）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$U_L=LI^2/2$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "inductance",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-4-d1",
+      "ap-physics-c-em-13-4-d2",
+      "ap-physics-c-em-13-4-d3",
+      "ap-physics-c-em-13-4-d4",
+      "ap-physics-c-em-13-4-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-5-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lr-circuits",
+    "title": {
+      "en": "Circuits with Resistors and Inductors (LR Circuits)",
+      "ja": "抵抗とコイルを含む回路（LR回路）"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Circuits with Resistors and Inductors (LR Circuits).",
+      "ja": "抵抗（Circuits with Resistors）とコイルを含む回路（LR回路）（Inductors (LR Circuits)）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Circuits with Resistors and Inductors (LR Circuits) is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Circuits with Resistors and Inductors (LR Circuits), carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the time constant of an LR circuit.\nReasoning: $\\tau=L/R$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：抵抗（Circuits with Resistors）とコイルを含む回路（LR回路）（Inductors (LR Circuits)）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、抵抗（Circuits with Resistors）とコイルを含む回路（LR回路）（Inductors (LR Circuits)）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\tau=L/R$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "lr-circuits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-5-d1",
+      "ap-physics-c-em-13-5-d2",
+      "ap-physics-c-em-13-5-d3",
+      "ap-physics-c-em-13-5-d4",
+      "ap-physics-c-em-13-5-d5"
+    ]
+  },
+  {
+    "id": "ap-physics-c-em-13-6-reference",
+    "course": "ap-physics-c-em",
+    "unit": "electromagnetic-induction",
+    "topic": "lc-circuits",
+    "title": {
+      "en": "Circuits with Capacitors and Inductors (LC Circuits)",
+      "ja": "コンデンサーとコイルを含む回路（LC回路）"
+    },
+    "description": {
+      "en": "Core idea, method, and worked checkpoint for Circuits with Capacitors and Inductors (LC Circuits).",
+      "ja": "コンデンサー（Circuits with Capacitors）とコイルを含む回路（LC回路）（Inductors (LC Circuits)）の基本概念、使い方、確認例を説明します。"
+    },
+    "content": {
+      "en": "Core idea: Circuits with Capacitors and Inductors (LC Circuits) is a focused skill in Electromagnetic Induction. Learn the governing definition, relationship, or procedure before combining it with other topics.\nHow to use it: identify the quantities and conditions in the prompt, choose the relationship specific to Circuits with Capacitors and Inductors (LC Circuits), carry out one clear step at a time, and state the result with any required units, domain, sign, or direction.\nWorked checkpoint: Write the angular frequency of an ideal LC circuit.\nReasoning: $\\omega=1/\\sqrt{LC}$.\nSelf-check: explain why the selected relationship applies. Then check the result against the assumptions of the problem. A correct calculation without the relevant condition or interpretation is incomplete.",
+      "ja": "基本的な考え方：コンデンサー（Circuits with Capacitors）とコイルを含む回路（LC回路）（Inductors (LC Circuits)）は、Electromagnetic Inductionで扱う重要な学習項目です。まず定義、関係式、または解法の手順を確認し、その後に他のTopicと組み合わせます。\n使い方：問題で与えられた量と条件を整理し、コンデンサー（Circuits with Capacitors）とコイルを含む回路（LC回路）（Inductors (LC Circuits)）に対応する関係を選びます。計算は1段階ずつ進め、最後に単位、定義域、符号、向きのうち必要なものを確認します。\n計算・推論の例：$\\omega=1/\\sqrt{LC}$ です。\nセルフチェック：選んだ関係式や法則がなぜ使えるかを説明し、結果が問題の条件と矛盾していないかを確認します。数値だけでなく、条件や物理的・数学的な意味も答えましょう。"
+    },
+    "tags": [
+      "lc-circuits",
+      "concept-guide",
+      "worked-example"
+    ],
+    "relatedProblems": [
+      "ap-physics-c-em-13-6-d1",
+      "ap-physics-c-em-13-6-d2",
+      "ap-physics-c-em-13-6-d3",
+      "ap-physics-c-em-13-6-d4",
+      "ap-physics-c-em-13-6-d5"
+    ]
+  }
+]

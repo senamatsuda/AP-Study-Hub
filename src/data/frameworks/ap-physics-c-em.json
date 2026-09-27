@@ -6,7 +6,7 @@
       { "id": "charge-conservation-charging", "code": "8.2", "name": { "en": "Conservation of Electric Charge and the Process of Charging", "ja": "電荷保存と帯電過程" } },
       { "id": "electric-fields", "code": "8.3", "name": { "en": "Electric Fields", "ja": "電場" } },
       { "id": "fields-charge-distributions", "code": "8.4", "name": { "en": "Electric Fields of Charge Distributions", "ja": "電荷分布による電場" } },
-      { "id": "electric-flux", "code": "8.5", "name": { "en": "Electric Flux", "ja": "電気フラックス" } },
+      { "id": "electric-flux", "code": "8.5", "name": { "en": "Electric Flux", "ja": "電束" } },
       { "id": "gauss-law", "code": "8.6", "name": { "en": "Gauss's Law", "ja": "ガウスの法則" } }
     ] },
     { "id": "electric-potential", "number": 9, "name": { "en": "Electric Potential", "ja": "電位" }, "examWeighting": { "en": "10-20%", "ja": "10-20%" }, "topics": [
@@ -14,10 +14,10 @@
       { "id": "electric-potential", "code": "9.2", "name": { "en": "Electric Potential", "ja": "電位" } },
       { "id": "conservation-electric-energy", "code": "9.3", "name": { "en": "Conservation of Electric Energy", "ja": "電気エネルギー保存" } }
     ] },
-    { "id": "conductors-capacitors", "number": 10, "name": { "en": "Conductors and Capacitors", "ja": "導体とキャパシタ" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
+    { "id": "conductors-capacitors", "number": 10, "name": { "en": "Conductors and Capacitors", "ja": "導体とコンデンサー" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
       { "id": "electrostatics-conductors", "code": "10.1", "name": { "en": "Electrostatics with Conductors", "ja": "導体の静電気学" } },
       { "id": "charge-redistribution", "code": "10.2", "name": { "en": "Redistribution of Charge between Conductors", "ja": "導体間の電荷再分布" } },
-      { "id": "capacitors", "code": "10.3", "name": { "en": "Capacitors", "ja": "キャパシタ" } },
+      { "id": "capacitors", "code": "10.3", "name": { "en": "Capacitors", "ja": "コンデンサー" } },
       { "id": "dielectrics", "code": "10.4", "name": { "en": "Dielectrics", "ja": "誘電体" } }
     ] },
     { "id": "electric-circuits", "number": 11, "name": { "en": "Electric Circuits", "ja": "電気回路" }, "examWeighting": { "en": "15-25%", "ja": "15-25%" }, "topics": [
@@ -37,12 +37,12 @@
       { "id": "amperes-law", "code": "12.4", "name": { "en": "Ampère's Law", "ja": "アンペールの法則" } }
     ] },
     { "id": "electromagnetic-induction", "number": 13, "name": { "en": "Electromagnetic Induction", "ja": "電磁誘導" }, "examWeighting": { "en": "10-20%", "ja": "10-20%" }, "topics": [
-      { "id": "magnetic-flux", "code": "13.1", "name": { "en": "Magnetic Flux", "ja": "磁気フラックス" } },
+      { "id": "magnetic-flux", "code": "13.1", "name": { "en": "Magnetic Flux", "ja": "磁束" } },
       { "id": "electromagnetic-induction", "code": "13.2", "name": { "en": "Electromagnetic Induction", "ja": "電磁誘導" } },
       { "id": "induced-currents-forces", "code": "13.3", "name": { "en": "Induced Currents and Magnetic Forces", "ja": "誘導電流と磁気力" } },
       { "id": "inductance", "code": "13.4", "name": { "en": "Inductance", "ja": "インダクタンス" } },
-      { "id": "lr-circuits", "code": "13.5", "name": { "en": "Circuits with Resistors and Inductors (LR Circuits)", "ja": "抵抗とインダクタを含む回路（LR回路）" } },
-      { "id": "lc-circuits", "code": "13.6", "name": { "en": "Circuits with Capacitors and Inductors (LC Circuits)", "ja": "キャパシタとインダクタを含む回路（LC回路）" } }
+      { "id": "lr-circuits", "code": "13.5", "name": { "en": "Circuits with Resistors and Inductors (LR Circuits)", "ja": "抵抗とコイルを含む回路（LR回路）" } },
+      { "id": "lc-circuits", "code": "13.6", "name": { "en": "Circuits with Capacitors and Inductors (LC Circuits)", "ja": "コンデンサーとコイルを含む回路（LC回路）" } }
     ] }
   ]
 }

@@ -26,23 +26,23 @@
       { "id": "conservation-energy", "code": "3.4", "name": { "en": "Conservation of Energy", "ja": "エネルギー保存" } },
       { "id": "power", "code": "3.5", "name": { "en": "Power", "ja": "仕事率" } }
     ] },
-    { "id": "linear-momentum", "number": 4, "name": { "en": "Linear Momentum", "ja": "並進運動量" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
-      { "id": "linear-momentum", "code": "4.1", "name": { "en": "Linear Momentum", "ja": "並進運動量" } },
+    { "id": "linear-momentum", "number": 4, "name": { "en": "Linear Momentum", "ja": "運動量" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
+      { "id": "linear-momentum", "code": "4.1", "name": { "en": "Linear Momentum", "ja": "運動量" } },
       { "id": "impulse", "code": "4.2", "name": { "en": "Change in Momentum and Impulse", "ja": "運動量変化と力積" } },
-      { "id": "conservation-linear-momentum", "code": "4.3", "name": { "en": "Conservation of Linear Momentum", "ja": "並進運動量保存" } },
+      { "id": "conservation-linear-momentum", "code": "4.3", "name": { "en": "Conservation of Linear Momentum", "ja": "運動量保存" } },
       { "id": "collisions", "code": "4.4", "name": { "en": "Elastic and Inelastic Collisions", "ja": "弾性衝突と非弾性衝突" } }
     ] },
-    { "id": "torque-rotational-dynamics", "number": 5, "name": { "en": "Torque and Rotational Dynamics", "ja": "トルクと回転運動" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
+    { "id": "torque-rotational-dynamics", "number": 5, "name": { "en": "Torque and Rotational Dynamics", "ja": "力のモーメントと回転運動" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
       { "id": "rotational-kinematics", "code": "5.1", "name": { "en": "Rotational Kinematics", "ja": "回転運動学" } },
       { "id": "linear-rotational-motion", "code": "5.2", "name": { "en": "Connecting Linear and Rotational Motion", "ja": "並進運動と回転運動の関係" } },
-      { "id": "torque", "code": "5.3", "name": { "en": "Torque", "ja": "トルク" } },
-      { "id": "rotational-inertia", "code": "5.4", "name": { "en": "Rotational Inertia", "ja": "回転慣性" } },
+      { "id": "torque", "code": "5.3", "name": { "en": "Torque", "ja": "力のモーメント" } },
+      { "id": "rotational-inertia", "code": "5.4", "name": { "en": "Rotational Inertia", "ja": "慣性モーメント" } },
       { "id": "rotational-equilibrium", "code": "5.5", "name": { "en": "Rotational Equilibrium and Newton's First Law in Rotational Form", "ja": "回転平衡と回転形の第1法則" } },
       { "id": "rotational-second-law", "code": "5.6", "name": { "en": "Newton's Second Law in Rotational Form", "ja": "回転形のニュートンの第2法則" } }
     ] },
     { "id": "rotating-systems", "number": 6, "name": { "en": "Energy and Momentum of Rotating Systems", "ja": "回転系のエネルギーと運動量" }, "examWeighting": { "en": "5-8%", "ja": "5-8%" }, "topics": [
       { "id": "rotational-kinetic-energy", "code": "6.1", "name": { "en": "Rotational Kinetic Energy", "ja": "回転運動エネルギー" } },
-      { "id": "torque-work", "code": "6.2", "name": { "en": "Torque and Work", "ja": "トルクと仕事" } },
+      { "id": "torque-work", "code": "6.2", "name": { "en": "Torque and Work", "ja": "力のモーメントと仕事" } },
       { "id": "angular-momentum-impulse", "code": "6.3", "name": { "en": "Angular Momentum and Angular Impulse", "ja": "角運動量と角力積" } },
       { "id": "conservation-angular-momentum", "code": "6.4", "name": { "en": "Conservation of Angular Momentum", "ja": "角運動量保存" } },
       { "id": "rolling", "code": "6.5", "name": { "en": "Rolling", "ja": "転がり運動" } },
@@ -52,7 +52,7 @@
       { "id": "defining-shm", "code": "7.1", "name": { "en": "Defining Simple Harmonic Motion (SHM)", "ja": "単振動（SHM）の定義" } },
       { "id": "frequency-period-shm", "code": "7.2", "name": { "en": "Frequency and Period of SHM", "ja": "単振動の振動数と周期" } },
       { "id": "representing-analyzing-shm", "code": "7.3", "name": { "en": "Representing and Analyzing SHM", "ja": "単振動の表現と分析" } },
-      { "id": "energy-sho", "code": "7.4", "name": { "en": "Energy of Simple Harmonic Oscillators", "ja": "単調和振動子のエネルギー" } }
+      { "id": "energy-sho", "code": "7.4", "name": { "en": "Energy of Simple Harmonic Oscillators", "ja": "単振動系のエネルギー" } }
     ] },
     { "id": "fluids", "number": 8, "name": { "en": "Fluids", "ja": "流体" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
       { "id": "internal-structure-density", "code": "8.1", "name": { "en": "Internal Structure and Density", "ja": "内部構造と密度" } },

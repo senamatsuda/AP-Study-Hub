@@ -5,40 +5,41 @@
     "unit": "force-translational-dynamics",
     "topic": "newtons-second-law",
     "title": {
-      "en": "Two Horizontal Forces",
-      "ja": "2つの水平力"
+      "en": "Cart Under Opposing Forces",
+      "ja": "反対向きの力を受ける台車"
     },
     "difficulty": 2,
     "questionType": "multiple-choice",
     "question": {
-      "en": "A $4.0$ kg cart experiences a $14$ N force to the right and a $6$ N force to the left. What is its acceleration?",
-      "ja": "$4.0$ kg の台車に右向き $14$ N、左向き $6$ N の力が作用します。加速度はどれですか。"
+      "en": "A $3.0\\,\\text{kg}$ cart moves to the right on a horizontal track. A force sensor pulls the cart to the right with $12\\,\\text{N}$ while a resistive force of $3\\,\\text{N}$ acts to the left. Which choice correctly gives the cart's acceleration and describes its motion at that instant?",
+      "ja": "$3.0\\,\\text{kg}$ の台車が水平なレール上を右向きに動いています。力センサーが右向きに $12\\,\\text{N}$ で引き、左向きに $3\\,\\text{N}$ の抵抗力が働いています。この瞬間の加速度と運動を正しく表すものを選びなさい。"
     },
     "choices": [
       {
-        "en": "$0.5$ m/s² left",
-        "ja": "左向き $0.5$ m/s²"
+        "en": "$5.0\\,\\text{m/s}^2$ left; the cart slows down",
+        "ja": "左向き $5.0\\,\\text{m/s}^2$；台車は減速する"
       },
       {
-        "en": "$2.0$ m/s² right",
-        "ja": "右向き $2.0$ m/s²"
+        "en": "$3.0\\,\\text{m/s}^2$ left; the cart slows down",
+        "ja": "左向き $3.0\\,\\text{m/s}^2$；台車は減速する"
       },
       {
-        "en": "$3.5$ m/s² right",
-        "ja": "右向き $3.5$ m/s²"
+        "en": "$3.0\\,\\text{m/s}^2$ right; the cart speeds up",
+        "ja": "右向き $3.0\\,\\text{m/s}^2$；台車は加速する"
       },
       {
-        "en": "$5.0$ m/s² right",
-        "ja": "右向き $5.0$ m/s²"
+        "en": "$5.0\\,\\text{m/s}^2$ right; the cart speeds up",
+        "ja": "右向き $5.0\\,\\text{m/s}^2$；台車は加速する"
       }
     ],
     "solution": {
-      "en": "The net force is $14-6=8$ N right. Therefore $a=F_{net}/m=8/4=2.0$ m/s² right. The correct choice is B.",
-      "ja": "合力は右向きに $14-6=8$ Nです。よって $a=F_{net}/m=8/4=2.0$ m/s²。正解はBです。"
+      "en": "The net force is $12-3=9\\,\\text{N}$ to the right. Newton's second law gives\n$$a=\\frac{F_{\\text{net}}}{m}=\\frac{9}{3.0}=3.0\\,\\text{m/s}^2$$\nto the right. Because both velocity and acceleration point right, the cart is speeding up. The correct choice is C.",
+      "ja": "合力は右向きに $12-3=9\\,\\text{N}$ です。ニュートンの第2法則より\n$$a=\\frac{F_{\\text{net}}}{m}=\\frac{9}{3.0}=3.0\\,\\text{m/s}^2$$\nで、向きは右です。速度と加速度が同じ右向きなので台車は速くなります。正解はCです。"
     },
     "tags": [
       "newtons-second-law",
-      "net-force"
+      "net-force",
+      "acceleration"
     ],
     "relatedReferences": [
       "physics-1-newton-001"
@@ -50,22 +51,41 @@
     "unit": "force-translational-dynamics",
     "topic": "kinetic-static-friction",
     "title": {
-      "en": "Will the Crate Move?",
-      "ja": "木箱は動くか"
+      "en": "Momentum Change from Friction",
+      "ja": "摩擦による運動量変化"
     },
     "difficulty": 3,
-    "questionType": "conceptual",
+    "questionType": "multiple-choice",
     "question": {
-      "en": "A $10$ kg crate rests on a level floor with $\\mu_s=0.40$. A student pushes horizontally with $30$ N. Take $g=10$ m/s². Does the crate move? Explain.",
-      "ja": "$10$ kg の木箱が水平な床にあり、$\\mu_s=0.40$ です。生徒が水平に $30$ N で押します。$g=10$ m/s² として、木箱は動きますか。"
+      "en": "A $5.0\\,\\text{kg}$ suitcase slides across a level floor at $8.0\\,\\text{m/s}$. The coefficient of kinetic friction is $0.30$. Using $g=10\\,\\text{m/s}^2$, what is the magnitude of the suitcase's change in momentum during the next $1.2\\,\\text{s}$? Assume it continues sliding throughout the interval.",
+      "ja": "$5.0\\,\\text{kg}$ のスーツケースが水平な床を $8.0\\,\\text{m/s}$ で滑っています。動摩擦係数は $0.30$ です。$g=10\\,\\text{m/s}^2$ として、次の $1.2\\,\\text{s}$ 間における運動量変化の大きさを求めなさい。この間は滑り続けるものとします。"
     },
+    "choices": [
+      {
+        "en": "$6\\,\\text{kg}\\cdot\\text{m/s}$",
+        "ja": "$6\\,\\text{kg}\\cdot\\text{m/s}$"
+      },
+      {
+        "en": "$15\\,\\text{kg}\\cdot\\text{m/s}$",
+        "ja": "$15\\,\\text{kg}\\cdot\\text{m/s}$"
+      },
+      {
+        "en": "$18\\,\\text{kg}\\cdot\\text{m/s}$",
+        "ja": "$18\\,\\text{kg}\\cdot\\text{m/s}$"
+      },
+      {
+        "en": "$40\\,\\text{kg}\\cdot\\text{m/s}$",
+        "ja": "$40\\,\\text{kg}\\cdot\\text{m/s}$"
+      }
+    ],
     "solution": {
-      "en": "$N=mg=100$ N, so the maximum static friction is $\\mu_sN=40$ N. The required $30$ N is below this maximum, so static friction becomes $30$ N and the crate does not move.",
-      "ja": "$N=mg=100$ N なので、最大静止摩擦力は $\\mu_sN=40$ Nです。必要な $30$ N はこれより小さいため、静止摩擦力が $30$ N となり木箱は動きません。"
+      "en": "The normal force is $N=mg=50\\,\\text{N}$, so the kinetic-friction magnitude is\n$$f_k=\\mu_kN=0.30(50)=15\\,\\text{N}.$$\nThe impulse magnitude equals the momentum-change magnitude:\n$$|\\Delta p|=f_k\\Delta t=15(1.2)=18\\,\\text{kg}\\cdot\\text{m/s}.$$\nThe correct choice is C.",
+      "ja": "垂直抗力は $N=mg=50\\,\\text{N}$ なので、動摩擦力の大きさは\n$$f_k=\\mu_kN=0.30(50)=15\\,\\text{N}$$\nです。力積の大きさは運動量変化の大きさに等しいため、\n$$|\\Delta p|=f_k\\Delta t=15(1.2)=18\\,\\text{kg}\\cdot\\text{m/s}$$\nとなります。正解はCです。"
     },
     "tags": [
-      "static-friction",
-      "normal-force"
+      "kinetic-friction",
+      "impulse",
+      "momentum"
     ],
     "relatedReferences": [
       "physics-1-friction-001"

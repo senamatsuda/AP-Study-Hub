@@ -40,7 +40,7 @@
     },
     "content": {
       "en": "If $f(x)=(x-r)^m g(x)$ and $g(r)\\ne0$, then $r$ is a zero of multiplicity $m$. An odd multiplicity usually crosses the axis; an even multiplicity touches and turns. The leading term controls end behavior.",
-      "ja": "$f(x)=(x-r)^m g(x)$ かつ $g(r)\\ne0$ なら、$r$ は重複度 $m$ の零点です。重複度が奇数なら通常は軸を横切り、偶数なら軸に触れて折り返します。終端挙動は最高次項が決めます。"
+      "ja": "$f(x)=(x-r)^m g(x)$ かつ $g(r)\\ne0$ なら、$r$ は重複度 $m$ の零点です。重複度が奇数なら通常は軸を横切り、偶数なら軸に触れて折り返します。端での挙動は最高次項が決めます。"
     },
     "tags": [
       "polynomial",

@@ -5,22 +5,23 @@
     "unit": "differentiation-composite-implicit-inverse",
     "topic": "chain-rule",
     "title": {
-      "en": "Nested Exponential",
-      "ja": "嵌め込まれた指数関数"
+      "en": "Tangent to a Composite Exponential",
+      "ja": "合成指数関数の接線"
     },
-    "difficulty": 2,
-    "questionType": "calculation",
+    "difficulty": 3,
+    "questionType": "free-response",
     "question": {
-      "en": "Find $dy/dx$ if $y=e^{(3x^2-1)^4}$.",
-      "ja": "$y=e^{(3x^2-1)^4}$ の $dy/dx$ を求めてください。"
+      "en": "Let $g(x)=e^{(x^2+1)/3}$. Find an equation of the line tangent to the graph of $g$ at $x=1$.",
+      "ja": "$g(x)=e^{(x^2+1)/3}$ とします。$x=1$ における $g$ のグラフの接線の方程式を求めなさい。"
     },
     "solution": {
-      "en": "Apply the chain rule twice:\n$$\\frac{dy}{dx}=e^{(3x^2-1)^4}\\cdot4(3x^2-1)^3\\cdot6x=24x(3x^2-1)^3e^{(3x^2-1)^4}.$$",
-      "ja": "合成関数の微分を2回使うと\n$$\\frac{dy}{dx}=e^{(3x^2-1)^4}\\cdot4(3x^2-1)^3\\cdot6x=24x(3x^2-1)^3e^{(3x^2-1)^4}$$\nです。"
+      "en": "By the chain rule,\n$$g'(x)=e^{(x^2+1)/3}\\left(\\frac{2x}{3}\\right).$$\nAt $x=1$, the point is $(1,e^{2/3})$ and the slope is $\\frac{2}{3}e^{2/3}$. Therefore,\n$$y-e^{2/3}=\\frac{2}{3}e^{2/3}(x-1).$$",
+      "ja": "連鎖律より\n$$g'(x)=e^{(x^2+1)/3}\\left(\\frac{2x}{3}\\right)$$\nです。$x=1$ での点は $(1,e^{2/3})$、傾きは $\\frac{2}{3}e^{2/3}$ なので、接線は\n$$y-e^{2/3}=\\frac{2}{3}e^{2/3}(x-1)$$\nです。"
     },
     "tags": [
       "chain-rule",
-      "exponential"
+      "exponential",
+      "tangent-line"
     ],
     "relatedReferences": [
       "calc-ab-chain-rule-001"
@@ -32,23 +33,23 @@
     "unit": "differentiation-composite-implicit-inverse",
     "topic": "implicit-differentiation",
     "title": {
-      "en": "Slope on an Ellipse",
-      "ja": "楕円上の接線の傾き"
+      "en": "Tangent to an Implicit Curve",
+      "ja": "陰関数で表された曲線の接線"
     },
     "difficulty": 3,
     "questionType": "free-response",
     "question": {
-      "en": "The curve $x^2+4y^2=20$ contains the point $(2,2)$. Find the slope of the tangent line at that point.",
-      "ja": "曲線 $x^2+4y^2=20$ は点 $(2,2)$ を通ります。この点における接線の傾きを求めてください。"
+      "en": "The point $(2,2)$ lies on the curve $x^2y+y^3=16$. Find the slope of the tangent line to the curve at this point and write the tangent-line equation.",
+      "ja": "点 $(2,2)$ は曲線 $x^2y+y^3=16$ 上にあります。この点における接線の傾きと接線の方程式を求めなさい。"
     },
     "solution": {
-      "en": "Differentiate: $2x+8y(dy/dx)=0$. Hence $dy/dx=-x/(4y)$. At $(2,2)$, the slope is $-1/4$.",
-      "ja": "微分すると $2x+8y(dy/dx)=0$ です。したがって $dy/dx=-x/(4y)$。$(2,2)$ での傾きは $-1/4$ です。"
+      "en": "Differentiate implicitly:\n$$2xy+x^2\\frac{dy}{dx}+3y^2\\frac{dy}{dx}=0.$$\nThus\n$$\\frac{dy}{dx}=-\\frac{2xy}{x^2+3y^2}.$$\nAt $(2,2)$, the slope is $-8/16=-1/2$. The tangent line is\n$$y-2=-\\frac12(x-2).$$",
+      "ja": "両辺を $x$ で微分すると\n$$2xy+x^2\\frac{dy}{dx}+3y^2\\frac{dy}{dx}=0$$\nです。したがって\n$$\\frac{dy}{dx}=-\\frac{2xy}{x^2+3y^2}.$$\n$(2,2)$ では傾きが $-8/16=-1/2$ なので、接線は\n$$y-2=-\\frac12(x-2)$$\nです。"
     },
     "tags": [
-      "implicit",
-      "tangent",
-      "ellipse"
+      "implicit-differentiation",
+      "product-rule",
+      "tangent-line"
     ],
     "relatedReferences": [
       "calc-ab-implicit-001"
