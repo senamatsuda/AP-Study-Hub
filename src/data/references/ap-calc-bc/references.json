@@ -1,0 +1,54 @@
+[
+  {
+    "id": "calc-bc-convergence-001",
+    "course": "ap-calc-bc",
+    "unit": "infinite-series",
+    "topic": "ratio-test",
+    "title": {
+      "en": "Ratio Test",
+      "ja": "比判定法"
+    },
+    "description": {
+      "en": "Test absolute convergence using ratios of consecutive terms.",
+      "ja": "隣り合う項の比から絶対収束を判定します。"
+    },
+    "content": {
+      "en": "For $\\sum a_n$, compute\n$$L=\\lim_{n\\to\\infty}\\left|\\frac{a_{n+1}}{a_n}\\right|.$$\nIf $L<1$, the series converges absolutely. If $L>1$ or is infinite, it diverges. If $L=1$, the test is inconclusive.",
+      "ja": "$\\sum a_n$ に対して\n$$L=\\lim_{n\\to\\infty}\\left|\\frac{a_{n+1}}{a_n}\\right|$$\nを計算します。$L<1$ なら絶対収束、$L>1$ または無限大なら発散です。$L=1$ では判定できません。"
+    },
+    "tags": [
+      "series",
+      "convergence",
+      "ratio-test"
+    ],
+    "relatedProblems": [
+      "calc-bc-p001"
+    ]
+  },
+  {
+    "id": "calc-bc-taylor-001",
+    "course": "ap-calc-bc",
+    "unit": "infinite-series",
+    "topic": "taylor-maclaurin-series",
+    "title": {
+      "en": "Taylor Polynomials",
+      "ja": "テイラー多項式"
+    },
+    "description": {
+      "en": "Approximate a function using derivatives at one point.",
+      "ja": "1点での導関数を用いて関数を近似します。"
+    },
+    "content": {
+      "en": "The degree-$n$ Taylor polynomial for $f$ centered at $x=a$ is\n$$P_n(x)=\\sum_{k=0}^{n}\\frac{f^{(k)}(a)}{k!}(x-a)^k.$$\nA Maclaurin polynomial is the special case $a=0$.",
+      "ja": "$x=a$ を中心とする $f$ の $n$ 次テイラー多項式は\n$$P_n(x)=\\sum_{k=0}^{n}\\frac{f^{(k)}(a)}{k!}(x-a)^k$$\nです。$a=0$ の場合をマクローリン多項式と呼びます。"
+    },
+    "tags": [
+      "series",
+      "taylor",
+      "approximation"
+    ],
+    "relatedProblems": [
+      "calc-bc-p002"
+    ]
+  }
+]

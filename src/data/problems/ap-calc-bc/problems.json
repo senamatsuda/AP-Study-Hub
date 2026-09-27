@@ -1,0 +1,58 @@
+[
+  {
+    "id": "calc-bc-p001",
+    "course": "ap-calc-bc",
+    "unit": "infinite-series",
+    "topic": "ratio-test",
+    "title": {
+      "en": "Factorial Series",
+      "ja": "階乗を含む級数"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "Determine whether $\\sum_{n=1}^{\\infty} n!/5^n$ converges or diverges. Justify your answer.",
+      "ja": "$\\sum_{n=1}^{\\infty} n!/5^n$ が収束するか発散するかを、根拠とともに答えてください。"
+    },
+    "solution": {
+      "en": "Let $a_n=n!/5^n$. Then $a_{n+1}/a_n=(n+1)/5\\to\\infty$. Since the ratio limit is greater than 1, the series diverges.",
+      "ja": "$a_n=n!/5^n$ とおくと $a_{n+1}/a_n=(n+1)/5\\to\\infty$ です。比の極限が1より大きいため、この級数は発散します。"
+    },
+    "tags": [
+      "series",
+      "ratio-test",
+      "factorial"
+    ],
+    "relatedReferences": [
+      "calc-bc-convergence-001"
+    ]
+  },
+  {
+    "id": "calc-bc-p002",
+    "course": "ap-calc-bc",
+    "unit": "infinite-series",
+    "topic": "taylor-maclaurin-series",
+    "title": {
+      "en": "Cubic Maclaurin Approximation",
+      "ja": "3次マクローリン近似"
+    },
+    "difficulty": 3,
+    "questionType": "calculation",
+    "question": {
+      "en": "Find the third-degree Maclaurin polynomial for $f(x)=\\ln(1+x)$ and use it to approximate $\\ln(1.1)$.",
+      "ja": "$f(x)=\\ln(1+x)$ の3次マクローリン多項式を求め、$\\ln(1.1)$ を近似してください。"
+    },
+    "solution": {
+      "en": "$P_3(x)=x-x^2/2+x^3/3$. At $x=0.1$, $P_3(0.1)=0.1-0.005+0.000333\\ldots\\approx0.09533$.",
+      "ja": "$P_3(x)=x-x^2/2+x^3/3$ です。$x=0.1$ を代入すると $P_3(0.1)=0.1-0.005+0.000333\\ldots\\approx0.09533$ です。"
+    },
+    "tags": [
+      "taylor",
+      "maclaurin",
+      "approximation"
+    ],
+    "relatedReferences": [
+      "calc-bc-taylor-001"
+    ]
+  }
+]

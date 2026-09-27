@@ -1,0 +1,57 @@
+[
+  {
+    "id": "calc-ab-p001",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "chain-rule",
+    "title": {
+      "en": "Nested Exponential",
+      "ja": "嵌め込まれた指数関数"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "Find $dy/dx$ if $y=e^{(3x^2-1)^4}$.",
+      "ja": "$y=e^{(3x^2-1)^4}$ の $dy/dx$ を求めてください。"
+    },
+    "solution": {
+      "en": "Apply the chain rule twice:\n$$\\frac{dy}{dx}=e^{(3x^2-1)^4}\\cdot4(3x^2-1)^3\\cdot6x=24x(3x^2-1)^3e^{(3x^2-1)^4}.$$",
+      "ja": "合成関数の微分を2回使うと\n$$\\frac{dy}{dx}=e^{(3x^2-1)^4}\\cdot4(3x^2-1)^3\\cdot6x=24x(3x^2-1)^3e^{(3x^2-1)^4}$$\nです。"
+    },
+    "tags": [
+      "chain-rule",
+      "exponential"
+    ],
+    "relatedReferences": [
+      "calc-ab-chain-rule-001"
+    ]
+  },
+  {
+    "id": "calc-ab-p002",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "implicit-differentiation",
+    "title": {
+      "en": "Slope on an Ellipse",
+      "ja": "楕円上の接線の傾き"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "The curve $x^2+4y^2=20$ contains the point $(2,2)$. Find the slope of the tangent line at that point.",
+      "ja": "曲線 $x^2+4y^2=20$ は点 $(2,2)$ を通ります。この点における接線の傾きを求めてください。"
+    },
+    "solution": {
+      "en": "Differentiate: $2x+8y(dy/dx)=0$. Hence $dy/dx=-x/(4y)$. At $(2,2)$, the slope is $-1/4$.",
+      "ja": "微分すると $2x+8y(dy/dx)=0$ です。したがって $dy/dx=-x/(4y)$。$(2,2)$ での傾きは $-1/4$ です。"
+    },
+    "tags": [
+      "implicit",
+      "tangent",
+      "ellipse"
+    ],
+    "relatedReferences": [
+      "calc-ab-implicit-001"
+    ]
+  }
+]

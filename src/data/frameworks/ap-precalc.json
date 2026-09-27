@@ -1,0 +1,91 @@
+{
+  "course": "ap-precalc",
+  "units": [
+    {
+      "id": "polynomial-rational", "number": 1,
+      "name": { "en": "Polynomial and Rational Functions", "ja": "多項式関数と有理関数" },
+      "examWeighting": { "en": "30-40%", "ja": "30-40%" },
+      "topics": [
+        { "id": "change-in-tandem", "code": "1.1", "name": { "en": "Change in Tandem", "ja": "連動する変化" } },
+        { "id": "rates-of-change", "code": "1.2", "name": { "en": "Rates of Change", "ja": "変化率" } },
+        { "id": "rates-linear-quadratic", "code": "1.3", "name": { "en": "Rates of Change in Linear and Quadratic Functions", "ja": "一次関数と二次関数の変化率" } },
+        { "id": "polynomial-rates", "code": "1.4", "name": { "en": "Polynomial Functions and Rates of Change", "ja": "多項式関数と変化率" } },
+        { "id": "polynomial-complex-zeros", "code": "1.5", "name": { "en": "Polynomial Functions and Complex Zeros", "ja": "多項式関数と複素数の零点" } },
+        { "id": "polynomial-end-behavior", "code": "1.6", "name": { "en": "Polynomial Functions and End Behavior", "ja": "多項式関数と終端挙動" } },
+        { "id": "rational-end-behavior", "code": "1.7", "name": { "en": "Rational Functions and End Behavior", "ja": "有理関数と終端挙動" } },
+        { "id": "rational-zeros", "code": "1.8", "name": { "en": "Rational Functions and Zeros", "ja": "有理関数と零点" } },
+        { "id": "rational-vertical-asymptotes", "code": "1.9", "name": { "en": "Rational Functions and Vertical Asymptotes", "ja": "有理関数と垂直漸近線" } },
+        { "id": "rational-holes", "code": "1.10", "name": { "en": "Rational Functions and Holes", "ja": "有理関数と穴" } },
+        { "id": "equivalent-polynomial-rational", "code": "1.11", "name": { "en": "Equivalent Representations of Polynomial and Rational Expressions", "ja": "多項式・有理式の同値な表現" } },
+        { "id": "function-transformations", "code": "1.12", "name": { "en": "Transformations of Functions", "ja": "関数の変換" } },
+        { "id": "model-selection-assumptions", "code": "1.13", "name": { "en": "Function Model Selection and Assumption Articulation", "ja": "関数モデルの選択と仮定の明示" } },
+        { "id": "model-construction-application", "code": "1.14", "name": { "en": "Function Model Construction and Application", "ja": "関数モデルの構築と応用" } }
+      ]
+    },
+    {
+      "id": "exponential-logarithmic", "number": 2,
+      "name": { "en": "Exponential and Logarithmic Functions", "ja": "指数関数と対数関数" },
+      "examWeighting": { "en": "25-40%", "ja": "25-40%" },
+      "topics": [
+        { "id": "arithmetic-geometric-change", "code": "2.1", "name": { "en": "Change in Arithmetic and Geometric Sequences", "ja": "等差数列と等比数列の変化" } },
+        { "id": "linear-exponential-change", "code": "2.2", "name": { "en": "Change in Linear and Exponential Functions", "ja": "一次関数と指数関数の変化" } },
+        { "id": "exponential-functions", "code": "2.3", "name": { "en": "Exponential Functions", "ja": "指数関数" } },
+        { "id": "exponential-manipulation", "code": "2.4", "name": { "en": "Exponential Function Manipulation", "ja": "指数関数の式変形" } },
+        { "id": "exponential-context-modeling", "code": "2.5", "name": { "en": "Exponential Function Context and Data Modeling", "ja": "指数関数の文脈とデータモデリング" } },
+        { "id": "competing-model-validation", "code": "2.6", "name": { "en": "Competing Function Model Validation", "ja": "複数の関数モデルの比較検証" } },
+        { "id": "composition", "code": "2.7", "name": { "en": "Composition of Functions", "ja": "関数の合成" } },
+        { "id": "inverse-functions", "code": "2.8", "name": { "en": "Inverse Functions", "ja": "逆関数" } },
+        { "id": "logarithmic-expressions", "code": "2.9", "name": { "en": "Logarithmic Expressions", "ja": "対数式" } },
+        { "id": "inverse-exponential", "code": "2.10", "name": { "en": "Inverses of Exponential Functions", "ja": "指数関数の逆関数" } },
+        { "id": "logarithmic-functions", "code": "2.11", "name": { "en": "Logarithmic Functions", "ja": "対数関数" } },
+        { "id": "logarithmic-manipulation", "code": "2.12", "name": { "en": "Logarithmic Function Manipulation", "ja": "対数関数の式変形" } },
+        { "id": "exponential-log-equations", "code": "2.13", "name": { "en": "Exponential and Logarithmic Equations and Inequalities", "ja": "指数・対数方程式と不等式" } },
+        { "id": "logarithmic-context-modeling", "code": "2.14", "name": { "en": "Logarithmic Function Context and Data Modeling", "ja": "対数関数の文脈とデータモデリング" } },
+        { "id": "semi-log-plots", "code": "2.15", "name": { "en": "Semi-log Plots", "ja": "片対数グラフ" } }
+      ]
+    },
+    {
+      "id": "trigonometric-polar", "number": 3,
+      "name": { "en": "Trigonometric and Polar Functions", "ja": "三角関数と極座標関数" },
+      "examWeighting": { "en": "30-35%", "ja": "30-35%" },
+      "topics": [
+        { "id": "periodic-phenomena", "code": "3.1", "name": { "en": "Periodic Phenomena", "ja": "周期現象" } },
+        { "id": "sine-cosine-tangent", "code": "3.2", "name": { "en": "Sine, Cosine, and Tangent", "ja": "正弦・余弦・正接" } },
+        { "id": "sine-cosine-values", "code": "3.3", "name": { "en": "Sine and Cosine Function Values", "ja": "正弦関数と余弦関数の値" } },
+        { "id": "sine-cosine-graphs", "code": "3.4", "name": { "en": "Sine and Cosine Function Graphs", "ja": "正弦関数と余弦関数のグラフ" } },
+        { "id": "sinusoidal-functions", "code": "3.5", "name": { "en": "Sinusoidal Functions", "ja": "正弦波関数" } },
+        { "id": "sinusoidal-transformations", "code": "3.6", "name": { "en": "Sinusoidal Function Transformations", "ja": "正弦波関数の変換" } },
+        { "id": "sinusoidal-context-modeling", "code": "3.7", "name": { "en": "Sinusoidal Function Context and Data Modeling", "ja": "正弦波関数の文脈とデータモデリング" } },
+        { "id": "tangent-function", "code": "3.8", "name": { "en": "The Tangent Function", "ja": "正接関数" } },
+        { "id": "inverse-trigonometric", "code": "3.9", "name": { "en": "Inverse Trigonometric Functions", "ja": "逆三角関数" } },
+        { "id": "trigonometric-equations", "code": "3.10", "name": { "en": "Trigonometric Equations and Inequalities", "ja": "三角方程式と不等式" } },
+        { "id": "reciprocal-trigonometric", "code": "3.11", "name": { "en": "The Secant, Cosecant, and Cotangent Functions", "ja": "正割・余割・余接関数" } },
+        { "id": "equivalent-trigonometric", "code": "3.12", "name": { "en": "Equivalent Representations of Trigonometric Functions", "ja": "三角関数の同値な表現" } },
+        { "id": "trigonometry-polar-coordinates", "code": "3.13", "name": { "en": "Trigonometry and Polar Coordinates", "ja": "三角法と極座標" } },
+        { "id": "polar-graphs", "code": "3.14", "name": { "en": "Polar Function Graphs", "ja": "極座標関数のグラフ" } },
+        { "id": "polar-rates", "code": "3.15", "name": { "en": "Rates of Change in Polar Functions", "ja": "極座標関数の変化率" } }
+      ]
+    },
+    {
+      "id": "parameters-vectors-matrices", "number": 4,
+      "name": { "en": "Functions Involving Parameters, Vectors, and Matrices", "ja": "パラメータ・ベクトル・行列を含む関数" },
+      "examWeighting": { "en": "Not assessed", "ja": "AP Exam対象外" },
+      "topics": [
+        { "id": "parametric-functions", "code": "4.1", "name": { "en": "Parametric Functions", "ja": "媒介変数関数" } },
+        { "id": "parametric-planar-motion", "code": "4.2", "name": { "en": "Parametric Functions Modeling Planar Motion", "ja": "平面運動を表す媒介変数関数" } },
+        { "id": "parametric-rates", "code": "4.3", "name": { "en": "Parametric Functions and Rates of Change", "ja": "媒介変数関数と変化率" } },
+        { "id": "parametric-circles-lines", "code": "4.4", "name": { "en": "Parametrically Defined Circles and Lines", "ja": "媒介変数表示された円と直線" } },
+        { "id": "implicit-functions", "code": "4.5", "name": { "en": "Implicitly Defined Functions", "ja": "陰関数" } },
+        { "id": "conic-sections", "code": "4.6", "name": { "en": "Conic Sections", "ja": "円錐曲線" } },
+        { "id": "parametrization-implicit", "code": "4.7", "name": { "en": "Parametrization of Implicitly Defined Functions", "ja": "陰関数の媒介変数表示" } },
+        { "id": "vectors", "code": "4.8", "name": { "en": "Vectors", "ja": "ベクトル" } },
+        { "id": "vector-valued-functions", "code": "4.9", "name": { "en": "Vector-Valued Functions", "ja": "ベクトル値関数" } },
+        { "id": "matrices", "code": "4.10", "name": { "en": "Matrices", "ja": "行列" } },
+        { "id": "matrix-inverse-determinant", "code": "4.11", "name": { "en": "The Inverse and Determinant of a Matrix", "ja": "逆行列と行列式" } },
+        { "id": "linear-transformations-matrices", "code": "4.12", "name": { "en": "Linear Transformations and Matrices", "ja": "線形変換と行列" } },
+        { "id": "matrices-as-functions", "code": "4.13", "name": { "en": "Matrices as Functions", "ja": "関数としての行列" } },
+        { "id": "matrices-modeling", "code": "4.14", "name": { "en": "Matrices Modeling Contexts", "ja": "行列による状況のモデリング" } }
+      ]
+    }
+  ]
+}

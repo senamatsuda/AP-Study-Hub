@@ -1,0 +1,57 @@
+[
+  {
+    "id": "precalc-p001",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rates-of-change",
+    "title": {
+      "en": "Cooling Rate",
+      "ja": "冷却の変化率"
+    },
+    "difficulty": 2,
+    "questionType": "calculation",
+    "question": {
+      "en": "A drink's temperature is modeled by $T(t)=72-4t+0.2t^2$ degrees Celsius for $0\\le t\\le10$. Find the average rate of change from $t=2$ to $t=6$ and interpret it.",
+      "ja": "飲み物の温度が $0\\le t\\le10$ で $T(t)=72-4t+0.2t^2$ ℃と表されます。$t=2$ から $t=6$ までの平均変化率を求め、意味を説明してください。"
+    },
+    "solution": {
+      "en": "$T(2)=64.8$ and $T(6)=55.2$. Thus\n$$\\frac{55.2-64.8}{6-2}=-2.4.$$\nThe drink cools by an average of $2.4^\\circ$C per minute over this interval.",
+      "ja": "$T(2)=64.8$、$T(6)=55.2$ なので\n$$\\frac{55.2-64.8}{6-2}=-2.4$$\nです。この区間では1分あたり平均 $2.4^\\circ$C 低下します。"
+    },
+    "tags": [
+      "modeling",
+      "rate-of-change"
+    ],
+    "relatedReferences": [
+      "precalc-rate-change-001"
+    ]
+  },
+  {
+    "id": "precalc-p002",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "polynomial-complex-zeros",
+    "title": {
+      "en": "Multiplicity from a Formula",
+      "ja": "式から読む重複度"
+    },
+    "difficulty": 2,
+    "questionType": "conceptual",
+    "question": {
+      "en": "For $p(x)=-2(x+1)^2(x-3)^3$, state each zero, its multiplicity, and whether the graph crosses or touches the $x$-axis there.",
+      "ja": "$p(x)=-2(x+1)^2(x-3)^3$ について、各零点と重複度、そこでグラフが $x$ 軸を横切るか触れるかを答えてください。"
+    },
+    "solution": {
+      "en": "At $x=-1$, the multiplicity is 2, so the graph touches and turns. At $x=3$, the multiplicity is 3, so the graph crosses the axis with flattening.",
+      "ja": "$x=-1$ の重複度は2なので軸に触れて折り返します。$x=3$ の重複度は3なので、平らになりながら軸を横切ります。"
+    },
+    "tags": [
+      "polynomial",
+      "zeros",
+      "multiplicity"
+    ],
+    "relatedReferences": [
+      "precalc-zeros-001"
+    ]
+  }
+]

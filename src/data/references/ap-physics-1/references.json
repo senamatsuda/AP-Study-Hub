@@ -1,0 +1,54 @@
+[
+  {
+    "id": "physics-1-newton-001",
+    "course": "ap-physics-1",
+    "unit": "force-translational-dynamics",
+    "topic": "newtons-second-law",
+    "title": {
+      "en": "Newton's Second Law",
+      "ja": "ニュートンの第2法則"
+    },
+    "description": {
+      "en": "Relate net force, mass, and acceleration with a free-body diagram.",
+      "ja": "力のつり合い図から合力・質量・加速度を関係づけます。"
+    },
+    "content": {
+      "en": "Newton's second law is a vector equation:\n$$\\sum \\vec F=m\\vec a.$$\nChoose axes, draw only forces acting on the object, and write one component equation for each axis. A zero net force means zero acceleration, not necessarily zero velocity.",
+      "ja": "ニュートンの第2法則はベクトル方程式です。\n$$\\sum \\vec F=m\\vec a$$\n軸を決め、物体に作用する力だけを描き、軸ごとに成分方程式を立てます。合力が0とは加速度が0という意味で、速度が0とは限りません。"
+    },
+    "tags": [
+      "force",
+      "acceleration",
+      "free-body-diagram"
+    ],
+    "relatedProblems": [
+      "physics-1-p001"
+    ]
+  },
+  {
+    "id": "physics-1-friction-001",
+    "course": "ap-physics-1",
+    "unit": "force-translational-dynamics",
+    "topic": "kinetic-static-friction",
+    "title": {
+      "en": "Static and Kinetic Friction",
+      "ja": "静止摩擦と動摩擦"
+    },
+    "description": {
+      "en": "Distinguish adjustable static friction from kinetic friction.",
+      "ja": "大きさが変わる静止摩擦と動摩擦を区別します。"
+    },
+    "content": {
+      "en": "Static friction satisfies $0\\le f_s\\le\\mu_sN$ and adjusts to prevent slipping. Once surfaces slide, kinetic friction is modeled by $f_k=\\mu_kN$. Friction opposes relative or impending relative motion between surfaces.",
+      "ja": "静止摩擦力は $0\\le f_s\\le\\mu_sN$ を満たし、滑りを防ぐのに必要な大きさに変わります。滑り始めた後の動摩擦力は $f_k=\\mu_kN$ で表します。"
+    },
+    "tags": [
+      "friction",
+      "normal-force",
+      "free-body-diagram"
+    ],
+    "relatedProblems": [
+      "physics-1-p002"
+    ]
+  }
+]

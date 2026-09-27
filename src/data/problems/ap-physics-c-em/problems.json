@@ -1,0 +1,58 @@
+[
+  {
+    "id": "physics-c-em-p001",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Field at a Midpoint",
+      "ja": "中点の電場"
+    },
+    "difficulty": 3,
+    "questionType": "calculation",
+    "question": {
+      "en": "Charges $+q$ and $+4q$ are separated by distance $3d$. Find the magnitude and direction of the electric field at the point between them that is distance $d$ from $+q$.",
+      "ja": "電荷 $+q$ と $+4q$ が距離 $3d$ を隔てて置かれています。$+q$ から距離 $d$ の両電荷間の点で、電場の大きさと向きを求めてください。"
+    },
+    "solution": {
+      "en": "The $+q$ field points toward $+4q$ with magnitude $kq/d^2$. The $+4q$ field points toward $+q$ and has magnitude $k(4q)/(2d)^2=kq/d^2$. They cancel, so the net field is zero.",
+      "ja": "$+q$ が作る電場は $+4q$ 向きで大きさ $kq/d^2$。$+4q$ が作る電場は $+q$ 向きで、大きさは $k(4q)/(2d)^2=kq/d^2$ です。両者は打ち消し合うので合成電場は0です。"
+    },
+    "tags": [
+      "electric-field",
+      "superposition",
+      "point-charge"
+    ],
+    "relatedReferences": [
+      "physics-c-em-electric-field-001"
+    ]
+  },
+  {
+    "id": "physics-c-em-p002",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Field Outside a Charged Sphere",
+      "ja": "帯電球の外側の電場"
+    },
+    "difficulty": 3,
+    "questionType": "free-response",
+    "question": {
+      "en": "A solid insulating sphere of radius $R$ carries uniform total charge $Q$. Use Gauss's law to find the electric field magnitude at $r>R$.",
+      "ja": "半径 $R$ の絶縁体の球が、全電荷 $Q$ を一様に持っています。ガウスの法則を用いて $r>R$ での電場の大きさを求めてください。"
+    },
+    "solution": {
+      "en": "Choose a spherical Gaussian surface of radius $r$. Symmetry gives constant radial $E$, so $E(4\\pi r^2)=Q/\\varepsilon_0$. Therefore\n$$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}.$$",
+      "ja": "半径 $r$ の球形ガウス面を選びます。対称性から $E$ は面上で一定で放射方向なので、$E(4\\pi r^2)=Q/\\varepsilon_0$。したがって\n$$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}$$\nです。"
+    },
+    "tags": [
+      "gauss-law",
+      "sphere",
+      "symmetry"
+    ],
+    "relatedReferences": [
+      "physics-c-em-gauss-001"
+    ]
+  }
+]

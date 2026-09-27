@@ -1,0 +1,54 @@
+[
+  {
+    "id": "precalc-rate-change-001",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "rates-of-change",
+    "title": {
+      "en": "Average Rate of Change",
+      "ja": "平均変化率"
+    },
+    "description": {
+      "en": "Connect secant slopes with change over an interval.",
+      "ja": "割線の傾きと区間での変化を結びつけます。"
+    },
+    "content": {
+      "en": "For a function $f$, the average rate of change from $x=a$ to $x=b$ is\n$$\\frac{f(b)-f(a)}{b-a}.$$\nIt is the slope of the secant line through $(a,f(a))$ and $(b,f(b))$. Include units: output units per input unit.",
+      "ja": "関数 $f$ の $x=a$ から $x=b$ までの平均変化率は\n$$\\frac{f(b)-f(a)}{b-a}$$\nです。これは $(a,f(a))$ と $(b,f(b))$ を結ぶ割線の傾きです。「出力の単位／入力の単位」も確認しましょう。"
+    },
+    "tags": [
+      "functions",
+      "rate-of-change",
+      "secant"
+    ],
+    "relatedProblems": [
+      "precalc-p001"
+    ]
+  },
+  {
+    "id": "precalc-zeros-001",
+    "course": "ap-precalc",
+    "unit": "polynomial-rational",
+    "topic": "polynomial-complex-zeros",
+    "title": {
+      "en": "Zeros, Multiplicity, and Graphs",
+      "ja": "零点・重複度・グラフ"
+    },
+    "description": {
+      "en": "Read polynomial behavior from factored form.",
+      "ja": "因数分解形から多項式の挙動を読み取ります。"
+    },
+    "content": {
+      "en": "If $f(x)=(x-r)^m g(x)$ and $g(r)\\ne0$, then $r$ is a zero of multiplicity $m$. An odd multiplicity usually crosses the axis; an even multiplicity touches and turns. The leading term controls end behavior.",
+      "ja": "$f(x)=(x-r)^m g(x)$ かつ $g(r)\\ne0$ なら、$r$ は重複度 $m$ の零点です。重複度が奇数なら通常は軸を横切り、偶数なら軸に触れて折り返します。終端挙動は最高次項が決めます。"
+    },
+    "tags": [
+      "polynomial",
+      "zeros",
+      "multiplicity"
+    ],
+    "relatedProblems": [
+      "precalc-p002"
+    ]
+  }
+]

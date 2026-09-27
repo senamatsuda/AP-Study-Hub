@@ -1,0 +1,58 @@
+[
+  {
+    "id": "physics-c-mech-p001",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "work",
+    "title": {
+      "en": "Quadratic Force",
+      "ja": "二次式で表される力"
+    },
+    "difficulty": 3,
+    "questionType": "calculation",
+    "question": {
+      "en": "A force $F_x(x)=3x^2+2$ N acts on a particle. Calculate the work done as the particle moves from $x=0$ to $x=2$ m.",
+      "ja": "粒子に $F_x(x)=3x^2+2$ N の力が作用します。$x=0$ から $x=2$ m まで移動する間にこの力がする仕事を求めてください。"
+    },
+    "solution": {
+      "en": "$$W=\\int_0^2(3x^2+2)\\,dx=[x^3+2x]_0^2=8+4=12\\text{ J}.$$",
+      "ja": "$$W=\\int_0^2(3x^2+2)\\,dx=[x^3+2x]_0^2=8+4=12\\text{ J}$$\nです。"
+    },
+    "tags": [
+      "work",
+      "integral",
+      "variable-force"
+    ],
+    "relatedReferences": [
+      "physics-c-mech-work-001"
+    ]
+  },
+  {
+    "id": "physics-c-mech-p002",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "potential-energy",
+    "title": {
+      "en": "Equilibria in a Quartic Potential",
+      "ja": "4次のポテンシャルの平衡点"
+    },
+    "difficulty": 4,
+    "questionType": "free-response",
+    "question": {
+      "en": "A particle has potential energy $U(x)=x^4-8x^2$ J. Find all equilibrium positions and classify each as stable or unstable.",
+      "ja": "粒子の位置エネルギーが $U(x)=x^4-8x^2$ J です。すべての平衡位置を求め、安定か不安定かを判定してください。"
+    },
+    "solution": {
+      "en": "$dU/dx=4x^3-16x=4x(x^2-4)$, so equilibria are $x=-2,0,2$. Since $U''=12x^2-16$, $U''(0)<0$ makes $x=0$ unstable, while $U''(\\pm2)>0$ makes $x=\\pm2$ stable.",
+      "ja": "$dU/dx=4x^3-16x=4x(x^2-4)$ なので、平衡点は $x=-2,0,2$ です。$U''=12x^2-16$ より、$U''(0)<0$ なので $x=0$ は不安定、$U''(\\pm2)>0$ なので $x=\\pm2$ は安定です。"
+    },
+    "tags": [
+      "potential-energy",
+      "equilibrium",
+      "derivative"
+    ],
+    "relatedReferences": [
+      "physics-c-mech-potential-001"
+    ]
+  }
+]

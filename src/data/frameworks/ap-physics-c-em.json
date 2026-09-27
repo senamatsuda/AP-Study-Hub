@@ -1,0 +1,48 @@
+{
+  "course": "ap-physics-c-em",
+  "units": [
+    { "id": "electric-charges-fields-gauss-law", "number": 8, "name": { "en": "Electric Charges, Fields, and Gauss's Law", "ja": "電荷・電場・ガウスの法則" }, "examWeighting": { "en": "15-25%", "ja": "15-25%" }, "topics": [
+      { "id": "electric-charge-force", "code": "8.1", "name": { "en": "Electric Charge and Electric Force", "ja": "電荷と電気力" } },
+      { "id": "charge-conservation-charging", "code": "8.2", "name": { "en": "Conservation of Electric Charge and the Process of Charging", "ja": "電荷保存と帯電過程" } },
+      { "id": "electric-fields", "code": "8.3", "name": { "en": "Electric Fields", "ja": "電場" } },
+      { "id": "fields-charge-distributions", "code": "8.4", "name": { "en": "Electric Fields of Charge Distributions", "ja": "電荷分布による電場" } },
+      { "id": "electric-flux", "code": "8.5", "name": { "en": "Electric Flux", "ja": "電気フラックス" } },
+      { "id": "gauss-law", "code": "8.6", "name": { "en": "Gauss's Law", "ja": "ガウスの法則" } }
+    ] },
+    { "id": "electric-potential", "number": 9, "name": { "en": "Electric Potential", "ja": "電位" }, "examWeighting": { "en": "10-20%", "ja": "10-20%" }, "topics": [
+      { "id": "electric-potential-energy", "code": "9.1", "name": { "en": "Electric Potential Energy", "ja": "電気的位置エネルギー" } },
+      { "id": "electric-potential", "code": "9.2", "name": { "en": "Electric Potential", "ja": "電位" } },
+      { "id": "conservation-electric-energy", "code": "9.3", "name": { "en": "Conservation of Electric Energy", "ja": "電気エネルギー保存" } }
+    ] },
+    { "id": "conductors-capacitors", "number": 10, "name": { "en": "Conductors and Capacitors", "ja": "導体とキャパシタ" }, "examWeighting": { "en": "10-15%", "ja": "10-15%" }, "topics": [
+      { "id": "electrostatics-conductors", "code": "10.1", "name": { "en": "Electrostatics with Conductors", "ja": "導体の静電気学" } },
+      { "id": "charge-redistribution", "code": "10.2", "name": { "en": "Redistribution of Charge between Conductors", "ja": "導体間の電荷再分布" } },
+      { "id": "capacitors", "code": "10.3", "name": { "en": "Capacitors", "ja": "キャパシタ" } },
+      { "id": "dielectrics", "code": "10.4", "name": { "en": "Dielectrics", "ja": "誘電体" } }
+    ] },
+    { "id": "electric-circuits", "number": 11, "name": { "en": "Electric Circuits", "ja": "電気回路" }, "examWeighting": { "en": "15-25%", "ja": "15-25%" }, "topics": [
+      { "id": "electric-current", "code": "11.1", "name": { "en": "Electric Current", "ja": "電流" } },
+      { "id": "simple-circuits", "code": "11.2", "name": { "en": "Simple Circuits", "ja": "単純回路" } },
+      { "id": "resistance-resistivity-ohms-law", "code": "11.3", "name": { "en": "Resistance, Resistivity, and Ohm's Law", "ja": "抵抗・抵抗率・オームの法則" } },
+      { "id": "electric-power", "code": "11.4", "name": { "en": "Electric Power", "ja": "電力" } },
+      { "id": "compound-dc-circuits", "code": "11.5", "name": { "en": "Compound Direct Current Circuits", "ja": "複合直流回路" } },
+      { "id": "kirchhoff-loop", "code": "11.6", "name": { "en": "Kirchhoff's Loop Rule", "ja": "キルヒホッフの第2法則（ループ則）" } },
+      { "id": "kirchhoff-junction", "code": "11.7", "name": { "en": "Kirchhoff's Junction Rule", "ja": "キルヒホッフの第1法則（接点則）" } },
+      { "id": "rc-circuits", "code": "11.8", "name": { "en": "Resistor Capacitor (RC) Circuits", "ja": "RC回路" } }
+    ] },
+    { "id": "magnetic-fields-electromagnetism", "number": 12, "name": { "en": "Magnetic Fields and Electromagnetism", "ja": "磁場と電磁気学" }, "examWeighting": { "en": "10-20%", "ja": "10-20%" }, "topics": [
+      { "id": "magnetic-fields", "code": "12.1", "name": { "en": "Magnetic Fields", "ja": "磁場" } },
+      { "id": "magnetism-moving-charges", "code": "12.2", "name": { "en": "Magnetism and Moving Charges", "ja": "磁気と運動する電荷" } },
+      { "id": "fields-current-wires-biot-savart", "code": "12.3", "name": { "en": "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law", "ja": "電流が流れる導線の磁場とビオ・サバールの法則" } },
+      { "id": "amperes-law", "code": "12.4", "name": { "en": "Ampère's Law", "ja": "アンペールの法則" } }
+    ] },
+    { "id": "electromagnetic-induction", "number": 13, "name": { "en": "Electromagnetic Induction", "ja": "電磁誘導" }, "examWeighting": { "en": "10-20%", "ja": "10-20%" }, "topics": [
+      { "id": "magnetic-flux", "code": "13.1", "name": { "en": "Magnetic Flux", "ja": "磁気フラックス" } },
+      { "id": "electromagnetic-induction", "code": "13.2", "name": { "en": "Electromagnetic Induction", "ja": "電磁誘導" } },
+      { "id": "induced-currents-forces", "code": "13.3", "name": { "en": "Induced Currents and Magnetic Forces", "ja": "誘導電流と磁気力" } },
+      { "id": "inductance", "code": "13.4", "name": { "en": "Inductance", "ja": "インダクタンス" } },
+      { "id": "lr-circuits", "code": "13.5", "name": { "en": "Circuits with Resistors and Inductors (LR Circuits)", "ja": "抵抗とインダクタを含む回路（LR回路）" } },
+      { "id": "lc-circuits", "code": "13.6", "name": { "en": "Circuits with Capacitors and Inductors (LC Circuits)", "ja": "キャパシタとインダクタを含む回路（LC回路）" } }
+    ] }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ap-precalc",
+    "name": { "en": "AP Precalculus", "ja": "AP Precalculus" },
+    "shortName": "Precalculus",
+    "description": { "en": "Functions, models, and change before calculus.", "ja": "微積分につながる関数・モデル・変化を学びます。" },
+    "accent": "#2f6b5f",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-precalculus-course-and-exam-description.pdf"
+  },
+  {
+    "id": "ap-calc-ab",
+    "name": { "en": "AP Calculus AB", "ja": "AP Calculus AB" },
+    "shortName": "Calculus AB",
+    "description": { "en": "Limits, derivatives, integrals, and their applications.", "ja": "極限・微分・積分とその応用を学びます。" },
+    "accent": "#345e7d",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf"
+  },
+  {
+    "id": "ap-calc-bc",
+    "name": { "en": "AP Calculus BC", "ja": "AP Calculus BC" },
+    "shortName": "Calculus BC",
+    "description": { "en": "Advanced integration, parametric curves, and series.", "ja": "発展的な積分、媒介変数曲線、級数を学びます。" },
+    "accent": "#664c91",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf"
+  },
+  {
+    "id": "ap-physics-1",
+    "name": { "en": "AP Physics 1", "ja": "AP Physics 1" },
+    "shortName": "Physics 1",
+    "description": { "en": "Algebra-based mechanics, energy, momentum, and fluids.", "ja": "代数を用いて力学・エネルギー・運動量・流体を学びます。" },
+    "accent": "#986126",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-physics-1-course-and-exam-description.pdf"
+  },
+  {
+    "id": "ap-physics-c-mech",
+    "name": { "en": "AP Physics C: Mechanics", "ja": "AP Physics C: Mechanics" },
+    "shortName": "Physics C: Mech",
+    "description": { "en": "Calculus-based mechanics and dynamical systems.", "ja": "微積分を用いて力学と力学系を学びます。" },
+    "accent": "#a2433f",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-physics-c-mechanics-course-and-exam-description.pdf"
+  },
+  {
+    "id": "ap-physics-c-em",
+    "name": { "en": "AP Physics C: Electricity and Magnetism", "ja": "AP Physics C: Electricity and Magnetism" },
+    "shortName": "Physics C: E&M",
+    "description": { "en": "Calculus-based electricity, circuits, and magnetism.", "ja": "微積分を用いて電気・回路・磁気を学びます。" },
+    "accent": "#176b78",
+    "sourceUrl": "https://apcentral.collegeboard.org/media/pdf/ap-physics-c-electricity-and-magnetism-course-and-exam-description.pdf"
+  }
+]

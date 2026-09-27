@@ -1,0 +1,54 @@
+[
+  {
+    "id": "physics-c-mech-work-001",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "work",
+    "title": {
+      "en": "Work by a Variable Force",
+      "ja": "変化する力による仕事"
+    },
+    "description": {
+      "en": "Use a line integral or force-position graph to calculate work.",
+      "ja": "線積分または力ー位置グラフから仕事を求めます。"
+    },
+    "content": {
+      "en": "For motion along the $x$-axis, work from $a$ to $b$ is\n$$W=\\int_a^b F_x(x)\\,dx.$$\nGeometrically, this is signed area under the $F_x$ versus $x$ graph. Positive net work increases kinetic energy.",
+      "ja": "$x$ 軸上の運動では、$a$ から $b$ までの仕事は\n$$W=\\int_a^b F_x(x)\\,dx$$\nです。幾何学的には $F_x$-$x$ グラフの符号付き面積です。正の正味の仕事は運動エネルギーを増加させます。"
+    },
+    "tags": [
+      "work",
+      "integral",
+      "variable-force"
+    ],
+    "relatedProblems": [
+      "physics-c-mech-p001"
+    ]
+  },
+  {
+    "id": "physics-c-mech-potential-001",
+    "course": "ap-physics-c-mech",
+    "unit": "work-energy-power",
+    "topic": "potential-energy",
+    "title": {
+      "en": "Force from Potential Energy",
+      "ja": "位置エネルギーから力へ"
+    },
+    "description": {
+      "en": "Connect the slope of a potential-energy function to force.",
+      "ja": "位置エネルギー関数の傾きと力を結びつけます。"
+    },
+    "content": {
+      "en": "In one dimension, a conservative force and potential energy satisfy\n$$F_x=-\\frac{dU}{dx}.$$\nEquilibrium occurs where $dU/dx=0$. A local minimum of $U$ is stable; a local maximum is unstable.",
+      "ja": "1次元で保存力と位置エネルギーは\n$$F_x=-\\frac{dU}{dx}$$\nを満たします。$dU/dx=0$ の位置が平衡点です。$U$ の極小は安定、極大は不安定です。"
+    },
+    "tags": [
+      "potential-energy",
+      "force",
+      "equilibrium"
+    ],
+    "relatedProblems": [
+      "physics-c-mech-p002"
+    ]
+  }
+]

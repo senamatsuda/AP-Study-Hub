@@ -1,0 +1,54 @@
+[
+  {
+    "id": "physics-c-em-electric-field-001",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "electric-fields",
+    "title": {
+      "en": "Electric Field",
+      "ja": "電場"
+    },
+    "description": {
+      "en": "Define electric field and apply superposition.",
+      "ja": "電場を定義し、重ね合わせの原理を使います。"
+    },
+    "content": {
+      "en": "Electric field is force per unit positive test charge:\n$$\\vec E=\\frac{\\vec F}{q_0}.$$\nFor a point charge $q$, $\\vec E=kq\\hat r/r^2$. Fields add as vectors, so calculate components before adding contributions from multiple charges.",
+      "ja": "電場は正の試験電荷が受ける単位電荷あたりの力です。\n$$\\vec E=\\frac{\\vec F}{q_0}$$\n点電荷 $q$ が作る電場は $\\vec E=kq\\hat r/r^2$ です。電場はベクトルとして加え合わせます。"
+    },
+    "tags": [
+      "electric-field",
+      "coulomb-law",
+      "superposition"
+    ],
+    "relatedProblems": [
+      "physics-c-em-p001"
+    ]
+  },
+  {
+    "id": "physics-c-em-gauss-001",
+    "course": "ap-physics-c-em",
+    "unit": "electric-charges-fields-gauss-law",
+    "topic": "gauss-law",
+    "title": {
+      "en": "Gauss's Law and Symmetry",
+      "ja": "ガウスの法則と対称性"
+    },
+    "description": {
+      "en": "Use symmetry to relate electric flux and enclosed charge.",
+      "ja": "対称性を用いて電気フラックスと内部電荷を関係づけます。"
+    },
+    "content": {
+      "en": "Gauss's law states\n$$\\oint \\vec E\\cdot d\\vec A=\\frac{Q_{enc}}{\\varepsilon_0}.$$\nIt is most useful when symmetry makes the field magnitude constant on a Gaussian surface and fixes its direction relative to $d\\vec A$.",
+      "ja": "ガウスの法則は\n$$\\oint \\vec E\\cdot d\\vec A=\\frac{Q_{enc}}{\\varepsilon_0}$$\nです。対称性によりガウス面上で電場の大きさが一定となり、$d\\vec A$ との方向関係が決まるとき特に有効です。"
+    },
+    "tags": [
+      "gauss-law",
+      "flux",
+      "symmetry"
+    ],
+    "relatedProblems": [
+      "physics-c-em-p002"
+    ]
+  }
+]

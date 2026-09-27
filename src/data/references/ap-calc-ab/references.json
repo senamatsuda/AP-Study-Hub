@@ -1,0 +1,54 @@
+[
+  {
+    "id": "calc-ab-chain-rule-001",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "chain-rule",
+    "title": {
+      "en": "The Chain Rule",
+      "ja": "合成関数の微分"
+    },
+    "description": {
+      "en": "Differentiate a composition from the outside in.",
+      "ja": "合成関数を外側から順に微分します。"
+    },
+    "content": {
+      "en": "If $y=f(g(x))$, then\n$$\\frac{dy}{dx}=f'(g(x))g'(x).$$\nDifferentiate the outer function while keeping the inner expression, then multiply by the derivative of the inner function.",
+      "ja": "$y=f(g(x))$ なら\n$$\\frac{dy}{dx}=f'(g(x))g'(x)$$\nです。内側の式を保ったまま外側を微分し、内側の微分を掛けます。"
+    },
+    "tags": [
+      "derivative",
+      "chain-rule",
+      "composition"
+    ],
+    "relatedProblems": [
+      "calc-ab-p001"
+    ]
+  },
+  {
+    "id": "calc-ab-implicit-001",
+    "course": "ap-calc-ab",
+    "unit": "differentiation-composite-implicit-inverse",
+    "topic": "implicit-differentiation",
+    "title": {
+      "en": "Implicit Differentiation",
+      "ja": "陰関数微分"
+    },
+    "description": {
+      "en": "Differentiate relations where $y$ is not isolated.",
+      "ja": "$y$ が明示的に解かれていない関係を微分します。"
+    },
+    "content": {
+      "en": "Differentiate both sides with respect to $x$. Every derivative of a term containing $y$ must include $dy/dx$ by the chain rule. Collect those terms and solve for $dy/dx$.",
+      "ja": "両辺を $x$ で微分します。$y$ を含む項を微分するときは、合成関数の微分により $dy/dx$ を掛けます。最後に $dy/dx$ の項をまとめて解きます。"
+    },
+    "tags": [
+      "derivative",
+      "implicit",
+      "slope"
+    ],
+    "relatedProblems": [
+      "calc-ab-p002"
+    ]
+  }
+]

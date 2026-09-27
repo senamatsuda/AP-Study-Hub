@@ -1,0 +1,74 @@
+[
+  {
+    "id": "physics-1-p001",
+    "course": "ap-physics-1",
+    "unit": "force-translational-dynamics",
+    "topic": "newtons-second-law",
+    "title": {
+      "en": "Two Horizontal Forces",
+      "ja": "2つの水平力"
+    },
+    "difficulty": 2,
+    "questionType": "multiple-choice",
+    "question": {
+      "en": "A $4.0$ kg cart experiences a $14$ N force to the right and a $6$ N force to the left. What is its acceleration?",
+      "ja": "$4.0$ kg の台車に右向き $14$ N、左向き $6$ N の力が作用します。加速度はどれですか。"
+    },
+    "choices": [
+      {
+        "en": "$0.5$ m/s² left",
+        "ja": "左向き $0.5$ m/s²"
+      },
+      {
+        "en": "$2.0$ m/s² right",
+        "ja": "右向き $2.0$ m/s²"
+      },
+      {
+        "en": "$3.5$ m/s² right",
+        "ja": "右向き $3.5$ m/s²"
+      },
+      {
+        "en": "$5.0$ m/s² right",
+        "ja": "右向き $5.0$ m/s²"
+      }
+    ],
+    "solution": {
+      "en": "The net force is $14-6=8$ N right. Therefore $a=F_{net}/m=8/4=2.0$ m/s² right. The correct choice is B.",
+      "ja": "合力は右向きに $14-6=8$ Nです。よって $a=F_{net}/m=8/4=2.0$ m/s²。正解はBです。"
+    },
+    "tags": [
+      "newtons-second-law",
+      "net-force"
+    ],
+    "relatedReferences": [
+      "physics-1-newton-001"
+    ]
+  },
+  {
+    "id": "physics-1-p002",
+    "course": "ap-physics-1",
+    "unit": "force-translational-dynamics",
+    "topic": "kinetic-static-friction",
+    "title": {
+      "en": "Will the Crate Move?",
+      "ja": "木箱は動くか"
+    },
+    "difficulty": 3,
+    "questionType": "conceptual",
+    "question": {
+      "en": "A $10$ kg crate rests on a level floor with $\\mu_s=0.40$. A student pushes horizontally with $30$ N. Take $g=10$ m/s². Does the crate move? Explain.",
+      "ja": "$10$ kg の木箱が水平な床にあり、$\\mu_s=0.40$ です。生徒が水平に $30$ N で押します。$g=10$ m/s² として、木箱は動きますか。"
+    },
+    "solution": {
+      "en": "$N=mg=100$ N, so the maximum static friction is $\\mu_sN=40$ N. The required $30$ N is below this maximum, so static friction becomes $30$ N and the crate does not move.",
+      "ja": "$N=mg=100$ N なので、最大静止摩擦力は $\\mu_sN=40$ Nです。必要な $30$ N はこれより小さいため、静止摩擦力が $30$ N となり木箱は動きません。"
+    },
+    "tags": [
+      "static-friction",
+      "normal-force"
+    ],
+    "relatedReferences": [
+      "physics-1-friction-001"
+    ]
+  }
+]
